@@ -1,8 +1,8 @@
 """End-to-end smoke test: onboarding -> placement -> a full solo session -> reward -> parent dashboard.
 Run via: python <skill>/scripts/with_server.py --server "npx vite preview --port 4173 --strictPort" --port 4173 -- python tests/e2e_smoke.py
 """
-import json, os, sys, time
-from playwright.sync_api import sync_playwright
+import json, os, re, sys, time
+from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 URL = os.environ.get('RQ_URL', 'http://localhost:4173/')
 SHOTS = os.path.join(os.path.dirname(__file__), 'shots')
@@ -168,17 +168,39 @@ with sync_playwright() as p:
     page.fill('.name-input', 'Bloop')
     page.click("button:has-text('Done')")
 
-    page.wait_for_selector("text=quick sound check", timeout=15000)
+    page.wait_for_selector("text=Before the first quest", timeout=15000)
     shot(page, '03-placement-intro')
-    page.click("button:has-text('Start')")
-    known = 14
-    for i in range(40):
-        if page.locator("text=Can she blend").count():
-            break
-        page.click("button:has-text('Said the sound')" if i < known else "button:has-text('Not yet')")
-    page.wait_for_selector("text=Can she blend", timeout=10000)
-    page.click("button:has-text('Yes')")
+    if os.environ.get('RQ_PLACEMENT') == 'quick':
+        page.click("button:has-text('Quick start')")
+        page.wait_for_selector('.qs-grid', timeout=5000)
+        for s in (1, 2, 3):
+            page.click(f".qs-set:has-text('Set {s}')")
+        page.locator('.qs-letter', has_text=re.compile(r'^e$')).click()
+        page.locator('.qs-letter', has_text=re.compile(r'^u$')).click()
+        shot(page, '03b-quickstart')
+        assert page.locator('.qs-letter.sel').count() == 14, 'quick start selection count'
+        page.click("button:has-text('Next')")
+    else:
+        page.click("button:has-text('Sound Show')")
+        page.wait_for_selector('.sign', timeout=5000)
+        known = 14
+        for i in range(40):
+            if page.locator("text=can she blend").count():
+                break
+            if i == 3:
+                shot(page, '03b-soundshow')
+            btn = page.locator("button:has-text('She said it')" if i < known else "button:has-text('Not yet')")
+            try:
+                btn.first.click(timeout=8000)
+            except PWTimeout:
+                continue
+    page.wait_for_selector("text=can she blend", timeout=20000)
+    page.click("button:has-text('Yes, she can')")
     page.wait_for_selector("text=Play by myself", timeout=15000)
+    prof0 = json.loads(page.evaluate('JSON.stringify(window.rq.profile)'))
+    ready0 = sorted(k for k, v in prof0['gpc'].items() if v['intro'] and v['p'] >= 0.8)
+    print('placement ->', len(ready0), 'known:', ' '.join(ready0))
+    assert len(ready0) == 14, f'placement should seed 14 known sounds, got {len(ready0)}'
     shot(page, '04-home')
 
     if os.environ.get('RQ_COPLAY'):

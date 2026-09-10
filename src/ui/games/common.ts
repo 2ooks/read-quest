@@ -28,6 +28,8 @@ export interface GameCtx {
   profile: Profile;
   /** Called when the child needs to move on (e.g. Next button). */
   setPrompt(text: string): void;
+  /** Make the monster react. */
+  react(mood: 'yes' | 'hmm' | 'party'): void;
 }
 
 export const PRAISE: PhraseId[] = ['yes', 'great', 'thats_it', 'brilliant', 'you_did_it'];
@@ -116,6 +118,7 @@ export async function choiceRound<T extends HTMLButtonElement>(o: ChoiceOpts<T>)
       el.classList.remove('hint');
       el.classList.add('right', 'pop');
       ctx.audio.tone('yes');
+      ctx.react('yes');
       sparkleAt(el);
       for (const t of o.tiles) if (t.el !== el) t.el.classList.add('dim');
       await o.confirm();
@@ -127,6 +130,7 @@ export async function choiceRound<T extends HTMLButtonElement>(o: ChoiceOpts<T>)
     }
     // miss
     ctx.audio.tone('no');
+    ctx.react('hmm');
     el.classList.add('wobble');
     await wait(450);
     el.classList.remove('wobble');

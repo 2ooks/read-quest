@@ -6802,5 +6802,17 @@
   "kind": "phrase",
   "text": "Hello! Ready to play?",
   "ssml": "<prosody rate='-6%'>Hello! Ready to play?</prosody>"
+ },
+ {
+  "id": "p_lets_see_sounds",
+  "kind": "phrase",
+  "text": "Let's see which sounds you know! Say the sound when you see the letter.",
+  "ssml": "<prosody rate='-6%'>Let&apos;s see which sounds you know! Say the sound when you see the letter.</prosody>"
+ },
+ {
+  "id": "p_great_now_play",
+  "kind": "phrase",
+  "text": "Great job! Now let's go and play!",
+  "ssml": "<prosody rate='-6%'>Great job! Now let&apos;s go and play!</prosody>"
  }
 ]

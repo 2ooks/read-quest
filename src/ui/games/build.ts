@@ -69,6 +69,7 @@ export async function wordBuilder(item: Extract<Item, { kind: 'build' }>, ctx: G
       if (!wrong.length) {
         slots.forEach((s) => s.classList.add('right'));
         ctx.audio.tone('yes');
+        ctx.react('yes');
         sparkleAt(slotRow);
         await ctx.audio.blend(item.word, target);
         await wait(100);
@@ -87,6 +88,7 @@ export async function wordBuilder(item: Extract<Item, { kind: 'build' }>, ctx: G
         return;
       }
       ctx.audio.tone('no');
+      ctx.react('hmm');
       wrong.forEach((i) => slots[i].classList.add('bad', 'wobble'));
       await wait(700);
       wrong.forEach((i) => {

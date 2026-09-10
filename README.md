@@ -16,7 +16,9 @@ On the iPad: open the link in Safari, tap the Share button → **Add to Home Scr
 
 1. **Tap to start** — the first tap unlocks audio.
 2. **Make your monster** — she does this bit.
-3. **Sound check** — show each letter, ask *"what sound does this make?"*, tap ✓ if she says the *sound* (not the letter name). This seeds the model so the game starts where she is.
+3. **Before the first quest** — the game needs to know which sounds she already knows, so it can start where she is. Pick one:
+   - **Sound Show** (~2 min, together): her monster holds up a letter, she says the sound, you tap ✓ or ✗. The monster reacts every time and says the sound too. It stops by itself after four misses in a row, so she only sees the letters around her frontier.
+   - **Quick start** (30 s, no child needed): tick the sounds she knows. The game double-checks as she plays.
 4. **Record your voice** (recommended) — hold the ⚙️ gear for a second → **Your voice** → hold each button and say the sound. Pure sounds: stretch the continuous ones (*mmmm*, *ssss*), clip the stop sounds (*t*, *p*, *k* — no "uh"). The built-in voice is a computer voice and it's fine, but a familiar voice saying clean sounds is better, and the research on screen-based reading games is blunt: the adult is the ingredient that makes them work.
 
 Then: **Play with a grown-up** whenever you can sit with her (it adds *Read to me*, where she reads aloud and you tap ✓). **Play by myself** for the rest.

@@ -73,6 +73,7 @@ export async function readToMe(item: Extract<Item, { kind: 'read' }>, ctx: GameC
 
   if (outcome === 'yes') {
     ctx.audio.tone('yes');
+    ctx.react(allGood ? 'party' : 'yes');
     sparkleAt(display);
     if (emoji) { reveal.style.opacity = '1'; reveal.classList.add('pop'); }
     for (const [w, ok] of Object.entries(words)) if (!ok) wordEls[w]?.classList.add('hard');

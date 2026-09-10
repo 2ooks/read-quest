@@ -232,7 +232,7 @@ function settingsTab(app: App): HTMLElement {
     h('div', { class: 'field' }, h('label', {}, 'Furthest sound set to introduce automatically'), maxSet),
     h('p', { class: 'muted' }, 'The game targets roughly 80–85% success by choosing which letters appear as distractors — never by changing whether an answer counts. Sets follow the UK Letters and Sounds order (the same one Teach Your Monster uses): 1 s a t p · 2 i n m d · 3 g o c k · 4 ck e u r · 5 h b f ff l ll ss · 6 j v w x y z zz qu · 7 ch sh th ng · 8 ai ee igh oa oo · 9 ar or ur ow oi · 10 ear air er.'),
     h('div', { class: 'setname' }, 'Placement'),
-    h('div', { class: 'row' }, h('button', { class: 'btn ghost small', type: 'button', onclick: () => app.go('placement') }, 'Redo the sound check'), h('span', { class: 'muted' }, 'Re-seeds which sounds she already knows.')),
+    h('div', { class: 'row' }, h('button', { class: 'btn ghost small', type: 'button', onclick: () => app.go('placement') }, 'Redo the Sound Show / quick start'), h('span', { class: 'muted' }, 'Re-seeds which sounds she already knows (her progress since is overwritten).')),
   );
   return wrap;
 }

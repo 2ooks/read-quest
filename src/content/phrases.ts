@@ -35,6 +35,8 @@ export const PHRASES = {
   one_more: 'One more!',
   lets_go: "Let's go!",
   hello: 'Hello! Ready to play?',
+  lets_see_sounds: "Let's see which sounds you know! Say the sound when you see the letter.",
+  great_now_play: "Great job! Now let's go and play!",
 } as const;
 
 export type PhraseId = keyof typeof PHRASES;

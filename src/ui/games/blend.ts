@@ -87,6 +87,7 @@ export async function blendReveal(item: Extract<Item, { kind: 'blend' }>, ctx: G
   reveal.classList.add('pop');
   sparkleAt(reveal);
   ctx.audio.tone('yes');
+  ctx.react('party');
   await wait(600);
   await waitNext(ctx, 7000);
   speaker.remove();

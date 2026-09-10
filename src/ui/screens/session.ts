@@ -10,6 +10,7 @@ import { introduceGpc, introduceTricky, log, recordGpc, recordTricky, recordWord
 import { clipIdForBlend, clipIdForSound, clipIdForWord } from '../../audio/clips.ts';
 import { h, holdButton, clear } from '../dom.ts';
 import { monsterSvg } from '../monster.ts';
+import { mood } from './placement.ts';
 import { blendReveal, introSound } from '../games/blend.ts';
 import { wordBuilder } from '../games/build.ts';
 import { firstSound, soundHunt, trickyWord, wordMatch } from '../games/choice.ts';
@@ -29,7 +30,8 @@ export function sessionScreen(app: App, params: Record<string, unknown>): HTMLEl
   const dots = Array.from({ length: ctx.total }, () => h('span', { class: 'dot' }));
   const progress = h('div', { class: 'progress' }, dots);
   const prompt = h('div', { class: 'prompt' });
-  const mini = h('div', { class: 'monster-wrap small', html: monsterSvg(profile.monster) });
+  const mini = h('div', { class: 'monster-wrap small bob', html: monsterSvg(profile.monster) });
+  mini.addEventListener('pointerdown', () => { mood(mini, 'happy'); });
   const exit = holdButton('✕', () => { cancelled = true; app.go('home'); }, 'Stop (hold)');
   el.append(h('div', { class: 'topbar' }, mini, h('div', { class: 'grow' }, progress), exit), prompt);
   const stage = h('div', { class: 'stage', style: { position: 'relative' } });
@@ -40,6 +42,7 @@ export function sessionScreen(app: App, params: Record<string, unknown>): HTMLEl
     audio: app.audio,
     profile,
     setPrompt: (t) => { prompt.textContent = t; },
+    react: (m) => mood(mini, m === 'yes' ? 'happy' : m === 'hmm' ? 'shrug' : 'dance', m === 'party' ? 2500 : 1200),
   };
 
   async function run(): Promise<void> {
