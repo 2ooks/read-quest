@@ -93,7 +93,11 @@ export async function choiceRound<T extends HTMLButtonElement>(o: ChoiceOpts<T>)
   const { ctx } = o;
   const speaker = speakerButton(() => { void o.replay(); });
   ctx.stage.appendChild(speaker);
+  // Tiles look "asleep" until the prompt has been heard.
+  const choiceBox = o.tiles[0]?.el.parentElement;
+  choiceBox?.classList.add('waiting');
   await o.prompt();
+  choiceBox?.classList.remove('waiting');
   let start = performance.now();
   let attempts = 0;
   let firstMs = 0;

@@ -135,10 +135,14 @@ def play_item(page, sig):
         return
 
     if kind == 'read':
-        page.locator("button:has-text('She read it!')").wait_for(timeout=20000)
-        if still(page, sig):
-            page.locator("button:has-text('She read it!')").click()
-            log_click('read-yes')
+        for attempt in range(20):
+            if not still(page, sig):
+                return
+            btn = page.locator("button:has-text('She read it!')")
+            if btn.count():
+                btn.first.click(force=True)
+                log_click('read-yes')
+            page.wait_for_timeout(700)
         return
 
     raise AssertionError(f'unknown kind {kind}')
@@ -177,7 +181,11 @@ with sync_playwright() as p:
     page.wait_for_selector("text=Play by myself", timeout=15000)
     shot(page, '04-home')
 
-    page.click("text=Play by myself")
+    if os.environ.get('RQ_COPLAY'):
+        page.evaluate('window.rq.profile.settings.sessionItems = 14')
+        page.click("text=Play with a grown-up")
+    else:
+        page.click("text=Play by myself")
     page.wait_for_function('window.__rq && window.__rq.item', timeout=20000)
     kinds = []
     t0 = time.time()

@@ -123,7 +123,8 @@ p { font-size: clamp(16px, 2.6vmin, 22px); line-height: 1.4; margin: 0 0 10px; c
 .progress .dot.now { background: var(--purple-2); transform: scale(1.35); }
 
 /* ---------- tiles ---------- */
-.choices { display: flex; gap: clamp(12px, 3vmin, 32px); flex-wrap: wrap; justify-content: center; align-items: stretch; }
+.choices { display: flex; gap: clamp(12px, 3vmin, 32px); flex-wrap: wrap; justify-content: center; align-items: stretch; transition: opacity 0.3s ease; }
+.choices.waiting { opacity: 0.6; }
 .tile {
   background: var(--tile); border: none; border-radius: var(--radius);
   min-width: clamp(96px, 18vmin, 170px); min-height: clamp(96px, 18vmin, 170px);

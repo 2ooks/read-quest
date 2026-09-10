@@ -38,7 +38,9 @@ export async function readToMe(item: Extract<Item, { kind: 'read' }>, ctx: GameC
   ctx.stage.append(reveal, display);
 
   let hinted = false;
+  // The grown-up may tap before the prompt finishes — arm the buttons first.
   let finish: (how: 'yes' | 'helped') => void = () => undefined;
+  const outcomePromise = new Promise<'yes' | 'helped'>((resolve) => { finish = resolve; });
   const model = async () => {
     hinted = true;
     if (sentence) await ctx.audio.words(item.words);
@@ -57,10 +59,11 @@ export async function readToMe(item: Extract<Item, { kind: 'read' }>, ctx: GameC
   );
   ctx.stage.appendChild(panel);
 
-  await ctx.audio.phrase(sentence ? 'read_sentence' : 'read_to_grownup');
   const start = performance.now();
+  void ctx.audio.phrase(sentence ? 'read_sentence' : 'read_to_grownup');
 
-  const outcome = await new Promise<'yes' | 'helped'>((resolve) => { finish = resolve; });
+  const outcome = await outcomePromise;
+  ctx.audio.stopAll();
   const ms = performance.now() - start;
   panel.remove();
 
