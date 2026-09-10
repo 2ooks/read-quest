@@ -1,0 +1,40 @@
+// Spoken instruction phrases. Each has a stable id used for the audio clip.
+// Kept short and warm — every one can be re-recorded by the parent.
+
+export const PHRASES = {
+  tap_to_start: 'Tap to start!',
+  what_sound: 'What sound is this?',
+  tap_the_sound: 'Tap the letter that makes this sound.',
+  listen: 'Listen.',
+  listen_again: 'Listen again.',
+  which_starts: 'Which picture starts with this sound?',
+  build_word: "Let's build the word.",
+  tap_letters_in_order: 'Tap the letters in order, then say it fast!',
+  say_it_fast: 'Say it fast!',
+  read_to_grownup: 'Read this to your grown-up.',
+  read_sentence: 'Read the sentence to your grown-up.',
+  find_word: 'Find the word.',
+  find_tricky: 'Find the tricky word.',
+  new_sound: "Here's a new sound!",
+  say_it_with_me: 'Say it with me.',
+  yes: 'Yes!',
+  thats_it: "That's it!",
+  great: 'Great!',
+  brilliant: 'Brilliant!',
+  nice_reading: 'Nice reading!',
+  you_did_it: 'You did it!',
+  lets_try_together: "Let's try it together.",
+  my_turn: 'My turn.',
+  your_turn: 'Your turn.',
+  this_one: 'This one.',
+  all_done: 'All done! Great reading today!',
+  new_thing: 'You found something new for your monster!',
+  heart_word: 'This is a heart word. The heart part we just have to remember.',
+  the_word_is: 'The word is',
+  spell_it: 'Can you spell',
+  one_more: 'One more!',
+  lets_go: "Let's go!",
+  hello: 'Hello! Ready to play?',
+} as const;
+
+export type PhraseId = keyof typeof PHRASES;

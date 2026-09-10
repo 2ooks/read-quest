@@ -1,0 +1,6806 @@
+[
+ {
+  "id": "s_s",
+  "kind": "sound",
+  "text": "s",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='s'>s</phoneme></prosody>"
+ },
+ {
+  "id": "s_a",
+  "kind": "sound",
+  "text": "a",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='ae'>a</phoneme></prosody>"
+ },
+ {
+  "id": "s_t",
+  "kind": "sound",
+  "text": "t",
+  "ssml": "<phoneme alphabet='x-microsoft-sapi' ph='t'>t</phoneme>"
+ },
+ {
+  "id": "s_p",
+  "kind": "sound",
+  "text": "p",
+  "ssml": "<phoneme alphabet='x-microsoft-sapi' ph='p'>p</phoneme>"
+ },
+ {
+  "id": "s_i",
+  "kind": "sound",
+  "text": "i",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='ih'>i</phoneme></prosody>"
+ },
+ {
+  "id": "s_n",
+  "kind": "sound",
+  "text": "n",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='n'>n</phoneme></prosody>"
+ },
+ {
+  "id": "s_m",
+  "kind": "sound",
+  "text": "m",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='m'>m</phoneme></prosody>"
+ },
+ {
+  "id": "s_d",
+  "kind": "sound",
+  "text": "d",
+  "ssml": "<prosody rate='+100%'><phoneme alphabet='x-microsoft-sapi' ph='d ax'>d</phoneme></prosody>"
+ },
+ {
+  "id": "s_g",
+  "kind": "sound",
+  "text": "g",
+  "ssml": "<prosody rate='+100%'><phoneme alphabet='x-microsoft-sapi' ph='g ax'>g</phoneme></prosody>"
+ },
+ {
+  "id": "s_o",
+  "kind": "sound",
+  "text": "o",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='aa'>o</phoneme></prosody>"
+ },
+ {
+  "id": "s_c",
+  "kind": "sound",
+  "text": "c",
+  "ssml": "<phoneme alphabet='x-microsoft-sapi' ph='k'>c</phoneme>"
+ },
+ {
+  "id": "s_k",
+  "kind": "sound",
+  "text": "k",
+  "ssml": "<phoneme alphabet='x-microsoft-sapi' ph='k'>k</phoneme>"
+ },
+ {
+  "id": "s_ck",
+  "kind": "sound",
+  "text": "ck",
+  "ssml": "<phoneme alphabet='x-microsoft-sapi' ph='k'>ck</phoneme>"
+ },
+ {
+  "id": "s_e",
+  "kind": "sound",
+  "text": "e",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='eh'>e</phoneme></prosody>"
+ },
+ {
+  "id": "s_u",
+  "kind": "sound",
+  "text": "u",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='ah'>u</phoneme></prosody>"
+ },
+ {
+  "id": "s_r",
+  "kind": "sound",
+  "text": "r",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='r'>r</phoneme></prosody>"
+ },
+ {
+  "id": "s_h",
+  "kind": "sound",
+  "text": "h",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='h'>h</phoneme></prosody>"
+ },
+ {
+  "id": "s_b",
+  "kind": "sound",
+  "text": "b",
+  "ssml": "<prosody rate='+100%'><phoneme alphabet='x-microsoft-sapi' ph='b ax'>b</phoneme></prosody>"
+ },
+ {
+  "id": "s_f",
+  "kind": "sound",
+  "text": "f",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='f'>f</phoneme></prosody>"
+ },
+ {
+  "id": "s_ff",
+  "kind": "sound",
+  "text": "ff",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='f'>ff</phoneme></prosody>"
+ },
+ {
+  "id": "s_l",
+  "kind": "sound",
+  "text": "l",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='l'>l</phoneme></prosody>"
+ },
+ {
+  "id": "s_ll",
+  "kind": "sound",
+  "text": "ll",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='l'>ll</phoneme></prosody>"
+ },
+ {
+  "id": "s_ss",
+  "kind": "sound",
+  "text": "ss",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='s'>ss</phoneme></prosody>"
+ },
+ {
+  "id": "s_j",
+  "kind": "sound",
+  "text": "j",
+  "ssml": "<phoneme alphabet='x-microsoft-sapi' ph='jh'>j</phoneme>"
+ },
+ {
+  "id": "s_v",
+  "kind": "sound",
+  "text": "v",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='v'>v</phoneme></prosody>"
+ },
+ {
+  "id": "s_w",
+  "kind": "sound",
+  "text": "w",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='w'>w</phoneme></prosody>"
+ },
+ {
+  "id": "s_x",
+  "kind": "sound",
+  "text": "x",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='k s'>x</phoneme></prosody>"
+ },
+ {
+  "id": "s_y",
+  "kind": "sound",
+  "text": "y",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='y'>y</phoneme></prosody>"
+ },
+ {
+  "id": "s_z",
+  "kind": "sound",
+  "text": "z",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='z'>z</phoneme></prosody>"
+ },
+ {
+  "id": "s_zz",
+  "kind": "sound",
+  "text": "zz",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='z'>zz</phoneme></prosody>"
+ },
+ {
+  "id": "s_qu",
+  "kind": "sound",
+  "text": "qu",
+  "ssml": "<prosody rate='-20%'><phoneme alphabet='x-microsoft-sapi' ph='k w'>qu</phoneme></prosody>"
+ },
+ {
+  "id": "s_ch",
+  "kind": "sound",
+  "text": "ch",
+  "ssml": "<prosody rate='-20%'><phoneme alphabet='x-microsoft-sapi' ph='ch'>ch</phoneme></prosody>"
+ },
+ {
+  "id": "s_sh",
+  "kind": "sound",
+  "text": "sh",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='sh'>sh</phoneme></prosody>"
+ },
+ {
+  "id": "s_th",
+  "kind": "sound",
+  "text": "th",
+  "ssml": "<prosody rate='-70%'><phoneme alphabet='x-microsoft-sapi' ph='th'>th</phoneme></prosody>"
+ },
+ {
+  "id": "s_ng",
+  "kind": "sound",
+  "text": "ng",
+  "ssml": "<prosody rate='-60%'><phoneme alphabet='x-microsoft-sapi' ph='ng'>ng</phoneme></prosody>"
+ },
+ {
+  "id": "s_ai",
+  "kind": "sound",
+  "text": "ai",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='ey'>ai</phoneme></prosody>"
+ },
+ {
+  "id": "s_ee",
+  "kind": "sound",
+  "text": "ee",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='iy'>ee</phoneme></prosody>"
+ },
+ {
+  "id": "s_igh",
+  "kind": "sound",
+  "text": "igh",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='ay'>igh</phoneme></prosody>"
+ },
+ {
+  "id": "s_oa",
+  "kind": "sound",
+  "text": "oa",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='ow'>oa</phoneme></prosody>"
+ },
+ {
+  "id": "s_oo",
+  "kind": "sound",
+  "text": "oo",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='uw'>oo</phoneme></prosody>"
+ },
+ {
+  "id": "s_ar",
+  "kind": "sound",
+  "text": "ar",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='aa r'>ar</phoneme></prosody>"
+ },
+ {
+  "id": "s_or",
+  "kind": "sound",
+  "text": "or",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='ao r'>or</phoneme></prosody>"
+ },
+ {
+  "id": "s_ur",
+  "kind": "sound",
+  "text": "ur",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='er'>ur</phoneme></prosody>"
+ },
+ {
+  "id": "s_ow",
+  "kind": "sound",
+  "text": "ow",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='aw'>ow</phoneme></prosody>"
+ },
+ {
+  "id": "s_oi",
+  "kind": "sound",
+  "text": "oi",
+  "ssml": "<prosody rate='-40%'><phoneme alphabet='x-microsoft-sapi' ph='oy'>oi</phoneme></prosody>"
+ },
+ {
+  "id": "s_ear",
+  "kind": "sound",
+  "text": "ear",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='ih r'>ear</phoneme></prosody>"
+ },
+ {
+  "id": "s_air",
+  "kind": "sound",
+  "text": "air",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='eh r'>air</phoneme></prosody>"
+ },
+ {
+  "id": "s_er",
+  "kind": "sound",
+  "text": "er",
+  "ssml": "<prosody rate='-30%'><phoneme alphabet='x-microsoft-sapi' ph='er'>er</phoneme></prosody>"
+ },
+ {
+  "id": "w_sat",
+  "kind": "word",
+  "text": "sat",
+  "ssml": "<prosody rate='-12%'>sat</prosody>"
+ },
+ {
+  "id": "w_tap",
+  "kind": "word",
+  "text": "tap",
+  "ssml": "<prosody rate='-12%'>tap</prosody>"
+ },
+ {
+  "id": "w_pat",
+  "kind": "word",
+  "text": "pat",
+  "ssml": "<prosody rate='-12%'>pat</prosody>"
+ },
+ {
+  "id": "w_at",
+  "kind": "word",
+  "text": "at",
+  "ssml": "<prosody rate='-12%'>at</prosody>"
+ },
+ {
+  "id": "w_sap",
+  "kind": "word",
+  "text": "sap",
+  "ssml": "<prosody rate='-12%'>sap</prosody>"
+ },
+ {
+  "id": "w_taps",
+  "kind": "word",
+  "text": "taps",
+  "ssml": "<prosody rate='-12%'>taps</prosody>"
+ },
+ {
+  "id": "w_pats",
+  "kind": "word",
+  "text": "pats",
+  "ssml": "<prosody rate='-12%'>pats</prosody>"
+ },
+ {
+  "id": "w_sit",
+  "kind": "word",
+  "text": "sit",
+  "ssml": "<prosody rate='-12%'>sit</prosody>"
+ },
+ {
+  "id": "w_tin",
+  "kind": "word",
+  "text": "tin",
+  "ssml": "<prosody rate='-12%'>tin</prosody>"
+ },
+ {
+  "id": "w_pin",
+  "kind": "word",
+  "text": "pin",
+  "ssml": "<prosody rate='-12%'>pin</prosody>"
+ },
+ {
+  "id": "w_pit",
+  "kind": "word",
+  "text": "pit",
+  "ssml": "<prosody rate='-12%'>pit</prosody>"
+ },
+ {
+  "id": "w_tip",
+  "kind": "word",
+  "text": "tip",
+  "ssml": "<prosody rate='-12%'>tip</prosody>"
+ },
+ {
+  "id": "w_nip",
+  "kind": "word",
+  "text": "nip",
+  "ssml": "<prosody rate='-12%'>nip</prosody>"
+ },
+ {
+  "id": "w_sip",
+  "kind": "word",
+  "text": "sip",
+  "ssml": "<prosody rate='-12%'>sip</prosody>"
+ },
+ {
+  "id": "w_dip",
+  "kind": "word",
+  "text": "dip",
+  "ssml": "<prosody rate='-12%'>dip</prosody>"
+ },
+ {
+  "id": "w_mat",
+  "kind": "word",
+  "text": "mat",
+  "ssml": "<prosody rate='-12%'>mat</prosody>"
+ },
+ {
+  "id": "w_man",
+  "kind": "word",
+  "text": "man",
+  "ssml": "<prosody rate='-12%'>man</prosody>"
+ },
+ {
+  "id": "w_map",
+  "kind": "word",
+  "text": "map",
+  "ssml": "<prosody rate='-12%'>map</prosody>"
+ },
+ {
+  "id": "w_nap",
+  "kind": "word",
+  "text": "nap",
+  "ssml": "<prosody rate='-12%'>nap</prosody>"
+ },
+ {
+  "id": "w_pan",
+  "kind": "word",
+  "text": "pan",
+  "ssml": "<prosody rate='-12%'>pan</prosody>"
+ },
+ {
+  "id": "w_tan",
+  "kind": "word",
+  "text": "tan",
+  "ssml": "<prosody rate='-12%'>tan</prosody>"
+ },
+ {
+  "id": "w_dad",
+  "kind": "word",
+  "text": "dad",
+  "ssml": "<prosody rate='-12%'>dad</prosody>"
+ },
+ {
+  "id": "w_sad",
+  "kind": "word",
+  "text": "sad",
+  "ssml": "<prosody rate='-12%'>sad</prosody>"
+ },
+ {
+  "id": "w_mad",
+  "kind": "word",
+  "text": "mad",
+  "ssml": "<prosody rate='-12%'>mad</prosody>"
+ },
+ {
+  "id": "w_dim",
+  "kind": "word",
+  "text": "dim",
+  "ssml": "<prosody rate='-12%'>dim</prosody>"
+ },
+ {
+  "id": "w_did",
+  "kind": "word",
+  "text": "did",
+  "ssml": "<prosody rate='-12%'>did</prosody>"
+ },
+ {
+  "id": "w_it",
+  "kind": "word",
+  "text": "it",
+  "ssml": "<prosody rate='-12%'>it</prosody>"
+ },
+ {
+  "id": "w_in",
+  "kind": "word",
+  "text": "in",
+  "ssml": "<prosody rate='-12%'>in</prosody>"
+ },
+ {
+  "id": "w_an",
+  "kind": "word",
+  "text": "an",
+  "ssml": "<prosody rate='-12%'>an</prosody>"
+ },
+ {
+  "id": "w_am",
+  "kind": "word",
+  "text": "am",
+  "ssml": "<prosody rate='-12%'>am</prosody>"
+ },
+ {
+  "id": "w_and",
+  "kind": "word",
+  "text": "and",
+  "ssml": "<prosody rate='-12%'>and</prosody>"
+ },
+ {
+  "id": "w_pad",
+  "kind": "word",
+  "text": "pad",
+  "ssml": "<prosody rate='-12%'>pad</prosody>"
+ },
+ {
+  "id": "w_sam",
+  "kind": "word",
+  "text": "Sam",
+  "ssml": "<prosody rate='-12%'>Sam</prosody>"
+ },
+ {
+  "id": "w_tim",
+  "kind": "word",
+  "text": "Tim",
+  "ssml": "<prosody rate='-12%'>Tim</prosody>"
+ },
+ {
+  "id": "w_pam",
+  "kind": "word",
+  "text": "Pam",
+  "ssml": "<prosody rate='-12%'>Pam</prosody>"
+ },
+ {
+  "id": "w_dan",
+  "kind": "word",
+  "text": "Dan",
+  "ssml": "<prosody rate='-12%'>Dan</prosody>"
+ },
+ {
+  "id": "w_ant",
+  "kind": "word",
+  "text": "ant",
+  "ssml": "<prosody rate='-12%'>ant</prosody>"
+ },
+ {
+  "id": "w_tins",
+  "kind": "word",
+  "text": "tins",
+  "ssml": "<prosody rate='-12%'>tins</prosody>"
+ },
+ {
+  "id": "w_naps",
+  "kind": "word",
+  "text": "naps",
+  "ssml": "<prosody rate='-12%'>naps</prosody>"
+ },
+ {
+  "id": "w_got",
+  "kind": "word",
+  "text": "got",
+  "ssml": "<prosody rate='-12%'>got</prosody>"
+ },
+ {
+  "id": "w_dog",
+  "kind": "word",
+  "text": "dog",
+  "ssml": "<prosody rate='-12%'>dog</prosody>"
+ },
+ {
+  "id": "w_cot",
+  "kind": "word",
+  "text": "cot",
+  "ssml": "<prosody rate='-12%'>cot</prosody>"
+ },
+ {
+  "id": "w_cop",
+  "kind": "word",
+  "text": "cop",
+  "ssml": "<prosody rate='-12%'>cop</prosody>"
+ },
+ {
+  "id": "w_top",
+  "kind": "word",
+  "text": "top",
+  "ssml": "<prosody rate='-12%'>top</prosody>"
+ },
+ {
+  "id": "w_pot",
+  "kind": "word",
+  "text": "pot",
+  "ssml": "<prosody rate='-12%'>pot</prosody>"
+ },
+ {
+  "id": "w_mop",
+  "kind": "word",
+  "text": "mop",
+  "ssml": "<prosody rate='-12%'>mop</prosody>"
+ },
+ {
+  "id": "w_pop",
+  "kind": "word",
+  "text": "pop",
+  "ssml": "<prosody rate='-12%'>pop</prosody>"
+ },
+ {
+  "id": "w_cat",
+  "kind": "word",
+  "text": "cat",
+  "ssml": "<prosody rate='-12%'>cat</prosody>"
+ },
+ {
+  "id": "w_can",
+  "kind": "word",
+  "text": "can",
+  "ssml": "<prosody rate='-12%'>can</prosody>"
+ },
+ {
+  "id": "w_cap",
+  "kind": "word",
+  "text": "cap",
+  "ssml": "<prosody rate='-12%'>cap</prosody>"
+ },
+ {
+  "id": "w_kid",
+  "kind": "word",
+  "text": "kid",
+  "ssml": "<prosody rate='-12%'>kid</prosody>"
+ },
+ {
+  "id": "w_kit",
+  "kind": "word",
+  "text": "kit",
+  "ssml": "<prosody rate='-12%'>kit</prosody>"
+ },
+ {
+  "id": "w_gap",
+  "kind": "word",
+  "text": "gap",
+  "ssml": "<prosody rate='-12%'>gap</prosody>"
+ },
+ {
+  "id": "w_gas",
+  "kind": "word",
+  "text": "gas",
+  "ssml": "<prosody rate='-12%'>gas</prosody>"
+ },
+ {
+  "id": "w_dig",
+  "kind": "word",
+  "text": "dig",
+  "ssml": "<prosody rate='-12%'>dig</prosody>"
+ },
+ {
+  "id": "w_pig",
+  "kind": "word",
+  "text": "pig",
+  "ssml": "<prosody rate='-12%'>pig</prosody>"
+ },
+ {
+  "id": "w_not",
+  "kind": "word",
+  "text": "not",
+  "ssml": "<prosody rate='-12%'>not</prosody>"
+ },
+ {
+  "id": "w_dot",
+  "kind": "word",
+  "text": "dot",
+  "ssml": "<prosody rate='-12%'>dot</prosody>"
+ },
+ {
+  "id": "w_on",
+  "kind": "word",
+  "text": "on",
+  "ssml": "<prosody rate='-12%'>on</prosody>"
+ },
+ {
+  "id": "w_cod",
+  "kind": "word",
+  "text": "cod",
+  "ssml": "<prosody rate='-12%'>cod</prosody>"
+ },
+ {
+  "id": "w_nod",
+  "kind": "word",
+  "text": "nod",
+  "ssml": "<prosody rate='-12%'>nod</prosody>"
+ },
+ {
+  "id": "w_mom",
+  "kind": "word",
+  "text": "mom",
+  "ssml": "<prosody rate='-12%'>mom</prosody>"
+ },
+ {
+  "id": "w_kim",
+  "kind": "word",
+  "text": "Kim",
+  "ssml": "<prosody rate='-12%'>Kim</prosody>"
+ },
+ {
+  "id": "w_tom",
+  "kind": "word",
+  "text": "Tom",
+  "ssml": "<prosody rate='-12%'>Tom</prosody>"
+ },
+ {
+  "id": "w_dogs",
+  "kind": "word",
+  "text": "dogs",
+  "ssml": "<prosody rate='-12%'>dogs</prosody>"
+ },
+ {
+  "id": "w_cats",
+  "kind": "word",
+  "text": "cats",
+  "ssml": "<prosody rate='-12%'>cats</prosody>"
+ },
+ {
+  "id": "w_pigs",
+  "kind": "word",
+  "text": "pigs",
+  "ssml": "<prosody rate='-12%'>pigs</prosody>"
+ },
+ {
+  "id": "w_duck",
+  "kind": "word",
+  "text": "duck",
+  "ssml": "<prosody rate='-12%'>duck</prosody>"
+ },
+ {
+  "id": "w_kick",
+  "kind": "word",
+  "text": "kick",
+  "ssml": "<prosody rate='-12%'>kick</prosody>"
+ },
+ {
+  "id": "w_pick",
+  "kind": "word",
+  "text": "pick",
+  "ssml": "<prosody rate='-12%'>pick</prosody>"
+ },
+ {
+  "id": "w_pack",
+  "kind": "word",
+  "text": "pack",
+  "ssml": "<prosody rate='-12%'>pack</prosody>"
+ },
+ {
+  "id": "w_sack",
+  "kind": "word",
+  "text": "sack",
+  "ssml": "<prosody rate='-12%'>sack</prosody>"
+ },
+ {
+  "id": "w_neck",
+  "kind": "word",
+  "text": "neck",
+  "ssml": "<prosody rate='-12%'>neck</prosody>"
+ },
+ {
+  "id": "w_peck",
+  "kind": "word",
+  "text": "peck",
+  "ssml": "<prosody rate='-12%'>peck</prosody>"
+ },
+ {
+  "id": "w_deck",
+  "kind": "word",
+  "text": "deck",
+  "ssml": "<prosody rate='-12%'>deck</prosody>"
+ },
+ {
+  "id": "w_tuck",
+  "kind": "word",
+  "text": "tuck",
+  "ssml": "<prosody rate='-12%'>tuck</prosody>"
+ },
+ {
+  "id": "w_rock",
+  "kind": "word",
+  "text": "rock",
+  "ssml": "<prosody rate='-12%'>rock</prosody>"
+ },
+ {
+  "id": "w_sock",
+  "kind": "word",
+  "text": "sock",
+  "ssml": "<prosody rate='-12%'>sock</prosody>"
+ },
+ {
+  "id": "w_tick",
+  "kind": "word",
+  "text": "tick",
+  "ssml": "<prosody rate='-12%'>tick</prosody>"
+ },
+ {
+  "id": "w_pet",
+  "kind": "word",
+  "text": "pet",
+  "ssml": "<prosody rate='-12%'>pet</prosody>"
+ },
+ {
+  "id": "w_ten",
+  "kind": "word",
+  "text": "ten",
+  "ssml": "<prosody rate='-12%'>ten</prosody>"
+ },
+ {
+  "id": "w_net",
+  "kind": "word",
+  "text": "net",
+  "ssml": "<prosody rate='-12%'>net</prosody>"
+ },
+ {
+  "id": "w_pen",
+  "kind": "word",
+  "text": "pen",
+  "ssml": "<prosody rate='-12%'>pen</prosody>"
+ },
+ {
+  "id": "w_men",
+  "kind": "word",
+  "text": "men",
+  "ssml": "<prosody rate='-12%'>men</prosody>"
+ },
+ {
+  "id": "w_get",
+  "kind": "word",
+  "text": "get",
+  "ssml": "<prosody rate='-12%'>get</prosody>"
+ },
+ {
+  "id": "w_set",
+  "kind": "word",
+  "text": "set",
+  "ssml": "<prosody rate='-12%'>set</prosody>"
+ },
+ {
+  "id": "w_peg",
+  "kind": "word",
+  "text": "peg",
+  "ssml": "<prosody rate='-12%'>peg</prosody>"
+ },
+ {
+  "id": "w_den",
+  "kind": "word",
+  "text": "den",
+  "ssml": "<prosody rate='-12%'>den</prosody>"
+ },
+ {
+  "id": "w_red",
+  "kind": "word",
+  "text": "red",
+  "ssml": "<prosody rate='-12%'>red</prosody>"
+ },
+ {
+  "id": "w_rat",
+  "kind": "word",
+  "text": "rat",
+  "ssml": "<prosody rate='-12%'>rat</prosody>"
+ },
+ {
+  "id": "w_ram",
+  "kind": "word",
+  "text": "ram",
+  "ssml": "<prosody rate='-12%'>ram</prosody>"
+ },
+ {
+  "id": "w_rip",
+  "kind": "word",
+  "text": "rip",
+  "ssml": "<prosody rate='-12%'>rip</prosody>"
+ },
+ {
+  "id": "w_rod",
+  "kind": "word",
+  "text": "rod",
+  "ssml": "<prosody rate='-12%'>rod</prosody>"
+ },
+ {
+  "id": "w_rug",
+  "kind": "word",
+  "text": "rug",
+  "ssml": "<prosody rate='-12%'>rug</prosody>"
+ },
+ {
+  "id": "w_run",
+  "kind": "word",
+  "text": "run",
+  "ssml": "<prosody rate='-12%'>run</prosody>"
+ },
+ {
+  "id": "w_rot",
+  "kind": "word",
+  "text": "rot",
+  "ssml": "<prosody rate='-12%'>rot</prosody>"
+ },
+ {
+  "id": "w_up",
+  "kind": "word",
+  "text": "up",
+  "ssml": "<prosody rate='-12%'>up</prosody>"
+ },
+ {
+  "id": "w_cup",
+  "kind": "word",
+  "text": "cup",
+  "ssml": "<prosody rate='-12%'>cup</prosody>"
+ },
+ {
+  "id": "w_cut",
+  "kind": "word",
+  "text": "cut",
+  "ssml": "<prosody rate='-12%'>cut</prosody>"
+ },
+ {
+  "id": "w_mud",
+  "kind": "word",
+  "text": "mud",
+  "ssml": "<prosody rate='-12%'>mud</prosody>"
+ },
+ {
+  "id": "w_mug",
+  "kind": "word",
+  "text": "mug",
+  "ssml": "<prosody rate='-12%'>mug</prosody>"
+ },
+ {
+  "id": "w_sun",
+  "kind": "word",
+  "text": "sun",
+  "ssml": "<prosody rate='-12%'>sun</prosody>"
+ },
+ {
+  "id": "w_nut",
+  "kind": "word",
+  "text": "nut",
+  "ssml": "<prosody rate='-12%'>nut</prosody>"
+ },
+ {
+  "id": "w_tug",
+  "kind": "word",
+  "text": "tug",
+  "ssml": "<prosody rate='-12%'>tug</prosody>"
+ },
+ {
+  "id": "w_gum",
+  "kind": "word",
+  "text": "gum",
+  "ssml": "<prosody rate='-12%'>gum</prosody>"
+ },
+ {
+  "id": "w_sum",
+  "kind": "word",
+  "text": "sum",
+  "ssml": "<prosody rate='-12%'>sum</prosody>"
+ },
+ {
+  "id": "w_us",
+  "kind": "word",
+  "text": "us",
+  "ssml": "<prosody rate='-12%'>us</prosody>"
+ },
+ {
+  "id": "w_rocket",
+  "kind": "word",
+  "text": "rocket",
+  "ssml": "<prosody rate='-12%'>rocket</prosody>"
+ },
+ {
+  "id": "w_meg",
+  "kind": "word",
+  "text": "Meg",
+  "ssml": "<prosody rate='-12%'>Meg</prosody>"
+ },
+ {
+  "id": "w_ted",
+  "kind": "word",
+  "text": "Ted",
+  "ssml": "<prosody rate='-12%'>Ted</prosody>"
+ },
+ {
+  "id": "w_gus",
+  "kind": "word",
+  "text": "Gus",
+  "ssml": "<prosody rate='-12%'>Gus</prosody>"
+ },
+ {
+  "id": "w_ducks",
+  "kind": "word",
+  "text": "ducks",
+  "ssml": "<prosody rate='-12%'>ducks</prosody>"
+ },
+ {
+  "id": "w_cups",
+  "kind": "word",
+  "text": "cups",
+  "ssml": "<prosody rate='-12%'>cups</prosody>"
+ },
+ {
+  "id": "w_pets",
+  "kind": "word",
+  "text": "pets",
+  "ssml": "<prosody rate='-12%'>pets</prosody>"
+ },
+ {
+  "id": "w_hat",
+  "kind": "word",
+  "text": "hat",
+  "ssml": "<prosody rate='-12%'>hat</prosody>"
+ },
+ {
+  "id": "w_him",
+  "kind": "word",
+  "text": "him",
+  "ssml": "<prosody rate='-12%'>him</prosody>"
+ },
+ {
+  "id": "w_hot",
+  "kind": "word",
+  "text": "hot",
+  "ssml": "<prosody rate='-12%'>hot</prosody>"
+ },
+ {
+  "id": "w_hit",
+  "kind": "word",
+  "text": "hit",
+  "ssml": "<prosody rate='-12%'>hit</prosody>"
+ },
+ {
+  "id": "w_hen",
+  "kind": "word",
+  "text": "hen",
+  "ssml": "<prosody rate='-12%'>hen</prosody>"
+ },
+ {
+  "id": "w_hop",
+  "kind": "word",
+  "text": "hop",
+  "ssml": "<prosody rate='-12%'>hop</prosody>"
+ },
+ {
+  "id": "w_hug",
+  "kind": "word",
+  "text": "hug",
+  "ssml": "<prosody rate='-12%'>hug</prosody>"
+ },
+ {
+  "id": "w_hum",
+  "kind": "word",
+  "text": "hum",
+  "ssml": "<prosody rate='-12%'>hum</prosody>"
+ },
+ {
+  "id": "w_hip",
+  "kind": "word",
+  "text": "hip",
+  "ssml": "<prosody rate='-12%'>hip</prosody>"
+ },
+ {
+  "id": "w_hut",
+  "kind": "word",
+  "text": "hut",
+  "ssml": "<prosody rate='-12%'>hut</prosody>"
+ },
+ {
+  "id": "w_bag",
+  "kind": "word",
+  "text": "bag",
+  "ssml": "<prosody rate='-12%'>bag</prosody>"
+ },
+ {
+  "id": "w_bat",
+  "kind": "word",
+  "text": "bat",
+  "ssml": "<prosody rate='-12%'>bat</prosody>"
+ },
+ {
+  "id": "w_bed",
+  "kind": "word",
+  "text": "bed",
+  "ssml": "<prosody rate='-12%'>bed</prosody>"
+ },
+ {
+  "id": "w_bet",
+  "kind": "word",
+  "text": "bet",
+  "ssml": "<prosody rate='-12%'>bet</prosody>"
+ },
+ {
+  "id": "w_big",
+  "kind": "word",
+  "text": "big",
+  "ssml": "<prosody rate='-12%'>big</prosody>"
+ },
+ {
+  "id": "w_bin",
+  "kind": "word",
+  "text": "bin",
+  "ssml": "<prosody rate='-12%'>bin</prosody>"
+ },
+ {
+  "id": "w_bit",
+  "kind": "word",
+  "text": "bit",
+  "ssml": "<prosody rate='-12%'>bit</prosody>"
+ },
+ {
+  "id": "w_bud",
+  "kind": "word",
+  "text": "bud",
+  "ssml": "<prosody rate='-12%'>bud</prosody>"
+ },
+ {
+  "id": "w_bug",
+  "kind": "word",
+  "text": "bug",
+  "ssml": "<prosody rate='-12%'>bug</prosody>"
+ },
+ {
+  "id": "w_bun",
+  "kind": "word",
+  "text": "bun",
+  "ssml": "<prosody rate='-12%'>bun</prosody>"
+ },
+ {
+  "id": "w_bus",
+  "kind": "word",
+  "text": "bus",
+  "ssml": "<prosody rate='-12%'>bus</prosody>"
+ },
+ {
+  "id": "w_but",
+  "kind": "word",
+  "text": "but",
+  "ssml": "<prosody rate='-12%'>but</prosody>"
+ },
+ {
+  "id": "w_bad",
+  "kind": "word",
+  "text": "bad",
+  "ssml": "<prosody rate='-12%'>bad</prosody>"
+ },
+ {
+  "id": "w_bib",
+  "kind": "word",
+  "text": "bib",
+  "ssml": "<prosody rate='-12%'>bib</prosody>"
+ },
+ {
+  "id": "w_bob",
+  "kind": "word",
+  "text": "Bob",
+  "ssml": "<prosody rate='-12%'>Bob</prosody>"
+ },
+ {
+  "id": "w_cab",
+  "kind": "word",
+  "text": "cab",
+  "ssml": "<prosody rate='-12%'>cab</prosody>"
+ },
+ {
+  "id": "w_cub",
+  "kind": "word",
+  "text": "cub",
+  "ssml": "<prosody rate='-12%'>cub</prosody>"
+ },
+ {
+  "id": "w_rub",
+  "kind": "word",
+  "text": "rub",
+  "ssml": "<prosody rate='-12%'>rub</prosody>"
+ },
+ {
+  "id": "w_tub",
+  "kind": "word",
+  "text": "tub",
+  "ssml": "<prosody rate='-12%'>tub</prosody>"
+ },
+ {
+  "id": "w_sob",
+  "kind": "word",
+  "text": "sob",
+  "ssml": "<prosody rate='-12%'>sob</prosody>"
+ },
+ {
+  "id": "w_rob",
+  "kind": "word",
+  "text": "rob",
+  "ssml": "<prosody rate='-12%'>rob</prosody>"
+ },
+ {
+  "id": "w_fan",
+  "kind": "word",
+  "text": "fan",
+  "ssml": "<prosody rate='-12%'>fan</prosody>"
+ },
+ {
+  "id": "w_fat",
+  "kind": "word",
+  "text": "fat",
+  "ssml": "<prosody rate='-12%'>fat</prosody>"
+ },
+ {
+  "id": "w_fit",
+  "kind": "word",
+  "text": "fit",
+  "ssml": "<prosody rate='-12%'>fit</prosody>"
+ },
+ {
+  "id": "w_fin",
+  "kind": "word",
+  "text": "fin",
+  "ssml": "<prosody rate='-12%'>fin</prosody>"
+ },
+ {
+  "id": "w_fig",
+  "kind": "word",
+  "text": "fig",
+  "ssml": "<prosody rate='-12%'>fig</prosody>"
+ },
+ {
+  "id": "w_fog",
+  "kind": "word",
+  "text": "fog",
+  "ssml": "<prosody rate='-12%'>fog</prosody>"
+ },
+ {
+  "id": "w_fun",
+  "kind": "word",
+  "text": "fun",
+  "ssml": "<prosody rate='-12%'>fun</prosody>"
+ },
+ {
+  "id": "w_fed",
+  "kind": "word",
+  "text": "fed",
+  "ssml": "<prosody rate='-12%'>fed</prosody>"
+ },
+ {
+  "id": "w_fell",
+  "kind": "word",
+  "text": "fell",
+  "ssml": "<prosody rate='-12%'>fell</prosody>"
+ },
+ {
+  "id": "w_fill",
+  "kind": "word",
+  "text": "fill",
+  "ssml": "<prosody rate='-12%'>fill</prosody>"
+ },
+ {
+  "id": "w_huff",
+  "kind": "word",
+  "text": "huff",
+  "ssml": "<prosody rate='-12%'>huff</prosody>"
+ },
+ {
+  "id": "w_puff",
+  "kind": "word",
+  "text": "puff",
+  "ssml": "<prosody rate='-12%'>puff</prosody>"
+ },
+ {
+  "id": "w_off",
+  "kind": "word",
+  "text": "off",
+  "ssml": "<prosody rate='-12%'>off</prosody>"
+ },
+ {
+  "id": "w_cuff",
+  "kind": "word",
+  "text": "cuff",
+  "ssml": "<prosody rate='-12%'>cuff</prosody>"
+ },
+ {
+  "id": "w_lap",
+  "kind": "word",
+  "text": "lap",
+  "ssml": "<prosody rate='-12%'>lap</prosody>"
+ },
+ {
+  "id": "w_leg",
+  "kind": "word",
+  "text": "leg",
+  "ssml": "<prosody rate='-12%'>leg</prosody>"
+ },
+ {
+  "id": "w_let",
+  "kind": "word",
+  "text": "let",
+  "ssml": "<prosody rate='-12%'>let</prosody>"
+ },
+ {
+  "id": "w_lid",
+  "kind": "word",
+  "text": "lid",
+  "ssml": "<prosody rate='-12%'>lid</prosody>"
+ },
+ {
+  "id": "w_lip",
+  "kind": "word",
+  "text": "lip",
+  "ssml": "<prosody rate='-12%'>lip</prosody>"
+ },
+ {
+  "id": "w_lit",
+  "kind": "word",
+  "text": "lit",
+  "ssml": "<prosody rate='-12%'>lit</prosody>"
+ },
+ {
+  "id": "w_log",
+  "kind": "word",
+  "text": "log",
+  "ssml": "<prosody rate='-12%'>log</prosody>"
+ },
+ {
+  "id": "w_lot",
+  "kind": "word",
+  "text": "lot",
+  "ssml": "<prosody rate='-12%'>lot</prosody>"
+ },
+ {
+  "id": "w_luck",
+  "kind": "word",
+  "text": "luck",
+  "ssml": "<prosody rate='-12%'>luck</prosody>"
+ },
+ {
+  "id": "w_lick",
+  "kind": "word",
+  "text": "lick",
+  "ssml": "<prosody rate='-12%'>lick</prosody>"
+ },
+ {
+  "id": "w_lock",
+  "kind": "word",
+  "text": "lock",
+  "ssml": "<prosody rate='-12%'>lock</prosody>"
+ },
+ {
+  "id": "w_doll",
+  "kind": "word",
+  "text": "doll",
+  "ssml": "<prosody rate='-12%'>doll</prosody>"
+ },
+ {
+  "id": "w_bell",
+  "kind": "word",
+  "text": "bell",
+  "ssml": "<prosody rate='-12%'>bell</prosody>"
+ },
+ {
+  "id": "w_tell",
+  "kind": "word",
+  "text": "tell",
+  "ssml": "<prosody rate='-12%'>tell</prosody>"
+ },
+ {
+  "id": "w_hill",
+  "kind": "word",
+  "text": "hill",
+  "ssml": "<prosody rate='-12%'>hill</prosody>"
+ },
+ {
+  "id": "w_pill",
+  "kind": "word",
+  "text": "pill",
+  "ssml": "<prosody rate='-12%'>pill</prosody>"
+ },
+ {
+  "id": "w_sell",
+  "kind": "word",
+  "text": "sell",
+  "ssml": "<prosody rate='-12%'>sell</prosody>"
+ },
+ {
+  "id": "w_hiss",
+  "kind": "word",
+  "text": "hiss",
+  "ssml": "<prosody rate='-12%'>hiss</prosody>"
+ },
+ {
+  "id": "w_kiss",
+  "kind": "word",
+  "text": "kiss",
+  "ssml": "<prosody rate='-12%'>kiss</prosody>"
+ },
+ {
+  "id": "w_mess",
+  "kind": "word",
+  "text": "mess",
+  "ssml": "<prosody rate='-12%'>mess</prosody>"
+ },
+ {
+  "id": "w_less",
+  "kind": "word",
+  "text": "less",
+  "ssml": "<prosody rate='-12%'>less</prosody>"
+ },
+ {
+  "id": "w_fuss",
+  "kind": "word",
+  "text": "fuss",
+  "ssml": "<prosody rate='-12%'>fuss</prosody>"
+ },
+ {
+  "id": "w_miss",
+  "kind": "word",
+  "text": "miss",
+  "ssml": "<prosody rate='-12%'>miss</prosody>"
+ },
+ {
+  "id": "w_boss",
+  "kind": "word",
+  "text": "boss",
+  "ssml": "<prosody rate='-12%'>boss</prosody>"
+ },
+ {
+  "id": "w_moss",
+  "kind": "word",
+  "text": "moss",
+  "ssml": "<prosody rate='-12%'>moss</prosody>"
+ },
+ {
+  "id": "w_bill",
+  "kind": "word",
+  "text": "Bill",
+  "ssml": "<prosody rate='-12%'>Bill</prosody>"
+ },
+ {
+  "id": "w_nell",
+  "kind": "word",
+  "text": "Nell",
+  "ssml": "<prosody rate='-12%'>Nell</prosody>"
+ },
+ {
+  "id": "w_rabbit",
+  "kind": "word",
+  "text": "rabbit",
+  "ssml": "<prosody rate='-12%'>rabbit</prosody>"
+ },
+ {
+  "id": "w_hats",
+  "kind": "word",
+  "text": "hats",
+  "ssml": "<prosody rate='-12%'>hats</prosody>"
+ },
+ {
+  "id": "w_bugs",
+  "kind": "word",
+  "text": "bugs",
+  "ssml": "<prosody rate='-12%'>bugs</prosody>"
+ },
+ {
+  "id": "w_legs",
+  "kind": "word",
+  "text": "legs",
+  "ssml": "<prosody rate='-12%'>legs</prosody>"
+ },
+ {
+  "id": "w_jam",
+  "kind": "word",
+  "text": "jam",
+  "ssml": "<prosody rate='-12%'>jam</prosody>"
+ },
+ {
+  "id": "w_jet",
+  "kind": "word",
+  "text": "jet",
+  "ssml": "<prosody rate='-12%'>jet</prosody>"
+ },
+ {
+  "id": "w_jog",
+  "kind": "word",
+  "text": "jog",
+  "ssml": "<prosody rate='-12%'>jog</prosody>"
+ },
+ {
+  "id": "w_jug",
+  "kind": "word",
+  "text": "jug",
+  "ssml": "<prosody rate='-12%'>jug</prosody>"
+ },
+ {
+  "id": "w_job",
+  "kind": "word",
+  "text": "job",
+  "ssml": "<prosody rate='-12%'>job</prosody>"
+ },
+ {
+  "id": "w_jab",
+  "kind": "word",
+  "text": "jab",
+  "ssml": "<prosody rate='-12%'>jab</prosody>"
+ },
+ {
+  "id": "w_van",
+  "kind": "word",
+  "text": "van",
+  "ssml": "<prosody rate='-12%'>van</prosody>"
+ },
+ {
+  "id": "w_vet",
+  "kind": "word",
+  "text": "vet",
+  "ssml": "<prosody rate='-12%'>vet</prosody>"
+ },
+ {
+  "id": "w_vat",
+  "kind": "word",
+  "text": "vat",
+  "ssml": "<prosody rate='-12%'>vat</prosody>"
+ },
+ {
+  "id": "w_wet",
+  "kind": "word",
+  "text": "wet",
+  "ssml": "<prosody rate='-12%'>wet</prosody>"
+ },
+ {
+  "id": "w_wig",
+  "kind": "word",
+  "text": "wig",
+  "ssml": "<prosody rate='-12%'>wig</prosody>"
+ },
+ {
+  "id": "w_win",
+  "kind": "word",
+  "text": "win",
+  "ssml": "<prosody rate='-12%'>win</prosody>"
+ },
+ {
+  "id": "w_web",
+  "kind": "word",
+  "text": "web",
+  "ssml": "<prosody rate='-12%'>web</prosody>"
+ },
+ {
+  "id": "w_wax",
+  "kind": "word",
+  "text": "wax",
+  "ssml": "<prosody rate='-12%'>wax</prosody>"
+ },
+ {
+  "id": "w_wag",
+  "kind": "word",
+  "text": "wag",
+  "ssml": "<prosody rate='-12%'>wag</prosody>"
+ },
+ {
+  "id": "w_box",
+  "kind": "word",
+  "text": "box",
+  "ssml": "<prosody rate='-12%'>box</prosody>"
+ },
+ {
+  "id": "w_fox",
+  "kind": "word",
+  "text": "fox",
+  "ssml": "<prosody rate='-12%'>fox</prosody>"
+ },
+ {
+  "id": "w_fix",
+  "kind": "word",
+  "text": "fix",
+  "ssml": "<prosody rate='-12%'>fix</prosody>"
+ },
+ {
+  "id": "w_six",
+  "kind": "word",
+  "text": "six",
+  "ssml": "<prosody rate='-12%'>six</prosody>"
+ },
+ {
+  "id": "w_mix",
+  "kind": "word",
+  "text": "mix",
+  "ssml": "<prosody rate='-12%'>mix</prosody>"
+ },
+ {
+  "id": "w_yes",
+  "kind": "word",
+  "text": "yes",
+  "ssml": "<prosody rate='-12%'>yes</prosody>"
+ },
+ {
+  "id": "w_yet",
+  "kind": "word",
+  "text": "yet",
+  "ssml": "<prosody rate='-12%'>yet</prosody>"
+ },
+ {
+  "id": "w_yak",
+  "kind": "word",
+  "text": "yak",
+  "ssml": "<prosody rate='-12%'>yak</prosody>"
+ },
+ {
+  "id": "w_yap",
+  "kind": "word",
+  "text": "yap",
+  "ssml": "<prosody rate='-12%'>yap</prosody>"
+ },
+ {
+  "id": "w_yum",
+  "kind": "word",
+  "text": "yum",
+  "ssml": "<prosody rate='-12%'>yum</prosody>"
+ },
+ {
+  "id": "w_zip",
+  "kind": "word",
+  "text": "zip",
+  "ssml": "<prosody rate='-12%'>zip</prosody>"
+ },
+ {
+  "id": "w_zap",
+  "kind": "word",
+  "text": "zap",
+  "ssml": "<prosody rate='-12%'>zap</prosody>"
+ },
+ {
+  "id": "w_zigzag",
+  "kind": "word",
+  "text": "zigzag",
+  "ssml": "<prosody rate='-12%'>zigzag</prosody>"
+ },
+ {
+  "id": "w_buzz",
+  "kind": "word",
+  "text": "buzz",
+  "ssml": "<prosody rate='-12%'>buzz</prosody>"
+ },
+ {
+  "id": "w_fizz",
+  "kind": "word",
+  "text": "fizz",
+  "ssml": "<prosody rate='-12%'>fizz</prosody>"
+ },
+ {
+  "id": "w_jazz",
+  "kind": "word",
+  "text": "jazz",
+  "ssml": "<prosody rate='-12%'>jazz</prosody>"
+ },
+ {
+  "id": "w_quit",
+  "kind": "word",
+  "text": "quit",
+  "ssml": "<prosody rate='-12%'>quit</prosody>"
+ },
+ {
+  "id": "w_quiz",
+  "kind": "word",
+  "text": "quiz",
+  "ssml": "<prosody rate='-12%'>quiz</prosody>"
+ },
+ {
+  "id": "w_quick",
+  "kind": "word",
+  "text": "quick",
+  "ssml": "<prosody rate='-12%'>quick</prosody>"
+ },
+ {
+  "id": "w_quack",
+  "kind": "word",
+  "text": "quack",
+  "ssml": "<prosody rate='-12%'>quack</prosody>"
+ },
+ {
+  "id": "w_max",
+  "kind": "word",
+  "text": "Max",
+  "ssml": "<prosody rate='-12%'>Max</prosody>"
+ },
+ {
+  "id": "w_jill",
+  "kind": "word",
+  "text": "Jill",
+  "ssml": "<prosody rate='-12%'>Jill</prosody>"
+ },
+ {
+  "id": "w_jack",
+  "kind": "word",
+  "text": "Jack",
+  "ssml": "<prosody rate='-12%'>Jack</prosody>"
+ },
+ {
+  "id": "w_zak",
+  "kind": "word",
+  "text": "Zak",
+  "ssml": "<prosody rate='-12%'>Zak</prosody>"
+ },
+ {
+  "id": "w_viv",
+  "kind": "word",
+  "text": "Viv",
+  "ssml": "<prosody rate='-12%'>Viv</prosody>"
+ },
+ {
+  "id": "w_chip",
+  "kind": "word",
+  "text": "chip",
+  "ssml": "<prosody rate='-12%'>chip</prosody>"
+ },
+ {
+  "id": "w_chop",
+  "kind": "word",
+  "text": "chop",
+  "ssml": "<prosody rate='-12%'>chop</prosody>"
+ },
+ {
+  "id": "w_chin",
+  "kind": "word",
+  "text": "chin",
+  "ssml": "<prosody rate='-12%'>chin</prosody>"
+ },
+ {
+  "id": "w_chat",
+  "kind": "word",
+  "text": "chat",
+  "ssml": "<prosody rate='-12%'>chat</prosody>"
+ },
+ {
+  "id": "w_chug",
+  "kind": "word",
+  "text": "chug",
+  "ssml": "<prosody rate='-12%'>chug</prosody>"
+ },
+ {
+  "id": "w_rich",
+  "kind": "word",
+  "text": "rich",
+  "ssml": "<prosody rate='-12%'>rich</prosody>"
+ },
+ {
+  "id": "w_much",
+  "kind": "word",
+  "text": "much",
+  "ssml": "<prosody rate='-12%'>much</prosody>"
+ },
+ {
+  "id": "w_such",
+  "kind": "word",
+  "text": "such",
+  "ssml": "<prosody rate='-12%'>such</prosody>"
+ },
+ {
+  "id": "w_chick",
+  "kind": "word",
+  "text": "chick",
+  "ssml": "<prosody rate='-12%'>chick</prosody>"
+ },
+ {
+  "id": "w_check",
+  "kind": "word",
+  "text": "check",
+  "ssml": "<prosody rate='-12%'>check</prosody>"
+ },
+ {
+  "id": "w_shop",
+  "kind": "word",
+  "text": "shop",
+  "ssml": "<prosody rate='-12%'>shop</prosody>"
+ },
+ {
+  "id": "w_ship",
+  "kind": "word",
+  "text": "ship",
+  "ssml": "<prosody rate='-12%'>ship</prosody>"
+ },
+ {
+  "id": "w_shed",
+  "kind": "word",
+  "text": "shed",
+  "ssml": "<prosody rate='-12%'>shed</prosody>"
+ },
+ {
+  "id": "w_shin",
+  "kind": "word",
+  "text": "shin",
+  "ssml": "<prosody rate='-12%'>shin</prosody>"
+ },
+ {
+  "id": "w_shut",
+  "kind": "word",
+  "text": "shut",
+  "ssml": "<prosody rate='-12%'>shut</prosody>"
+ },
+ {
+  "id": "w_shell",
+  "kind": "word",
+  "text": "shell",
+  "ssml": "<prosody rate='-12%'>shell</prosody>"
+ },
+ {
+  "id": "w_fish",
+  "kind": "word",
+  "text": "fish",
+  "ssml": "<prosody rate='-12%'>fish</prosody>"
+ },
+ {
+  "id": "w_dish",
+  "kind": "word",
+  "text": "dish",
+  "ssml": "<prosody rate='-12%'>dish</prosody>"
+ },
+ {
+  "id": "w_wish",
+  "kind": "word",
+  "text": "wish",
+  "ssml": "<prosody rate='-12%'>wish</prosody>"
+ },
+ {
+  "id": "w_rush",
+  "kind": "word",
+  "text": "rush",
+  "ssml": "<prosody rate='-12%'>rush</prosody>"
+ },
+ {
+  "id": "w_hush",
+  "kind": "word",
+  "text": "hush",
+  "ssml": "<prosody rate='-12%'>hush</prosody>"
+ },
+ {
+  "id": "w_cash",
+  "kind": "word",
+  "text": "cash",
+  "ssml": "<prosody rate='-12%'>cash</prosody>"
+ },
+ {
+  "id": "w_dash",
+  "kind": "word",
+  "text": "dash",
+  "ssml": "<prosody rate='-12%'>dash</prosody>"
+ },
+ {
+  "id": "w_mash",
+  "kind": "word",
+  "text": "mash",
+  "ssml": "<prosody rate='-12%'>mash</prosody>"
+ },
+ {
+  "id": "w_shock",
+  "kind": "word",
+  "text": "shock",
+  "ssml": "<prosody rate='-12%'>shock</prosody>"
+ },
+ {
+  "id": "w_thin",
+  "kind": "word",
+  "text": "thin",
+  "ssml": "<prosody rate='-12%'>thin</prosody>"
+ },
+ {
+  "id": "w_thick",
+  "kind": "word",
+  "text": "thick",
+  "ssml": "<prosody rate='-12%'>thick</prosody>"
+ },
+ {
+  "id": "w_thud",
+  "kind": "word",
+  "text": "thud",
+  "ssml": "<prosody rate='-12%'>thud</prosody>"
+ },
+ {
+  "id": "w_moth",
+  "kind": "word",
+  "text": "moth",
+  "ssml": "<prosody rate='-12%'>moth</prosody>"
+ },
+ {
+  "id": "w_bath",
+  "kind": "word",
+  "text": "bath",
+  "ssml": "<prosody rate='-12%'>bath</prosody>"
+ },
+ {
+  "id": "w_path",
+  "kind": "word",
+  "text": "path",
+  "ssml": "<prosody rate='-12%'>path</prosody>"
+ },
+ {
+  "id": "w_with",
+  "kind": "word",
+  "text": "with",
+  "ssml": "<prosody rate='-12%'>with</prosody>"
+ },
+ {
+  "id": "w_math",
+  "kind": "word",
+  "text": "math",
+  "ssml": "<prosody rate='-12%'>math</prosody>"
+ },
+ {
+  "id": "w_ring",
+  "kind": "word",
+  "text": "ring",
+  "ssml": "<prosody rate='-12%'>ring</prosody>"
+ },
+ {
+  "id": "w_sing",
+  "kind": "word",
+  "text": "sing",
+  "ssml": "<prosody rate='-12%'>sing</prosody>"
+ },
+ {
+  "id": "w_king",
+  "kind": "word",
+  "text": "king",
+  "ssml": "<prosody rate='-12%'>king</prosody>"
+ },
+ {
+  "id": "w_wing",
+  "kind": "word",
+  "text": "wing",
+  "ssml": "<prosody rate='-12%'>wing</prosody>"
+ },
+ {
+  "id": "w_long",
+  "kind": "word",
+  "text": "long",
+  "ssml": "<prosody rate='-12%'>long</prosody>"
+ },
+ {
+  "id": "w_song",
+  "kind": "word",
+  "text": "song",
+  "ssml": "<prosody rate='-12%'>song</prosody>"
+ },
+ {
+  "id": "w_bang",
+  "kind": "word",
+  "text": "bang",
+  "ssml": "<prosody rate='-12%'>bang</prosody>"
+ },
+ {
+  "id": "w_hang",
+  "kind": "word",
+  "text": "hang",
+  "ssml": "<prosody rate='-12%'>hang</prosody>"
+ },
+ {
+  "id": "w_rang",
+  "kind": "word",
+  "text": "rang",
+  "ssml": "<prosody rate='-12%'>rang</prosody>"
+ },
+ {
+  "id": "w_sung",
+  "kind": "word",
+  "text": "sung",
+  "ssml": "<prosody rate='-12%'>sung</prosody>"
+ },
+ {
+  "id": "w_lung",
+  "kind": "word",
+  "text": "lung",
+  "ssml": "<prosody rate='-12%'>lung</prosody>"
+ },
+ {
+  "id": "w_hung",
+  "kind": "word",
+  "text": "hung",
+  "ssml": "<prosody rate='-12%'>hung</prosody>"
+ },
+ {
+  "id": "w_gong",
+  "kind": "word",
+  "text": "gong",
+  "ssml": "<prosody rate='-12%'>gong</prosody>"
+ },
+ {
+  "id": "w_thing",
+  "kind": "word",
+  "text": "thing",
+  "ssml": "<prosody rate='-12%'>thing</prosody>"
+ },
+ {
+  "id": "w_rocking",
+  "kind": "word",
+  "text": "rocking",
+  "ssml": "<prosody rate='-12%'>rocking</prosody>"
+ },
+ {
+  "id": "w_chad",
+  "kind": "word",
+  "text": "Chad",
+  "ssml": "<prosody rate='-12%'>Chad</prosody>"
+ },
+ {
+  "id": "w_beth",
+  "kind": "word",
+  "text": "Beth",
+  "ssml": "<prosody rate='-12%'>Beth</prosody>"
+ },
+ {
+  "id": "w_seth",
+  "kind": "word",
+  "text": "Seth",
+  "ssml": "<prosody rate='-12%'>Seth</prosody>"
+ },
+ {
+  "id": "w_josh",
+  "kind": "word",
+  "text": "Josh",
+  "ssml": "<prosody rate='-12%'>Josh</prosody>"
+ },
+ {
+  "id": "w_hand",
+  "kind": "word",
+  "text": "hand",
+  "ssml": "<prosody rate='-12%'>hand</prosody>"
+ },
+ {
+  "id": "w_land",
+  "kind": "word",
+  "text": "land",
+  "ssml": "<prosody rate='-12%'>land</prosody>"
+ },
+ {
+  "id": "w_sand",
+  "kind": "word",
+  "text": "sand",
+  "ssml": "<prosody rate='-12%'>sand</prosody>"
+ },
+ {
+  "id": "w_band",
+  "kind": "word",
+  "text": "band",
+  "ssml": "<prosody rate='-12%'>band</prosody>"
+ },
+ {
+  "id": "w_bend",
+  "kind": "word",
+  "text": "bend",
+  "ssml": "<prosody rate='-12%'>bend</prosody>"
+ },
+ {
+  "id": "w_send",
+  "kind": "word",
+  "text": "send",
+  "ssml": "<prosody rate='-12%'>send</prosody>"
+ },
+ {
+  "id": "w_tent",
+  "kind": "word",
+  "text": "tent",
+  "ssml": "<prosody rate='-12%'>tent</prosody>"
+ },
+ {
+  "id": "w_went",
+  "kind": "word",
+  "text": "went",
+  "ssml": "<prosody rate='-12%'>went</prosody>"
+ },
+ {
+  "id": "w_hunt",
+  "kind": "word",
+  "text": "hunt",
+  "ssml": "<prosody rate='-12%'>hunt</prosody>"
+ },
+ {
+  "id": "w_bump",
+  "kind": "word",
+  "text": "bump",
+  "ssml": "<prosody rate='-12%'>bump</prosody>"
+ },
+ {
+  "id": "w_jump",
+  "kind": "word",
+  "text": "jump",
+  "ssml": "<prosody rate='-12%'>jump</prosody>"
+ },
+ {
+  "id": "w_lamp",
+  "kind": "word",
+  "text": "lamp",
+  "ssml": "<prosody rate='-12%'>lamp</prosody>"
+ },
+ {
+  "id": "w_camp",
+  "kind": "word",
+  "text": "camp",
+  "ssml": "<prosody rate='-12%'>camp</prosody>"
+ },
+ {
+  "id": "w_damp",
+  "kind": "word",
+  "text": "damp",
+  "ssml": "<prosody rate='-12%'>damp</prosody>"
+ },
+ {
+  "id": "w_pump",
+  "kind": "word",
+  "text": "pump",
+  "ssml": "<prosody rate='-12%'>pump</prosody>"
+ },
+ {
+  "id": "w_milk",
+  "kind": "word",
+  "text": "milk",
+  "ssml": "<prosody rate='-12%'>milk</prosody>"
+ },
+ {
+  "id": "w_help",
+  "kind": "word",
+  "text": "help",
+  "ssml": "<prosody rate='-12%'>help</prosody>"
+ },
+ {
+  "id": "w_belt",
+  "kind": "word",
+  "text": "belt",
+  "ssml": "<prosody rate='-12%'>belt</prosody>"
+ },
+ {
+  "id": "w_melt",
+  "kind": "word",
+  "text": "melt",
+  "ssml": "<prosody rate='-12%'>melt</prosody>"
+ },
+ {
+  "id": "w_gift",
+  "kind": "word",
+  "text": "gift",
+  "ssml": "<prosody rate='-12%'>gift</prosody>"
+ },
+ {
+  "id": "w_lift",
+  "kind": "word",
+  "text": "lift",
+  "ssml": "<prosody rate='-12%'>lift</prosody>"
+ },
+ {
+  "id": "w_soft",
+  "kind": "word",
+  "text": "soft",
+  "ssml": "<prosody rate='-12%'>soft</prosody>"
+ },
+ {
+  "id": "w_left",
+  "kind": "word",
+  "text": "left",
+  "ssml": "<prosody rate='-12%'>left</prosody>"
+ },
+ {
+  "id": "w_nest",
+  "kind": "word",
+  "text": "nest",
+  "ssml": "<prosody rate='-12%'>nest</prosody>"
+ },
+ {
+  "id": "w_best",
+  "kind": "word",
+  "text": "best",
+  "ssml": "<prosody rate='-12%'>best</prosody>"
+ },
+ {
+  "id": "w_rest",
+  "kind": "word",
+  "text": "rest",
+  "ssml": "<prosody rate='-12%'>rest</prosody>"
+ },
+ {
+  "id": "w_test",
+  "kind": "word",
+  "text": "test",
+  "ssml": "<prosody rate='-12%'>test</prosody>"
+ },
+ {
+  "id": "w_vest",
+  "kind": "word",
+  "text": "vest",
+  "ssml": "<prosody rate='-12%'>vest</prosody>"
+ },
+ {
+  "id": "w_fist",
+  "kind": "word",
+  "text": "fist",
+  "ssml": "<prosody rate='-12%'>fist</prosody>"
+ },
+ {
+  "id": "w_list",
+  "kind": "word",
+  "text": "list",
+  "ssml": "<prosody rate='-12%'>list</prosody>"
+ },
+ {
+  "id": "w_must",
+  "kind": "word",
+  "text": "must",
+  "ssml": "<prosody rate='-12%'>must</prosody>"
+ },
+ {
+  "id": "w_dust",
+  "kind": "word",
+  "text": "dust",
+  "ssml": "<prosody rate='-12%'>dust</prosody>"
+ },
+ {
+  "id": "w_just",
+  "kind": "word",
+  "text": "just",
+  "ssml": "<prosody rate='-12%'>just</prosody>"
+ },
+ {
+  "id": "w_lost",
+  "kind": "word",
+  "text": "lost",
+  "ssml": "<prosody rate='-12%'>lost</prosody>"
+ },
+ {
+  "id": "w_desk",
+  "kind": "word",
+  "text": "desk",
+  "ssml": "<prosody rate='-12%'>desk</prosody>"
+ },
+ {
+  "id": "w_mask",
+  "kind": "word",
+  "text": "mask",
+  "ssml": "<prosody rate='-12%'>mask</prosody>"
+ },
+ {
+  "id": "w_pond",
+  "kind": "word",
+  "text": "pond",
+  "ssml": "<prosody rate='-12%'>pond</prosody>"
+ },
+ {
+  "id": "w_wind",
+  "kind": "word",
+  "text": "wind",
+  "ssml": "<prosody rate='-12%'>wind</prosody>"
+ },
+ {
+  "id": "w_pink",
+  "kind": "word",
+  "text": "pink",
+  "ssml": "<prosody rate='-12%'>pink</prosody>"
+ },
+ {
+  "id": "w_sink",
+  "kind": "word",
+  "text": "sink",
+  "ssml": "<prosody rate='-12%'>sink</prosody>"
+ },
+ {
+  "id": "w_wink",
+  "kind": "word",
+  "text": "wink",
+  "ssml": "<prosody rate='-12%'>wink</prosody>"
+ },
+ {
+  "id": "w_tank",
+  "kind": "word",
+  "text": "tank",
+  "ssml": "<prosody rate='-12%'>tank</prosody>"
+ },
+ {
+  "id": "w_honk",
+  "kind": "word",
+  "text": "honk",
+  "ssml": "<prosody rate='-12%'>honk</prosody>"
+ },
+ {
+  "id": "w_junk",
+  "kind": "word",
+  "text": "junk",
+  "ssml": "<prosody rate='-12%'>junk</prosody>"
+ },
+ {
+  "id": "w_stop",
+  "kind": "word",
+  "text": "stop",
+  "ssml": "<prosody rate='-12%'>stop</prosody>"
+ },
+ {
+  "id": "w_step",
+  "kind": "word",
+  "text": "step",
+  "ssml": "<prosody rate='-12%'>step</prosody>"
+ },
+ {
+  "id": "w_spot",
+  "kind": "word",
+  "text": "spot",
+  "ssml": "<prosody rate='-12%'>spot</prosody>"
+ },
+ {
+  "id": "w_spin",
+  "kind": "word",
+  "text": "spin",
+  "ssml": "<prosody rate='-12%'>spin</prosody>"
+ },
+ {
+  "id": "w_snap",
+  "kind": "word",
+  "text": "snap",
+  "ssml": "<prosody rate='-12%'>snap</prosody>"
+ },
+ {
+  "id": "w_snug",
+  "kind": "word",
+  "text": "snug",
+  "ssml": "<prosody rate='-12%'>snug</prosody>"
+ },
+ {
+  "id": "w_slip",
+  "kind": "word",
+  "text": "slip",
+  "ssml": "<prosody rate='-12%'>slip</prosody>"
+ },
+ {
+  "id": "w_slug",
+  "kind": "word",
+  "text": "slug",
+  "ssml": "<prosody rate='-12%'>slug</prosody>"
+ },
+ {
+  "id": "w_flag",
+  "kind": "word",
+  "text": "flag",
+  "ssml": "<prosody rate='-12%'>flag</prosody>"
+ },
+ {
+  "id": "w_flip",
+  "kind": "word",
+  "text": "flip",
+  "ssml": "<prosody rate='-12%'>flip</prosody>"
+ },
+ {
+  "id": "w_flop",
+  "kind": "word",
+  "text": "flop",
+  "ssml": "<prosody rate='-12%'>flop</prosody>"
+ },
+ {
+  "id": "w_frog",
+  "kind": "word",
+  "text": "frog",
+  "ssml": "<prosody rate='-12%'>frog</prosody>"
+ },
+ {
+  "id": "w_from",
+  "kind": "word",
+  "text": "from",
+  "ssml": "<prosody rate='-12%'>from</prosody>"
+ },
+ {
+  "id": "w_glad",
+  "kind": "word",
+  "text": "glad",
+  "ssml": "<prosody rate='-12%'>glad</prosody>"
+ },
+ {
+  "id": "w_grab",
+  "kind": "word",
+  "text": "grab",
+  "ssml": "<prosody rate='-12%'>grab</prosody>"
+ },
+ {
+  "id": "w_grin",
+  "kind": "word",
+  "text": "grin",
+  "ssml": "<prosody rate='-12%'>grin</prosody>"
+ },
+ {
+  "id": "w_drip",
+  "kind": "word",
+  "text": "drip",
+  "ssml": "<prosody rate='-12%'>drip</prosody>"
+ },
+ {
+  "id": "w_drop",
+  "kind": "word",
+  "text": "drop",
+  "ssml": "<prosody rate='-12%'>drop</prosody>"
+ },
+ {
+  "id": "w_drum",
+  "kind": "word",
+  "text": "drum",
+  "ssml": "<prosody rate='-12%'>drum</prosody>"
+ },
+ {
+  "id": "w_trap",
+  "kind": "word",
+  "text": "trap",
+  "ssml": "<prosody rate='-12%'>trap</prosody>"
+ },
+ {
+  "id": "w_trip",
+  "kind": "word",
+  "text": "trip",
+  "ssml": "<prosody rate='-12%'>trip</prosody>"
+ },
+ {
+  "id": "w_twig",
+  "kind": "word",
+  "text": "twig",
+  "ssml": "<prosody rate='-12%'>twig</prosody>"
+ },
+ {
+  "id": "w_twin",
+  "kind": "word",
+  "text": "twin",
+  "ssml": "<prosody rate='-12%'>twin</prosody>"
+ },
+ {
+  "id": "w_swim",
+  "kind": "word",
+  "text": "swim",
+  "ssml": "<prosody rate='-12%'>swim</prosody>"
+ },
+ {
+  "id": "w_plan",
+  "kind": "word",
+  "text": "plan",
+  "ssml": "<prosody rate='-12%'>plan</prosody>"
+ },
+ {
+  "id": "w_plum",
+  "kind": "word",
+  "text": "plum",
+  "ssml": "<prosody rate='-12%'>plum</prosody>"
+ },
+ {
+  "id": "w_plug",
+  "kind": "word",
+  "text": "plug",
+  "ssml": "<prosody rate='-12%'>plug</prosody>"
+ },
+ {
+  "id": "w_clap",
+  "kind": "word",
+  "text": "clap",
+  "ssml": "<prosody rate='-12%'>clap</prosody>"
+ },
+ {
+  "id": "w_clip",
+  "kind": "word",
+  "text": "clip",
+  "ssml": "<prosody rate='-12%'>clip</prosody>"
+ },
+ {
+  "id": "w_club",
+  "kind": "word",
+  "text": "club",
+  "ssml": "<prosody rate='-12%'>club</prosody>"
+ },
+ {
+  "id": "w_crab",
+  "kind": "word",
+  "text": "crab",
+  "ssml": "<prosody rate='-12%'>crab</prosody>"
+ },
+ {
+  "id": "w_crop",
+  "kind": "word",
+  "text": "crop",
+  "ssml": "<prosody rate='-12%'>crop</prosody>"
+ },
+ {
+  "id": "w_brush",
+  "kind": "word",
+  "text": "brush",
+  "ssml": "<prosody rate='-12%'>brush</prosody>"
+ },
+ {
+  "id": "w_crash",
+  "kind": "word",
+  "text": "crash",
+  "ssml": "<prosody rate='-12%'>crash</prosody>"
+ },
+ {
+  "id": "w_flash",
+  "kind": "word",
+  "text": "flash",
+  "ssml": "<prosody rate='-12%'>flash</prosody>"
+ },
+ {
+  "id": "w_splash",
+  "kind": "word",
+  "text": "splash",
+  "ssml": "<prosody rate='-12%'>splash</prosody>"
+ },
+ {
+  "id": "w_stamp",
+  "kind": "word",
+  "text": "stamp",
+  "ssml": "<prosody rate='-12%'>stamp</prosody>"
+ },
+ {
+  "id": "w_stand",
+  "kind": "word",
+  "text": "stand",
+  "ssml": "<prosody rate='-12%'>stand</prosody>"
+ },
+ {
+  "id": "w_trunk",
+  "kind": "word",
+  "text": "trunk",
+  "ssml": "<prosody rate='-12%'>trunk</prosody>"
+ },
+ {
+  "id": "w_twist",
+  "kind": "word",
+  "text": "twist",
+  "ssml": "<prosody rate='-12%'>twist</prosody>"
+ },
+ {
+  "id": "w_string",
+  "kind": "word",
+  "text": "string",
+  "ssml": "<prosody rate='-12%'>string</prosody>"
+ },
+ {
+  "id": "w_sting",
+  "kind": "word",
+  "text": "sting",
+  "ssml": "<prosody rate='-12%'>sting</prosody>"
+ },
+ {
+  "id": "w_swing",
+  "kind": "word",
+  "text": "swing",
+  "ssml": "<prosody rate='-12%'>swing</prosody>"
+ },
+ {
+  "id": "w_fred",
+  "kind": "word",
+  "text": "Fred",
+  "ssml": "<prosody rate='-12%'>Fred</prosody>"
+ },
+ {
+  "id": "w_stan",
+  "kind": "word",
+  "text": "Stan",
+  "ssml": "<prosody rate='-12%'>Stan</prosody>"
+ },
+ {
+  "id": "w_rain",
+  "kind": "word",
+  "text": "rain",
+  "ssml": "<prosody rate='-12%'>rain</prosody>"
+ },
+ {
+  "id": "w_tail",
+  "kind": "word",
+  "text": "tail",
+  "ssml": "<prosody rate='-12%'>tail</prosody>"
+ },
+ {
+  "id": "w_wait",
+  "kind": "word",
+  "text": "wait",
+  "ssml": "<prosody rate='-12%'>wait</prosody>"
+ },
+ {
+  "id": "w_pain",
+  "kind": "word",
+  "text": "pain",
+  "ssml": "<prosody rate='-12%'>pain</prosody>"
+ },
+ {
+  "id": "w_nail",
+  "kind": "word",
+  "text": "nail",
+  "ssml": "<prosody rate='-12%'>nail</prosody>"
+ },
+ {
+  "id": "w_sail",
+  "kind": "word",
+  "text": "sail",
+  "ssml": "<prosody rate='-12%'>sail</prosody>"
+ },
+ {
+  "id": "w_paid",
+  "kind": "word",
+  "text": "paid",
+  "ssml": "<prosody rate='-12%'>paid</prosody>"
+ },
+ {
+  "id": "w_mail",
+  "kind": "word",
+  "text": "mail",
+  "ssml": "<prosody rate='-12%'>mail</prosody>"
+ },
+ {
+  "id": "w_snail",
+  "kind": "word",
+  "text": "snail",
+  "ssml": "<prosody rate='-12%'>snail</prosody>"
+ },
+ {
+  "id": "w_train",
+  "kind": "word",
+  "text": "train",
+  "ssml": "<prosody rate='-12%'>train</prosody>"
+ },
+ {
+  "id": "w_see",
+  "kind": "word",
+  "text": "see",
+  "ssml": "<prosody rate='-12%'>see</prosody>"
+ },
+ {
+  "id": "w_bee",
+  "kind": "word",
+  "text": "bee",
+  "ssml": "<prosody rate='-12%'>bee</prosody>"
+ },
+ {
+  "id": "w_feet",
+  "kind": "word",
+  "text": "feet",
+  "ssml": "<prosody rate='-12%'>feet</prosody>"
+ },
+ {
+  "id": "w_feel",
+  "kind": "word",
+  "text": "feel",
+  "ssml": "<prosody rate='-12%'>feel</prosody>"
+ },
+ {
+  "id": "w_need",
+  "kind": "word",
+  "text": "need",
+  "ssml": "<prosody rate='-12%'>need</prosody>"
+ },
+ {
+  "id": "w_seed",
+  "kind": "word",
+  "text": "seed",
+  "ssml": "<prosody rate='-12%'>seed</prosody>"
+ },
+ {
+  "id": "w_weed",
+  "kind": "word",
+  "text": "weed",
+  "ssml": "<prosody rate='-12%'>weed</prosody>"
+ },
+ {
+  "id": "w_keep",
+  "kind": "word",
+  "text": "keep",
+  "ssml": "<prosody rate='-12%'>keep</prosody>"
+ },
+ {
+  "id": "w_deep",
+  "kind": "word",
+  "text": "deep",
+  "ssml": "<prosody rate='-12%'>deep</prosody>"
+ },
+ {
+  "id": "w_meet",
+  "kind": "word",
+  "text": "meet",
+  "ssml": "<prosody rate='-12%'>meet</prosody>"
+ },
+ {
+  "id": "w_tree",
+  "kind": "word",
+  "text": "tree",
+  "ssml": "<prosody rate='-12%'>tree</prosody>"
+ },
+ {
+  "id": "w_sleep",
+  "kind": "word",
+  "text": "sleep",
+  "ssml": "<prosody rate='-12%'>sleep</prosody>"
+ },
+ {
+  "id": "w_sheep",
+  "kind": "word",
+  "text": "sheep",
+  "ssml": "<prosody rate='-12%'>sheep</prosody>"
+ },
+ {
+  "id": "w_feed",
+  "kind": "word",
+  "text": "feed",
+  "ssml": "<prosody rate='-12%'>feed</prosody>"
+ },
+ {
+  "id": "w_week",
+  "kind": "word",
+  "text": "week",
+  "ssml": "<prosody rate='-12%'>week</prosody>"
+ },
+ {
+  "id": "w_green",
+  "kind": "word",
+  "text": "green",
+  "ssml": "<prosody rate='-12%'>green</prosody>"
+ },
+ {
+  "id": "w_teeth",
+  "kind": "word",
+  "text": "teeth",
+  "ssml": "<prosody rate='-12%'>teeth</prosody>"
+ },
+ {
+  "id": "w_queen",
+  "kind": "word",
+  "text": "queen",
+  "ssml": "<prosody rate='-12%'>queen</prosody>"
+ },
+ {
+  "id": "w_high",
+  "kind": "word",
+  "text": "high",
+  "ssml": "<prosody rate='-12%'>high</prosody>"
+ },
+ {
+  "id": "w_sigh",
+  "kind": "word",
+  "text": "sigh",
+  "ssml": "<prosody rate='-12%'>sigh</prosody>"
+ },
+ {
+  "id": "w_night",
+  "kind": "word",
+  "text": "night",
+  "ssml": "<prosody rate='-12%'>night</prosody>"
+ },
+ {
+  "id": "w_light",
+  "kind": "word",
+  "text": "light",
+  "ssml": "<prosody rate='-12%'>light</prosody>"
+ },
+ {
+  "id": "w_fight",
+  "kind": "word",
+  "text": "fight",
+  "ssml": "<prosody rate='-12%'>fight</prosody>"
+ },
+ {
+  "id": "w_right",
+  "kind": "word",
+  "text": "right",
+  "ssml": "<prosody rate='-12%'>right</prosody>"
+ },
+ {
+  "id": "w_might",
+  "kind": "word",
+  "text": "might",
+  "ssml": "<prosody rate='-12%'>might</prosody>"
+ },
+ {
+  "id": "w_tight",
+  "kind": "word",
+  "text": "tight",
+  "ssml": "<prosody rate='-12%'>tight</prosody>"
+ },
+ {
+  "id": "w_bright",
+  "kind": "word",
+  "text": "bright",
+  "ssml": "<prosody rate='-12%'>bright</prosody>"
+ },
+ {
+  "id": "w_boat",
+  "kind": "word",
+  "text": "boat",
+  "ssml": "<prosody rate='-12%'>boat</prosody>"
+ },
+ {
+  "id": "w_coat",
+  "kind": "word",
+  "text": "coat",
+  "ssml": "<prosody rate='-12%'>coat</prosody>"
+ },
+ {
+  "id": "w_goat",
+  "kind": "word",
+  "text": "goat",
+  "ssml": "<prosody rate='-12%'>goat</prosody>"
+ },
+ {
+  "id": "w_road",
+  "kind": "word",
+  "text": "road",
+  "ssml": "<prosody rate='-12%'>road</prosody>"
+ },
+ {
+  "id": "w_load",
+  "kind": "word",
+  "text": "load",
+  "ssml": "<prosody rate='-12%'>load</prosody>"
+ },
+ {
+  "id": "w_toad",
+  "kind": "word",
+  "text": "toad",
+  "ssml": "<prosody rate='-12%'>toad</prosody>"
+ },
+ {
+  "id": "w_soap",
+  "kind": "word",
+  "text": "soap",
+  "ssml": "<prosody rate='-12%'>soap</prosody>"
+ },
+ {
+  "id": "w_foam",
+  "kind": "word",
+  "text": "foam",
+  "ssml": "<prosody rate='-12%'>foam</prosody>"
+ },
+ {
+  "id": "w_oak",
+  "kind": "word",
+  "text": "oak",
+  "ssml": "<prosody rate='-12%'>oak</prosody>"
+ },
+ {
+  "id": "w_loaf",
+  "kind": "word",
+  "text": "loaf",
+  "ssml": "<prosody rate='-12%'>loaf</prosody>"
+ },
+ {
+  "id": "w_moon",
+  "kind": "word",
+  "text": "moon",
+  "ssml": "<prosody rate='-12%'>moon</prosody>"
+ },
+ {
+  "id": "w_food",
+  "kind": "word",
+  "text": "food",
+  "ssml": "<prosody rate='-12%'>food</prosody>"
+ },
+ {
+  "id": "w_root",
+  "kind": "word",
+  "text": "root",
+  "ssml": "<prosody rate='-12%'>root</prosody>"
+ },
+ {
+  "id": "w_boot",
+  "kind": "word",
+  "text": "boot",
+  "ssml": "<prosody rate='-12%'>boot</prosody>"
+ },
+ {
+  "id": "w_hoop",
+  "kind": "word",
+  "text": "hoop",
+  "ssml": "<prosody rate='-12%'>hoop</prosody>"
+ },
+ {
+  "id": "w_zoo",
+  "kind": "word",
+  "text": "zoo",
+  "ssml": "<prosody rate='-12%'>zoo</prosody>"
+ },
+ {
+  "id": "w_too",
+  "kind": "word",
+  "text": "too",
+  "ssml": "<prosody rate='-12%'>too</prosody>"
+ },
+ {
+  "id": "w_soon",
+  "kind": "word",
+  "text": "soon",
+  "ssml": "<prosody rate='-12%'>soon</prosody>"
+ },
+ {
+  "id": "w_pool",
+  "kind": "word",
+  "text": "pool",
+  "ssml": "<prosody rate='-12%'>pool</prosody>"
+ },
+ {
+  "id": "w_cool",
+  "kind": "word",
+  "text": "cool",
+  "ssml": "<prosody rate='-12%'>cool</prosody>"
+ },
+ {
+  "id": "w_roof",
+  "kind": "word",
+  "text": "roof",
+  "ssml": "<prosody rate='-12%'>roof</prosody>"
+ },
+ {
+  "id": "w_tooth",
+  "kind": "word",
+  "text": "tooth",
+  "ssml": "<prosody rate='-12%'>tooth</prosody>"
+ },
+ {
+  "id": "w_boo",
+  "kind": "word",
+  "text": "boo",
+  "ssml": "<prosody rate='-12%'>boo</prosody>"
+ },
+ {
+  "id": "w_moo",
+  "kind": "word",
+  "text": "moo",
+  "ssml": "<prosody rate='-12%'>moo</prosody>"
+ },
+ {
+  "id": "w_spoon",
+  "kind": "word",
+  "text": "spoon",
+  "ssml": "<prosody rate='-12%'>spoon</prosody>"
+ },
+ {
+  "id": "w_broom",
+  "kind": "word",
+  "text": "broom",
+  "ssml": "<prosody rate='-12%'>broom</prosody>"
+ },
+ {
+  "id": "w_car",
+  "kind": "word",
+  "text": "car",
+  "ssml": "<prosody rate='-12%'>car</prosody>"
+ },
+ {
+  "id": "w_far",
+  "kind": "word",
+  "text": "far",
+  "ssml": "<prosody rate='-12%'>far</prosody>"
+ },
+ {
+  "id": "w_jar",
+  "kind": "word",
+  "text": "jar",
+  "ssml": "<prosody rate='-12%'>jar</prosody>"
+ },
+ {
+  "id": "w_bar",
+  "kind": "word",
+  "text": "bar",
+  "ssml": "<prosody rate='-12%'>bar</prosody>"
+ },
+ {
+  "id": "w_star",
+  "kind": "word",
+  "text": "star",
+  "ssml": "<prosody rate='-12%'>star</prosody>"
+ },
+ {
+  "id": "w_card",
+  "kind": "word",
+  "text": "card",
+  "ssml": "<prosody rate='-12%'>card</prosody>"
+ },
+ {
+  "id": "w_park",
+  "kind": "word",
+  "text": "park",
+  "ssml": "<prosody rate='-12%'>park</prosody>"
+ },
+ {
+  "id": "w_dark",
+  "kind": "word",
+  "text": "dark",
+  "ssml": "<prosody rate='-12%'>dark</prosody>"
+ },
+ {
+  "id": "w_farm",
+  "kind": "word",
+  "text": "farm",
+  "ssml": "<prosody rate='-12%'>farm</prosody>"
+ },
+ {
+  "id": "w_barn",
+  "kind": "word",
+  "text": "barn",
+  "ssml": "<prosody rate='-12%'>barn</prosody>"
+ },
+ {
+  "id": "w_arm",
+  "kind": "word",
+  "text": "arm",
+  "ssml": "<prosody rate='-12%'>arm</prosody>"
+ },
+ {
+  "id": "w_art",
+  "kind": "word",
+  "text": "art",
+  "ssml": "<prosody rate='-12%'>art</prosody>"
+ },
+ {
+  "id": "w_hard",
+  "kind": "word",
+  "text": "hard",
+  "ssml": "<prosody rate='-12%'>hard</prosody>"
+ },
+ {
+  "id": "w_shark",
+  "kind": "word",
+  "text": "shark",
+  "ssml": "<prosody rate='-12%'>shark</prosody>"
+ },
+ {
+  "id": "w_for",
+  "kind": "word",
+  "text": "for",
+  "ssml": "<prosody rate='-12%'>for</prosody>"
+ },
+ {
+  "id": "w_fork",
+  "kind": "word",
+  "text": "fork",
+  "ssml": "<prosody rate='-12%'>fork</prosody>"
+ },
+ {
+  "id": "w_corn",
+  "kind": "word",
+  "text": "corn",
+  "ssml": "<prosody rate='-12%'>corn</prosody>"
+ },
+ {
+  "id": "w_born",
+  "kind": "word",
+  "text": "born",
+  "ssml": "<prosody rate='-12%'>born</prosody>"
+ },
+ {
+  "id": "w_horn",
+  "kind": "word",
+  "text": "horn",
+  "ssml": "<prosody rate='-12%'>horn</prosody>"
+ },
+ {
+  "id": "w_torn",
+  "kind": "word",
+  "text": "torn",
+  "ssml": "<prosody rate='-12%'>torn</prosody>"
+ },
+ {
+  "id": "w_sort",
+  "kind": "word",
+  "text": "sort",
+  "ssml": "<prosody rate='-12%'>sort</prosody>"
+ },
+ {
+  "id": "w_short",
+  "kind": "word",
+  "text": "short",
+  "ssml": "<prosody rate='-12%'>short</prosody>"
+ },
+ {
+  "id": "w_cord",
+  "kind": "word",
+  "text": "cord",
+  "ssml": "<prosody rate='-12%'>cord</prosody>"
+ },
+ {
+  "id": "w_storm",
+  "kind": "word",
+  "text": "storm",
+  "ssml": "<prosody rate='-12%'>storm</prosody>"
+ },
+ {
+  "id": "w_sport",
+  "kind": "word",
+  "text": "sport",
+  "ssml": "<prosody rate='-12%'>sport</prosody>"
+ },
+ {
+  "id": "w_fur",
+  "kind": "word",
+  "text": "fur",
+  "ssml": "<prosody rate='-12%'>fur</prosody>"
+ },
+ {
+  "id": "w_burn",
+  "kind": "word",
+  "text": "burn",
+  "ssml": "<prosody rate='-12%'>burn</prosody>"
+ },
+ {
+  "id": "w_turn",
+  "kind": "word",
+  "text": "turn",
+  "ssml": "<prosody rate='-12%'>turn</prosody>"
+ },
+ {
+  "id": "w_hurt",
+  "kind": "word",
+  "text": "hurt",
+  "ssml": "<prosody rate='-12%'>hurt</prosody>"
+ },
+ {
+  "id": "w_curl",
+  "kind": "word",
+  "text": "curl",
+  "ssml": "<prosody rate='-12%'>curl</prosody>"
+ },
+ {
+  "id": "w_surf",
+  "kind": "word",
+  "text": "surf",
+  "ssml": "<prosody rate='-12%'>surf</prosody>"
+ },
+ {
+  "id": "w_burp",
+  "kind": "word",
+  "text": "burp",
+  "ssml": "<prosody rate='-12%'>burp</prosody>"
+ },
+ {
+  "id": "w_church",
+  "kind": "word",
+  "text": "church",
+  "ssml": "<prosody rate='-12%'>church</prosody>"
+ },
+ {
+  "id": "w_cow",
+  "kind": "word",
+  "text": "cow",
+  "ssml": "<prosody rate='-12%'>cow</prosody>"
+ },
+ {
+  "id": "w_how",
+  "kind": "word",
+  "text": "how",
+  "ssml": "<prosody rate='-12%'>how</prosody>"
+ },
+ {
+  "id": "w_now",
+  "kind": "word",
+  "text": "now",
+  "ssml": "<prosody rate='-12%'>now</prosody>"
+ },
+ {
+  "id": "w_down",
+  "kind": "word",
+  "text": "down",
+  "ssml": "<prosody rate='-12%'>down</prosody>"
+ },
+ {
+  "id": "w_town",
+  "kind": "word",
+  "text": "town",
+  "ssml": "<prosody rate='-12%'>town</prosody>"
+ },
+ {
+  "id": "w_owl",
+  "kind": "word",
+  "text": "owl",
+  "ssml": "<prosody rate='-12%'>owl</prosody>"
+ },
+ {
+  "id": "w_howl",
+  "kind": "word",
+  "text": "howl",
+  "ssml": "<prosody rate='-12%'>howl</prosody>"
+ },
+ {
+  "id": "w_brown",
+  "kind": "word",
+  "text": "brown",
+  "ssml": "<prosody rate='-12%'>brown</prosody>"
+ },
+ {
+  "id": "w_clown",
+  "kind": "word",
+  "text": "clown",
+  "ssml": "<prosody rate='-12%'>clown</prosody>"
+ },
+ {
+  "id": "w_crowd",
+  "kind": "word",
+  "text": "crowd",
+  "ssml": "<prosody rate='-12%'>crowd</prosody>"
+ },
+ {
+  "id": "w_oil",
+  "kind": "word",
+  "text": "oil",
+  "ssml": "<prosody rate='-12%'>oil</prosody>"
+ },
+ {
+  "id": "w_coin",
+  "kind": "word",
+  "text": "coin",
+  "ssml": "<prosody rate='-12%'>coin</prosody>"
+ },
+ {
+  "id": "w_join",
+  "kind": "word",
+  "text": "join",
+  "ssml": "<prosody rate='-12%'>join</prosody>"
+ },
+ {
+  "id": "w_boil",
+  "kind": "word",
+  "text": "boil",
+  "ssml": "<prosody rate='-12%'>boil</prosody>"
+ },
+ {
+  "id": "w_soil",
+  "kind": "word",
+  "text": "soil",
+  "ssml": "<prosody rate='-12%'>soil</prosody>"
+ },
+ {
+  "id": "w_foil",
+  "kind": "word",
+  "text": "foil",
+  "ssml": "<prosody rate='-12%'>foil</prosody>"
+ },
+ {
+  "id": "w_coil",
+  "kind": "word",
+  "text": "coil",
+  "ssml": "<prosody rate='-12%'>coil</prosody>"
+ },
+ {
+  "id": "w_point",
+  "kind": "word",
+  "text": "point",
+  "ssml": "<prosody rate='-12%'>point</prosody>"
+ },
+ {
+  "id": "w_toilet",
+  "kind": "word",
+  "text": "toilet",
+  "ssml": "<prosody rate='-12%'>toilet</prosody>"
+ },
+ {
+  "id": "w_ear",
+  "kind": "word",
+  "text": "ear",
+  "ssml": "<prosody rate='-12%'>ear</prosody>"
+ },
+ {
+  "id": "w_hear",
+  "kind": "word",
+  "text": "hear",
+  "ssml": "<prosody rate='-12%'>hear</prosody>"
+ },
+ {
+  "id": "w_dear",
+  "kind": "word",
+  "text": "dear",
+  "ssml": "<prosody rate='-12%'>dear</prosody>"
+ },
+ {
+  "id": "w_near",
+  "kind": "word",
+  "text": "near",
+  "ssml": "<prosody rate='-12%'>near</prosody>"
+ },
+ {
+  "id": "w_fear",
+  "kind": "word",
+  "text": "fear",
+  "ssml": "<prosody rate='-12%'>fear</prosody>"
+ },
+ {
+  "id": "w_year",
+  "kind": "word",
+  "text": "year",
+  "ssml": "<prosody rate='-12%'>year</prosody>"
+ },
+ {
+  "id": "w_tear",
+  "kind": "word",
+  "text": "tear",
+  "ssml": "<prosody rate='-12%'>tear</prosody>"
+ },
+ {
+  "id": "w_beard",
+  "kind": "word",
+  "text": "beard",
+  "ssml": "<prosody rate='-12%'>beard</prosody>"
+ },
+ {
+  "id": "w_hair",
+  "kind": "word",
+  "text": "hair",
+  "ssml": "<prosody rate='-12%'>hair</prosody>"
+ },
+ {
+  "id": "w_fair",
+  "kind": "word",
+  "text": "fair",
+  "ssml": "<prosody rate='-12%'>fair</prosody>"
+ },
+ {
+  "id": "w_pair",
+  "kind": "word",
+  "text": "pair",
+  "ssml": "<prosody rate='-12%'>pair</prosody>"
+ },
+ {
+  "id": "w_air",
+  "kind": "word",
+  "text": "air",
+  "ssml": "<prosody rate='-12%'>air</prosody>"
+ },
+ {
+  "id": "w_chair",
+  "kind": "word",
+  "text": "chair",
+  "ssml": "<prosody rate='-12%'>chair</prosody>"
+ },
+ {
+  "id": "w_stairs",
+  "kind": "word",
+  "text": "stairs",
+  "ssml": "<prosody rate='-12%'>stairs</prosody>"
+ },
+ {
+  "id": "w_hammer",
+  "kind": "word",
+  "text": "hammer",
+  "ssml": "<prosody rate='-12%'>hammer</prosody>"
+ },
+ {
+  "id": "w_letter",
+  "kind": "word",
+  "text": "letter",
+  "ssml": "<prosody rate='-12%'>letter</prosody>"
+ },
+ {
+  "id": "w_better",
+  "kind": "word",
+  "text": "better",
+  "ssml": "<prosody rate='-12%'>better</prosody>"
+ },
+ {
+  "id": "w_dinner",
+  "kind": "word",
+  "text": "dinner",
+  "ssml": "<prosody rate='-12%'>dinner</prosody>"
+ },
+ {
+  "id": "w_summer",
+  "kind": "word",
+  "text": "summer",
+  "ssml": "<prosody rate='-12%'>summer</prosody>"
+ },
+ {
+  "id": "w_boxer",
+  "kind": "word",
+  "text": "boxer",
+  "ssml": "<prosody rate='-12%'>boxer</prosody>"
+ },
+ {
+  "id": "w_ladder",
+  "kind": "word",
+  "text": "ladder",
+  "ssml": "<prosody rate='-12%'>ladder</prosody>"
+ },
+ {
+  "id": "w_sister",
+  "kind": "word",
+  "text": "sister",
+  "ssml": "<prosody rate='-12%'>sister</prosody>"
+ },
+ {
+  "id": "w_winter",
+  "kind": "word",
+  "text": "winter",
+  "ssml": "<prosody rate='-12%'>winter</prosody>"
+ },
+ {
+  "id": "w_the",
+  "kind": "word",
+  "text": "the",
+  "ssml": "<prosody rate='-12%'>the</prosody>"
+ },
+ {
+  "id": "w_to",
+  "kind": "word",
+  "text": "to",
+  "ssml": "<prosody rate='-12%'>to</prosody>"
+ },
+ {
+  "id": "w_i",
+  "kind": "word",
+  "text": "I",
+  "ssml": "<prosody rate='-12%'>I</prosody>"
+ },
+ {
+  "id": "w_no",
+  "kind": "word",
+  "text": "no",
+  "ssml": "<prosody rate='-12%'>no</prosody>"
+ },
+ {
+  "id": "w_go",
+  "kind": "word",
+  "text": "go",
+  "ssml": "<prosody rate='-12%'>go</prosody>"
+ },
+ {
+  "id": "w_into",
+  "kind": "word",
+  "text": "into",
+  "ssml": "<prosody rate='-12%'>into</prosody>"
+ },
+ {
+  "id": "w_is",
+  "kind": "word",
+  "text": "is",
+  "ssml": "<prosody rate='-12%'>is</prosody>"
+ },
+ {
+  "id": "w_his",
+  "kind": "word",
+  "text": "his",
+  "ssml": "<prosody rate='-12%'>his</prosody>"
+ },
+ {
+  "id": "w_has",
+  "kind": "word",
+  "text": "has",
+  "ssml": "<prosody rate='-12%'>has</prosody>"
+ },
+ {
+  "id": "w_as",
+  "kind": "word",
+  "text": "as",
+  "ssml": "<prosody rate='-12%'>as</prosody>"
+ },
+ {
+  "id": "w_he",
+  "kind": "word",
+  "text": "he",
+  "ssml": "<prosody rate='-12%'>he</prosody>"
+ },
+ {
+  "id": "w_she",
+  "kind": "word",
+  "text": "she",
+  "ssml": "<prosody rate='-12%'>she</prosody>"
+ },
+ {
+  "id": "w_we",
+  "kind": "word",
+  "text": "we",
+  "ssml": "<prosody rate='-12%'>we</prosody>"
+ },
+ {
+  "id": "w_me",
+  "kind": "word",
+  "text": "me",
+  "ssml": "<prosody rate='-12%'>me</prosody>"
+ },
+ {
+  "id": "w_be",
+  "kind": "word",
+  "text": "be",
+  "ssml": "<prosody rate='-12%'>be</prosody>"
+ },
+ {
+  "id": "w_was",
+  "kind": "word",
+  "text": "was",
+  "ssml": "<prosody rate='-12%'>was</prosody>"
+ },
+ {
+  "id": "w_you",
+  "kind": "word",
+  "text": "you",
+  "ssml": "<prosody rate='-12%'>you</prosody>"
+ },
+ {
+  "id": "w_they",
+  "kind": "word",
+  "text": "they",
+  "ssml": "<prosody rate='-12%'>they</prosody>"
+ },
+ {
+  "id": "w_all",
+  "kind": "word",
+  "text": "all",
+  "ssml": "<prosody rate='-12%'>all</prosody>"
+ },
+ {
+  "id": "w_are",
+  "kind": "word",
+  "text": "are",
+  "ssml": "<prosody rate='-12%'>are</prosody>"
+ },
+ {
+  "id": "w_my",
+  "kind": "word",
+  "text": "my",
+  "ssml": "<prosody rate='-12%'>my</prosody>"
+ },
+ {
+  "id": "w_her",
+  "kind": "word",
+  "text": "her",
+  "ssml": "<prosody rate='-12%'>her</prosody>"
+ },
+ {
+  "id": "w_said",
+  "kind": "word",
+  "text": "said",
+  "ssml": "<prosody rate='-12%'>said</prosody>"
+ },
+ {
+  "id": "w_have",
+  "kind": "word",
+  "text": "have",
+  "ssml": "<prosody rate='-12%'>have</prosody>"
+ },
+ {
+  "id": "w_like",
+  "kind": "word",
+  "text": "like",
+  "ssml": "<prosody rate='-12%'>like</prosody>"
+ },
+ {
+  "id": "w_so",
+  "kind": "word",
+  "text": "so",
+  "ssml": "<prosody rate='-12%'>so</prosody>"
+ },
+ {
+  "id": "w_do",
+  "kind": "word",
+  "text": "do",
+  "ssml": "<prosody rate='-12%'>do</prosody>"
+ },
+ {
+  "id": "w_some",
+  "kind": "word",
+  "text": "some",
+  "ssml": "<prosody rate='-12%'>some</prosody>"
+ },
+ {
+  "id": "w_come",
+  "kind": "word",
+  "text": "come",
+  "ssml": "<prosody rate='-12%'>come</prosody>"
+ },
+ {
+  "id": "w_were",
+  "kind": "word",
+  "text": "were",
+  "ssml": "<prosody rate='-12%'>were</prosody>"
+ },
+ {
+  "id": "w_there",
+  "kind": "word",
+  "text": "there",
+  "ssml": "<prosody rate='-12%'>there</prosody>"
+ },
+ {
+  "id": "w_little",
+  "kind": "word",
+  "text": "little",
+  "ssml": "<prosody rate='-12%'>little</prosody>"
+ },
+ {
+  "id": "w_one",
+  "kind": "word",
+  "text": "one",
+  "ssml": "<prosody rate='-12%'>one</prosody>"
+ },
+ {
+  "id": "w_when",
+  "kind": "word",
+  "text": "when",
+  "ssml": "<prosody rate='-12%'>when</prosody>"
+ },
+ {
+  "id": "w_out",
+  "kind": "word",
+  "text": "out",
+  "ssml": "<prosody rate='-12%'>out</prosody>"
+ },
+ {
+  "id": "w_what",
+  "kind": "word",
+  "text": "what",
+  "ssml": "<prosody rate='-12%'>what</prosody>"
+ },
+ {
+  "id": "b_sat",
+  "kind": "blend",
+  "text": "sat",
+  "ssml": "<prosody rate='-65%'>sat</prosody>"
+ },
+ {
+  "id": "b_tap",
+  "kind": "blend",
+  "text": "tap",
+  "ssml": "<prosody rate='-65%'>tap</prosody>"
+ },
+ {
+  "id": "b_pat",
+  "kind": "blend",
+  "text": "pat",
+  "ssml": "<prosody rate='-65%'>pat</prosody>"
+ },
+ {
+  "id": "b_at",
+  "kind": "blend",
+  "text": "at",
+  "ssml": "<prosody rate='-65%'>at</prosody>"
+ },
+ {
+  "id": "b_sap",
+  "kind": "blend",
+  "text": "sap",
+  "ssml": "<prosody rate='-65%'>sap</prosody>"
+ },
+ {
+  "id": "b_taps",
+  "kind": "blend",
+  "text": "taps",
+  "ssml": "<prosody rate='-65%'>taps</prosody>"
+ },
+ {
+  "id": "b_pats",
+  "kind": "blend",
+  "text": "pats",
+  "ssml": "<prosody rate='-65%'>pats</prosody>"
+ },
+ {
+  "id": "b_sit",
+  "kind": "blend",
+  "text": "sit",
+  "ssml": "<prosody rate='-65%'>sit</prosody>"
+ },
+ {
+  "id": "b_tin",
+  "kind": "blend",
+  "text": "tin",
+  "ssml": "<prosody rate='-65%'>tin</prosody>"
+ },
+ {
+  "id": "b_pin",
+  "kind": "blend",
+  "text": "pin",
+  "ssml": "<prosody rate='-65%'>pin</prosody>"
+ },
+ {
+  "id": "b_pit",
+  "kind": "blend",
+  "text": "pit",
+  "ssml": "<prosody rate='-65%'>pit</prosody>"
+ },
+ {
+  "id": "b_tip",
+  "kind": "blend",
+  "text": "tip",
+  "ssml": "<prosody rate='-65%'>tip</prosody>"
+ },
+ {
+  "id": "b_nip",
+  "kind": "blend",
+  "text": "nip",
+  "ssml": "<prosody rate='-65%'>nip</prosody>"
+ },
+ {
+  "id": "b_sip",
+  "kind": "blend",
+  "text": "sip",
+  "ssml": "<prosody rate='-65%'>sip</prosody>"
+ },
+ {
+  "id": "b_dip",
+  "kind": "blend",
+  "text": "dip",
+  "ssml": "<prosody rate='-65%'>dip</prosody>"
+ },
+ {
+  "id": "b_mat",
+  "kind": "blend",
+  "text": "mat",
+  "ssml": "<prosody rate='-65%'>mat</prosody>"
+ },
+ {
+  "id": "b_man",
+  "kind": "blend",
+  "text": "man",
+  "ssml": "<prosody rate='-65%'>man</prosody>"
+ },
+ {
+  "id": "b_map",
+  "kind": "blend",
+  "text": "map",
+  "ssml": "<prosody rate='-65%'>map</prosody>"
+ },
+ {
+  "id": "b_nap",
+  "kind": "blend",
+  "text": "nap",
+  "ssml": "<prosody rate='-65%'>nap</prosody>"
+ },
+ {
+  "id": "b_pan",
+  "kind": "blend",
+  "text": "pan",
+  "ssml": "<prosody rate='-65%'>pan</prosody>"
+ },
+ {
+  "id": "b_tan",
+  "kind": "blend",
+  "text": "tan",
+  "ssml": "<prosody rate='-65%'>tan</prosody>"
+ },
+ {
+  "id": "b_dad",
+  "kind": "blend",
+  "text": "dad",
+  "ssml": "<prosody rate='-65%'>dad</prosody>"
+ },
+ {
+  "id": "b_sad",
+  "kind": "blend",
+  "text": "sad",
+  "ssml": "<prosody rate='-65%'>sad</prosody>"
+ },
+ {
+  "id": "b_mad",
+  "kind": "blend",
+  "text": "mad",
+  "ssml": "<prosody rate='-65%'>mad</prosody>"
+ },
+ {
+  "id": "b_dim",
+  "kind": "blend",
+  "text": "dim",
+  "ssml": "<prosody rate='-65%'>dim</prosody>"
+ },
+ {
+  "id": "b_did",
+  "kind": "blend",
+  "text": "did",
+  "ssml": "<prosody rate='-65%'>did</prosody>"
+ },
+ {
+  "id": "b_it",
+  "kind": "blend",
+  "text": "it",
+  "ssml": "<prosody rate='-65%'>it</prosody>"
+ },
+ {
+  "id": "b_in",
+  "kind": "blend",
+  "text": "in",
+  "ssml": "<prosody rate='-65%'>in</prosody>"
+ },
+ {
+  "id": "b_an",
+  "kind": "blend",
+  "text": "an",
+  "ssml": "<prosody rate='-65%'>an</prosody>"
+ },
+ {
+  "id": "b_am",
+  "kind": "blend",
+  "text": "am",
+  "ssml": "<prosody rate='-65%'>am</prosody>"
+ },
+ {
+  "id": "b_and",
+  "kind": "blend",
+  "text": "and",
+  "ssml": "<prosody rate='-65%'>and</prosody>"
+ },
+ {
+  "id": "b_pad",
+  "kind": "blend",
+  "text": "pad",
+  "ssml": "<prosody rate='-65%'>pad</prosody>"
+ },
+ {
+  "id": "b_sam",
+  "kind": "blend",
+  "text": "Sam",
+  "ssml": "<prosody rate='-65%'>Sam</prosody>"
+ },
+ {
+  "id": "b_tim",
+  "kind": "blend",
+  "text": "Tim",
+  "ssml": "<prosody rate='-65%'>Tim</prosody>"
+ },
+ {
+  "id": "b_pam",
+  "kind": "blend",
+  "text": "Pam",
+  "ssml": "<prosody rate='-65%'>Pam</prosody>"
+ },
+ {
+  "id": "b_dan",
+  "kind": "blend",
+  "text": "Dan",
+  "ssml": "<prosody rate='-65%'>Dan</prosody>"
+ },
+ {
+  "id": "b_ant",
+  "kind": "blend",
+  "text": "ant",
+  "ssml": "<prosody rate='-65%'>ant</prosody>"
+ },
+ {
+  "id": "b_tins",
+  "kind": "blend",
+  "text": "tins",
+  "ssml": "<prosody rate='-65%'>tins</prosody>"
+ },
+ {
+  "id": "b_naps",
+  "kind": "blend",
+  "text": "naps",
+  "ssml": "<prosody rate='-65%'>naps</prosody>"
+ },
+ {
+  "id": "b_got",
+  "kind": "blend",
+  "text": "got",
+  "ssml": "<prosody rate='-65%'>got</prosody>"
+ },
+ {
+  "id": "b_dog",
+  "kind": "blend",
+  "text": "dog",
+  "ssml": "<prosody rate='-65%'>dog</prosody>"
+ },
+ {
+  "id": "b_cot",
+  "kind": "blend",
+  "text": "cot",
+  "ssml": "<prosody rate='-65%'>cot</prosody>"
+ },
+ {
+  "id": "b_cop",
+  "kind": "blend",
+  "text": "cop",
+  "ssml": "<prosody rate='-65%'>cop</prosody>"
+ },
+ {
+  "id": "b_top",
+  "kind": "blend",
+  "text": "top",
+  "ssml": "<prosody rate='-65%'>top</prosody>"
+ },
+ {
+  "id": "b_pot",
+  "kind": "blend",
+  "text": "pot",
+  "ssml": "<prosody rate='-65%'>pot</prosody>"
+ },
+ {
+  "id": "b_mop",
+  "kind": "blend",
+  "text": "mop",
+  "ssml": "<prosody rate='-65%'>mop</prosody>"
+ },
+ {
+  "id": "b_pop",
+  "kind": "blend",
+  "text": "pop",
+  "ssml": "<prosody rate='-65%'>pop</prosody>"
+ },
+ {
+  "id": "b_cat",
+  "kind": "blend",
+  "text": "cat",
+  "ssml": "<prosody rate='-65%'>cat</prosody>"
+ },
+ {
+  "id": "b_can",
+  "kind": "blend",
+  "text": "can",
+  "ssml": "<prosody rate='-65%'>can</prosody>"
+ },
+ {
+  "id": "b_cap",
+  "kind": "blend",
+  "text": "cap",
+  "ssml": "<prosody rate='-65%'>cap</prosody>"
+ },
+ {
+  "id": "b_kid",
+  "kind": "blend",
+  "text": "kid",
+  "ssml": "<prosody rate='-65%'>kid</prosody>"
+ },
+ {
+  "id": "b_kit",
+  "kind": "blend",
+  "text": "kit",
+  "ssml": "<prosody rate='-65%'>kit</prosody>"
+ },
+ {
+  "id": "b_gap",
+  "kind": "blend",
+  "text": "gap",
+  "ssml": "<prosody rate='-65%'>gap</prosody>"
+ },
+ {
+  "id": "b_gas",
+  "kind": "blend",
+  "text": "gas",
+  "ssml": "<prosody rate='-65%'>gas</prosody>"
+ },
+ {
+  "id": "b_dig",
+  "kind": "blend",
+  "text": "dig",
+  "ssml": "<prosody rate='-65%'>dig</prosody>"
+ },
+ {
+  "id": "b_pig",
+  "kind": "blend",
+  "text": "pig",
+  "ssml": "<prosody rate='-65%'>pig</prosody>"
+ },
+ {
+  "id": "b_not",
+  "kind": "blend",
+  "text": "not",
+  "ssml": "<prosody rate='-65%'>not</prosody>"
+ },
+ {
+  "id": "b_dot",
+  "kind": "blend",
+  "text": "dot",
+  "ssml": "<prosody rate='-65%'>dot</prosody>"
+ },
+ {
+  "id": "b_on",
+  "kind": "blend",
+  "text": "on",
+  "ssml": "<prosody rate='-65%'>on</prosody>"
+ },
+ {
+  "id": "b_cod",
+  "kind": "blend",
+  "text": "cod",
+  "ssml": "<prosody rate='-65%'>cod</prosody>"
+ },
+ {
+  "id": "b_nod",
+  "kind": "blend",
+  "text": "nod",
+  "ssml": "<prosody rate='-65%'>nod</prosody>"
+ },
+ {
+  "id": "b_mom",
+  "kind": "blend",
+  "text": "mom",
+  "ssml": "<prosody rate='-65%'>mom</prosody>"
+ },
+ {
+  "id": "b_kim",
+  "kind": "blend",
+  "text": "Kim",
+  "ssml": "<prosody rate='-65%'>Kim</prosody>"
+ },
+ {
+  "id": "b_tom",
+  "kind": "blend",
+  "text": "Tom",
+  "ssml": "<prosody rate='-65%'>Tom</prosody>"
+ },
+ {
+  "id": "b_dogs",
+  "kind": "blend",
+  "text": "dogs",
+  "ssml": "<prosody rate='-65%'>dogs</prosody>"
+ },
+ {
+  "id": "b_cats",
+  "kind": "blend",
+  "text": "cats",
+  "ssml": "<prosody rate='-65%'>cats</prosody>"
+ },
+ {
+  "id": "b_pigs",
+  "kind": "blend",
+  "text": "pigs",
+  "ssml": "<prosody rate='-65%'>pigs</prosody>"
+ },
+ {
+  "id": "b_duck",
+  "kind": "blend",
+  "text": "duck",
+  "ssml": "<prosody rate='-65%'>duck</prosody>"
+ },
+ {
+  "id": "b_kick",
+  "kind": "blend",
+  "text": "kick",
+  "ssml": "<prosody rate='-65%'>kick</prosody>"
+ },
+ {
+  "id": "b_pick",
+  "kind": "blend",
+  "text": "pick",
+  "ssml": "<prosody rate='-65%'>pick</prosody>"
+ },
+ {
+  "id": "b_pack",
+  "kind": "blend",
+  "text": "pack",
+  "ssml": "<prosody rate='-65%'>pack</prosody>"
+ },
+ {
+  "id": "b_sack",
+  "kind": "blend",
+  "text": "sack",
+  "ssml": "<prosody rate='-65%'>sack</prosody>"
+ },
+ {
+  "id": "b_neck",
+  "kind": "blend",
+  "text": "neck",
+  "ssml": "<prosody rate='-65%'>neck</prosody>"
+ },
+ {
+  "id": "b_peck",
+  "kind": "blend",
+  "text": "peck",
+  "ssml": "<prosody rate='-65%'>peck</prosody>"
+ },
+ {
+  "id": "b_deck",
+  "kind": "blend",
+  "text": "deck",
+  "ssml": "<prosody rate='-65%'>deck</prosody>"
+ },
+ {
+  "id": "b_tuck",
+  "kind": "blend",
+  "text": "tuck",
+  "ssml": "<prosody rate='-65%'>tuck</prosody>"
+ },
+ {
+  "id": "b_rock",
+  "kind": "blend",
+  "text": "rock",
+  "ssml": "<prosody rate='-65%'>rock</prosody>"
+ },
+ {
+  "id": "b_sock",
+  "kind": "blend",
+  "text": "sock",
+  "ssml": "<prosody rate='-65%'>sock</prosody>"
+ },
+ {
+  "id": "b_tick",
+  "kind": "blend",
+  "text": "tick",
+  "ssml": "<prosody rate='-65%'>tick</prosody>"
+ },
+ {
+  "id": "b_pet",
+  "kind": "blend",
+  "text": "pet",
+  "ssml": "<prosody rate='-65%'>pet</prosody>"
+ },
+ {
+  "id": "b_ten",
+  "kind": "blend",
+  "text": "ten",
+  "ssml": "<prosody rate='-65%'>ten</prosody>"
+ },
+ {
+  "id": "b_net",
+  "kind": "blend",
+  "text": "net",
+  "ssml": "<prosody rate='-65%'>net</prosody>"
+ },
+ {
+  "id": "b_pen",
+  "kind": "blend",
+  "text": "pen",
+  "ssml": "<prosody rate='-65%'>pen</prosody>"
+ },
+ {
+  "id": "b_men",
+  "kind": "blend",
+  "text": "men",
+  "ssml": "<prosody rate='-65%'>men</prosody>"
+ },
+ {
+  "id": "b_get",
+  "kind": "blend",
+  "text": "get",
+  "ssml": "<prosody rate='-65%'>get</prosody>"
+ },
+ {
+  "id": "b_set",
+  "kind": "blend",
+  "text": "set",
+  "ssml": "<prosody rate='-65%'>set</prosody>"
+ },
+ {
+  "id": "b_peg",
+  "kind": "blend",
+  "text": "peg",
+  "ssml": "<prosody rate='-65%'>peg</prosody>"
+ },
+ {
+  "id": "b_den",
+  "kind": "blend",
+  "text": "den",
+  "ssml": "<prosody rate='-65%'>den</prosody>"
+ },
+ {
+  "id": "b_red",
+  "kind": "blend",
+  "text": "red",
+  "ssml": "<prosody rate='-65%'>red</prosody>"
+ },
+ {
+  "id": "b_rat",
+  "kind": "blend",
+  "text": "rat",
+  "ssml": "<prosody rate='-65%'>rat</prosody>"
+ },
+ {
+  "id": "b_ram",
+  "kind": "blend",
+  "text": "ram",
+  "ssml": "<prosody rate='-65%'>ram</prosody>"
+ },
+ {
+  "id": "b_rip",
+  "kind": "blend",
+  "text": "rip",
+  "ssml": "<prosody rate='-65%'>rip</prosody>"
+ },
+ {
+  "id": "b_rod",
+  "kind": "blend",
+  "text": "rod",
+  "ssml": "<prosody rate='-65%'>rod</prosody>"
+ },
+ {
+  "id": "b_rug",
+  "kind": "blend",
+  "text": "rug",
+  "ssml": "<prosody rate='-65%'>rug</prosody>"
+ },
+ {
+  "id": "b_run",
+  "kind": "blend",
+  "text": "run",
+  "ssml": "<prosody rate='-65%'>run</prosody>"
+ },
+ {
+  "id": "b_rot",
+  "kind": "blend",
+  "text": "rot",
+  "ssml": "<prosody rate='-65%'>rot</prosody>"
+ },
+ {
+  "id": "b_up",
+  "kind": "blend",
+  "text": "up",
+  "ssml": "<prosody rate='-65%'>up</prosody>"
+ },
+ {
+  "id": "b_cup",
+  "kind": "blend",
+  "text": "cup",
+  "ssml": "<prosody rate='-65%'>cup</prosody>"
+ },
+ {
+  "id": "b_cut",
+  "kind": "blend",
+  "text": "cut",
+  "ssml": "<prosody rate='-65%'>cut</prosody>"
+ },
+ {
+  "id": "b_mud",
+  "kind": "blend",
+  "text": "mud",
+  "ssml": "<prosody rate='-65%'>mud</prosody>"
+ },
+ {
+  "id": "b_mug",
+  "kind": "blend",
+  "text": "mug",
+  "ssml": "<prosody rate='-65%'>mug</prosody>"
+ },
+ {
+  "id": "b_sun",
+  "kind": "blend",
+  "text": "sun",
+  "ssml": "<prosody rate='-65%'>sun</prosody>"
+ },
+ {
+  "id": "b_nut",
+  "kind": "blend",
+  "text": "nut",
+  "ssml": "<prosody rate='-65%'>nut</prosody>"
+ },
+ {
+  "id": "b_tug",
+  "kind": "blend",
+  "text": "tug",
+  "ssml": "<prosody rate='-65%'>tug</prosody>"
+ },
+ {
+  "id": "b_gum",
+  "kind": "blend",
+  "text": "gum",
+  "ssml": "<prosody rate='-65%'>gum</prosody>"
+ },
+ {
+  "id": "b_sum",
+  "kind": "blend",
+  "text": "sum",
+  "ssml": "<prosody rate='-65%'>sum</prosody>"
+ },
+ {
+  "id": "b_us",
+  "kind": "blend",
+  "text": "us",
+  "ssml": "<prosody rate='-65%'>us</prosody>"
+ },
+ {
+  "id": "b_rocket",
+  "kind": "blend",
+  "text": "rocket",
+  "ssml": "<prosody rate='-65%'>rocket</prosody>"
+ },
+ {
+  "id": "b_meg",
+  "kind": "blend",
+  "text": "Meg",
+  "ssml": "<prosody rate='-65%'>Meg</prosody>"
+ },
+ {
+  "id": "b_ted",
+  "kind": "blend",
+  "text": "Ted",
+  "ssml": "<prosody rate='-65%'>Ted</prosody>"
+ },
+ {
+  "id": "b_gus",
+  "kind": "blend",
+  "text": "Gus",
+  "ssml": "<prosody rate='-65%'>Gus</prosody>"
+ },
+ {
+  "id": "b_ducks",
+  "kind": "blend",
+  "text": "ducks",
+  "ssml": "<prosody rate='-65%'>ducks</prosody>"
+ },
+ {
+  "id": "b_cups",
+  "kind": "blend",
+  "text": "cups",
+  "ssml": "<prosody rate='-65%'>cups</prosody>"
+ },
+ {
+  "id": "b_pets",
+  "kind": "blend",
+  "text": "pets",
+  "ssml": "<prosody rate='-65%'>pets</prosody>"
+ },
+ {
+  "id": "b_hat",
+  "kind": "blend",
+  "text": "hat",
+  "ssml": "<prosody rate='-65%'>hat</prosody>"
+ },
+ {
+  "id": "b_him",
+  "kind": "blend",
+  "text": "him",
+  "ssml": "<prosody rate='-65%'>him</prosody>"
+ },
+ {
+  "id": "b_hot",
+  "kind": "blend",
+  "text": "hot",
+  "ssml": "<prosody rate='-65%'>hot</prosody>"
+ },
+ {
+  "id": "b_hit",
+  "kind": "blend",
+  "text": "hit",
+  "ssml": "<prosody rate='-65%'>hit</prosody>"
+ },
+ {
+  "id": "b_hen",
+  "kind": "blend",
+  "text": "hen",
+  "ssml": "<prosody rate='-65%'>hen</prosody>"
+ },
+ {
+  "id": "b_hop",
+  "kind": "blend",
+  "text": "hop",
+  "ssml": "<prosody rate='-65%'>hop</prosody>"
+ },
+ {
+  "id": "b_hug",
+  "kind": "blend",
+  "text": "hug",
+  "ssml": "<prosody rate='-65%'>hug</prosody>"
+ },
+ {
+  "id": "b_hum",
+  "kind": "blend",
+  "text": "hum",
+  "ssml": "<prosody rate='-65%'>hum</prosody>"
+ },
+ {
+  "id": "b_hip",
+  "kind": "blend",
+  "text": "hip",
+  "ssml": "<prosody rate='-65%'>hip</prosody>"
+ },
+ {
+  "id": "b_hut",
+  "kind": "blend",
+  "text": "hut",
+  "ssml": "<prosody rate='-65%'>hut</prosody>"
+ },
+ {
+  "id": "b_bag",
+  "kind": "blend",
+  "text": "bag",
+  "ssml": "<prosody rate='-65%'>bag</prosody>"
+ },
+ {
+  "id": "b_bat",
+  "kind": "blend",
+  "text": "bat",
+  "ssml": "<prosody rate='-65%'>bat</prosody>"
+ },
+ {
+  "id": "b_bed",
+  "kind": "blend",
+  "text": "bed",
+  "ssml": "<prosody rate='-65%'>bed</prosody>"
+ },
+ {
+  "id": "b_bet",
+  "kind": "blend",
+  "text": "bet",
+  "ssml": "<prosody rate='-65%'>bet</prosody>"
+ },
+ {
+  "id": "b_big",
+  "kind": "blend",
+  "text": "big",
+  "ssml": "<prosody rate='-65%'>big</prosody>"
+ },
+ {
+  "id": "b_bin",
+  "kind": "blend",
+  "text": "bin",
+  "ssml": "<prosody rate='-65%'>bin</prosody>"
+ },
+ {
+  "id": "b_bit",
+  "kind": "blend",
+  "text": "bit",
+  "ssml": "<prosody rate='-65%'>bit</prosody>"
+ },
+ {
+  "id": "b_bud",
+  "kind": "blend",
+  "text": "bud",
+  "ssml": "<prosody rate='-65%'>bud</prosody>"
+ },
+ {
+  "id": "b_bug",
+  "kind": "blend",
+  "text": "bug",
+  "ssml": "<prosody rate='-65%'>bug</prosody>"
+ },
+ {
+  "id": "b_bun",
+  "kind": "blend",
+  "text": "bun",
+  "ssml": "<prosody rate='-65%'>bun</prosody>"
+ },
+ {
+  "id": "b_bus",
+  "kind": "blend",
+  "text": "bus",
+  "ssml": "<prosody rate='-65%'>bus</prosody>"
+ },
+ {
+  "id": "b_but",
+  "kind": "blend",
+  "text": "but",
+  "ssml": "<prosody rate='-65%'>but</prosody>"
+ },
+ {
+  "id": "b_bad",
+  "kind": "blend",
+  "text": "bad",
+  "ssml": "<prosody rate='-65%'>bad</prosody>"
+ },
+ {
+  "id": "b_bib",
+  "kind": "blend",
+  "text": "bib",
+  "ssml": "<prosody rate='-65%'>bib</prosody>"
+ },
+ {
+  "id": "b_bob",
+  "kind": "blend",
+  "text": "Bob",
+  "ssml": "<prosody rate='-65%'>Bob</prosody>"
+ },
+ {
+  "id": "b_cab",
+  "kind": "blend",
+  "text": "cab",
+  "ssml": "<prosody rate='-65%'>cab</prosody>"
+ },
+ {
+  "id": "b_cub",
+  "kind": "blend",
+  "text": "cub",
+  "ssml": "<prosody rate='-65%'>cub</prosody>"
+ },
+ {
+  "id": "b_rub",
+  "kind": "blend",
+  "text": "rub",
+  "ssml": "<prosody rate='-65%'>rub</prosody>"
+ },
+ {
+  "id": "b_tub",
+  "kind": "blend",
+  "text": "tub",
+  "ssml": "<prosody rate='-65%'>tub</prosody>"
+ },
+ {
+  "id": "b_sob",
+  "kind": "blend",
+  "text": "sob",
+  "ssml": "<prosody rate='-65%'>sob</prosody>"
+ },
+ {
+  "id": "b_rob",
+  "kind": "blend",
+  "text": "rob",
+  "ssml": "<prosody rate='-65%'>rob</prosody>"
+ },
+ {
+  "id": "b_fan",
+  "kind": "blend",
+  "text": "fan",
+  "ssml": "<prosody rate='-65%'>fan</prosody>"
+ },
+ {
+  "id": "b_fat",
+  "kind": "blend",
+  "text": "fat",
+  "ssml": "<prosody rate='-65%'>fat</prosody>"
+ },
+ {
+  "id": "b_fit",
+  "kind": "blend",
+  "text": "fit",
+  "ssml": "<prosody rate='-65%'>fit</prosody>"
+ },
+ {
+  "id": "b_fin",
+  "kind": "blend",
+  "text": "fin",
+  "ssml": "<prosody rate='-65%'>fin</prosody>"
+ },
+ {
+  "id": "b_fig",
+  "kind": "blend",
+  "text": "fig",
+  "ssml": "<prosody rate='-65%'>fig</prosody>"
+ },
+ {
+  "id": "b_fog",
+  "kind": "blend",
+  "text": "fog",
+  "ssml": "<prosody rate='-65%'>fog</prosody>"
+ },
+ {
+  "id": "b_fun",
+  "kind": "blend",
+  "text": "fun",
+  "ssml": "<prosody rate='-65%'>fun</prosody>"
+ },
+ {
+  "id": "b_fed",
+  "kind": "blend",
+  "text": "fed",
+  "ssml": "<prosody rate='-65%'>fed</prosody>"
+ },
+ {
+  "id": "b_fell",
+  "kind": "blend",
+  "text": "fell",
+  "ssml": "<prosody rate='-65%'>fell</prosody>"
+ },
+ {
+  "id": "b_fill",
+  "kind": "blend",
+  "text": "fill",
+  "ssml": "<prosody rate='-65%'>fill</prosody>"
+ },
+ {
+  "id": "b_huff",
+  "kind": "blend",
+  "text": "huff",
+  "ssml": "<prosody rate='-65%'>huff</prosody>"
+ },
+ {
+  "id": "b_puff",
+  "kind": "blend",
+  "text": "puff",
+  "ssml": "<prosody rate='-65%'>puff</prosody>"
+ },
+ {
+  "id": "b_off",
+  "kind": "blend",
+  "text": "off",
+  "ssml": "<prosody rate='-65%'>off</prosody>"
+ },
+ {
+  "id": "b_cuff",
+  "kind": "blend",
+  "text": "cuff",
+  "ssml": "<prosody rate='-65%'>cuff</prosody>"
+ },
+ {
+  "id": "b_lap",
+  "kind": "blend",
+  "text": "lap",
+  "ssml": "<prosody rate='-65%'>lap</prosody>"
+ },
+ {
+  "id": "b_leg",
+  "kind": "blend",
+  "text": "leg",
+  "ssml": "<prosody rate='-65%'>leg</prosody>"
+ },
+ {
+  "id": "b_let",
+  "kind": "blend",
+  "text": "let",
+  "ssml": "<prosody rate='-65%'>let</prosody>"
+ },
+ {
+  "id": "b_lid",
+  "kind": "blend",
+  "text": "lid",
+  "ssml": "<prosody rate='-65%'>lid</prosody>"
+ },
+ {
+  "id": "b_lip",
+  "kind": "blend",
+  "text": "lip",
+  "ssml": "<prosody rate='-65%'>lip</prosody>"
+ },
+ {
+  "id": "b_lit",
+  "kind": "blend",
+  "text": "lit",
+  "ssml": "<prosody rate='-65%'>lit</prosody>"
+ },
+ {
+  "id": "b_log",
+  "kind": "blend",
+  "text": "log",
+  "ssml": "<prosody rate='-65%'>log</prosody>"
+ },
+ {
+  "id": "b_lot",
+  "kind": "blend",
+  "text": "lot",
+  "ssml": "<prosody rate='-65%'>lot</prosody>"
+ },
+ {
+  "id": "b_luck",
+  "kind": "blend",
+  "text": "luck",
+  "ssml": "<prosody rate='-65%'>luck</prosody>"
+ },
+ {
+  "id": "b_lick",
+  "kind": "blend",
+  "text": "lick",
+  "ssml": "<prosody rate='-65%'>lick</prosody>"
+ },
+ {
+  "id": "b_lock",
+  "kind": "blend",
+  "text": "lock",
+  "ssml": "<prosody rate='-65%'>lock</prosody>"
+ },
+ {
+  "id": "b_doll",
+  "kind": "blend",
+  "text": "doll",
+  "ssml": "<prosody rate='-65%'>doll</prosody>"
+ },
+ {
+  "id": "b_bell",
+  "kind": "blend",
+  "text": "bell",
+  "ssml": "<prosody rate='-65%'>bell</prosody>"
+ },
+ {
+  "id": "b_tell",
+  "kind": "blend",
+  "text": "tell",
+  "ssml": "<prosody rate='-65%'>tell</prosody>"
+ },
+ {
+  "id": "b_hill",
+  "kind": "blend",
+  "text": "hill",
+  "ssml": "<prosody rate='-65%'>hill</prosody>"
+ },
+ {
+  "id": "b_pill",
+  "kind": "blend",
+  "text": "pill",
+  "ssml": "<prosody rate='-65%'>pill</prosody>"
+ },
+ {
+  "id": "b_sell",
+  "kind": "blend",
+  "text": "sell",
+  "ssml": "<prosody rate='-65%'>sell</prosody>"
+ },
+ {
+  "id": "b_hiss",
+  "kind": "blend",
+  "text": "hiss",
+  "ssml": "<prosody rate='-65%'>hiss</prosody>"
+ },
+ {
+  "id": "b_kiss",
+  "kind": "blend",
+  "text": "kiss",
+  "ssml": "<prosody rate='-65%'>kiss</prosody>"
+ },
+ {
+  "id": "b_mess",
+  "kind": "blend",
+  "text": "mess",
+  "ssml": "<prosody rate='-65%'>mess</prosody>"
+ },
+ {
+  "id": "b_less",
+  "kind": "blend",
+  "text": "less",
+  "ssml": "<prosody rate='-65%'>less</prosody>"
+ },
+ {
+  "id": "b_fuss",
+  "kind": "blend",
+  "text": "fuss",
+  "ssml": "<prosody rate='-65%'>fuss</prosody>"
+ },
+ {
+  "id": "b_miss",
+  "kind": "blend",
+  "text": "miss",
+  "ssml": "<prosody rate='-65%'>miss</prosody>"
+ },
+ {
+  "id": "b_boss",
+  "kind": "blend",
+  "text": "boss",
+  "ssml": "<prosody rate='-65%'>boss</prosody>"
+ },
+ {
+  "id": "b_moss",
+  "kind": "blend",
+  "text": "moss",
+  "ssml": "<prosody rate='-65%'>moss</prosody>"
+ },
+ {
+  "id": "b_bill",
+  "kind": "blend",
+  "text": "Bill",
+  "ssml": "<prosody rate='-65%'>Bill</prosody>"
+ },
+ {
+  "id": "b_nell",
+  "kind": "blend",
+  "text": "Nell",
+  "ssml": "<prosody rate='-65%'>Nell</prosody>"
+ },
+ {
+  "id": "b_rabbit",
+  "kind": "blend",
+  "text": "rabbit",
+  "ssml": "<prosody rate='-65%'>rabbit</prosody>"
+ },
+ {
+  "id": "b_hats",
+  "kind": "blend",
+  "text": "hats",
+  "ssml": "<prosody rate='-65%'>hats</prosody>"
+ },
+ {
+  "id": "b_bugs",
+  "kind": "blend",
+  "text": "bugs",
+  "ssml": "<prosody rate='-65%'>bugs</prosody>"
+ },
+ {
+  "id": "b_legs",
+  "kind": "blend",
+  "text": "legs",
+  "ssml": "<prosody rate='-65%'>legs</prosody>"
+ },
+ {
+  "id": "b_jam",
+  "kind": "blend",
+  "text": "jam",
+  "ssml": "<prosody rate='-65%'>jam</prosody>"
+ },
+ {
+  "id": "b_jet",
+  "kind": "blend",
+  "text": "jet",
+  "ssml": "<prosody rate='-65%'>jet</prosody>"
+ },
+ {
+  "id": "b_jog",
+  "kind": "blend",
+  "text": "jog",
+  "ssml": "<prosody rate='-65%'>jog</prosody>"
+ },
+ {
+  "id": "b_jug",
+  "kind": "blend",
+  "text": "jug",
+  "ssml": "<prosody rate='-65%'>jug</prosody>"
+ },
+ {
+  "id": "b_job",
+  "kind": "blend",
+  "text": "job",
+  "ssml": "<prosody rate='-65%'>job</prosody>"
+ },
+ {
+  "id": "b_jab",
+  "kind": "blend",
+  "text": "jab",
+  "ssml": "<prosody rate='-65%'>jab</prosody>"
+ },
+ {
+  "id": "b_van",
+  "kind": "blend",
+  "text": "van",
+  "ssml": "<prosody rate='-65%'>van</prosody>"
+ },
+ {
+  "id": "b_vet",
+  "kind": "blend",
+  "text": "vet",
+  "ssml": "<prosody rate='-65%'>vet</prosody>"
+ },
+ {
+  "id": "b_vat",
+  "kind": "blend",
+  "text": "vat",
+  "ssml": "<prosody rate='-65%'>vat</prosody>"
+ },
+ {
+  "id": "b_wet",
+  "kind": "blend",
+  "text": "wet",
+  "ssml": "<prosody rate='-65%'>wet</prosody>"
+ },
+ {
+  "id": "b_wig",
+  "kind": "blend",
+  "text": "wig",
+  "ssml": "<prosody rate='-65%'>wig</prosody>"
+ },
+ {
+  "id": "b_win",
+  "kind": "blend",
+  "text": "win",
+  "ssml": "<prosody rate='-65%'>win</prosody>"
+ },
+ {
+  "id": "b_web",
+  "kind": "blend",
+  "text": "web",
+  "ssml": "<prosody rate='-65%'>web</prosody>"
+ },
+ {
+  "id": "b_wax",
+  "kind": "blend",
+  "text": "wax",
+  "ssml": "<prosody rate='-65%'>wax</prosody>"
+ },
+ {
+  "id": "b_wag",
+  "kind": "blend",
+  "text": "wag",
+  "ssml": "<prosody rate='-65%'>wag</prosody>"
+ },
+ {
+  "id": "b_box",
+  "kind": "blend",
+  "text": "box",
+  "ssml": "<prosody rate='-65%'>box</prosody>"
+ },
+ {
+  "id": "b_fox",
+  "kind": "blend",
+  "text": "fox",
+  "ssml": "<prosody rate='-65%'>fox</prosody>"
+ },
+ {
+  "id": "b_fix",
+  "kind": "blend",
+  "text": "fix",
+  "ssml": "<prosody rate='-65%'>fix</prosody>"
+ },
+ {
+  "id": "b_six",
+  "kind": "blend",
+  "text": "six",
+  "ssml": "<prosody rate='-65%'>six</prosody>"
+ },
+ {
+  "id": "b_mix",
+  "kind": "blend",
+  "text": "mix",
+  "ssml": "<prosody rate='-65%'>mix</prosody>"
+ },
+ {
+  "id": "b_yes",
+  "kind": "blend",
+  "text": "yes",
+  "ssml": "<prosody rate='-65%'>yes</prosody>"
+ },
+ {
+  "id": "b_yet",
+  "kind": "blend",
+  "text": "yet",
+  "ssml": "<prosody rate='-65%'>yet</prosody>"
+ },
+ {
+  "id": "b_yak",
+  "kind": "blend",
+  "text": "yak",
+  "ssml": "<prosody rate='-65%'>yak</prosody>"
+ },
+ {
+  "id": "b_yap",
+  "kind": "blend",
+  "text": "yap",
+  "ssml": "<prosody rate='-65%'>yap</prosody>"
+ },
+ {
+  "id": "b_yum",
+  "kind": "blend",
+  "text": "yum",
+  "ssml": "<prosody rate='-65%'>yum</prosody>"
+ },
+ {
+  "id": "b_zip",
+  "kind": "blend",
+  "text": "zip",
+  "ssml": "<prosody rate='-65%'>zip</prosody>"
+ },
+ {
+  "id": "b_zap",
+  "kind": "blend",
+  "text": "zap",
+  "ssml": "<prosody rate='-65%'>zap</prosody>"
+ },
+ {
+  "id": "b_buzz",
+  "kind": "blend",
+  "text": "buzz",
+  "ssml": "<prosody rate='-65%'>buzz</prosody>"
+ },
+ {
+  "id": "b_fizz",
+  "kind": "blend",
+  "text": "fizz",
+  "ssml": "<prosody rate='-65%'>fizz</prosody>"
+ },
+ {
+  "id": "b_jazz",
+  "kind": "blend",
+  "text": "jazz",
+  "ssml": "<prosody rate='-65%'>jazz</prosody>"
+ },
+ {
+  "id": "b_quit",
+  "kind": "blend",
+  "text": "quit",
+  "ssml": "<prosody rate='-65%'>quit</prosody>"
+ },
+ {
+  "id": "b_quiz",
+  "kind": "blend",
+  "text": "quiz",
+  "ssml": "<prosody rate='-65%'>quiz</prosody>"
+ },
+ {
+  "id": "b_quick",
+  "kind": "blend",
+  "text": "quick",
+  "ssml": "<prosody rate='-65%'>quick</prosody>"
+ },
+ {
+  "id": "b_quack",
+  "kind": "blend",
+  "text": "quack",
+  "ssml": "<prosody rate='-65%'>quack</prosody>"
+ },
+ {
+  "id": "b_max",
+  "kind": "blend",
+  "text": "Max",
+  "ssml": "<prosody rate='-65%'>Max</prosody>"
+ },
+ {
+  "id": "b_jill",
+  "kind": "blend",
+  "text": "Jill",
+  "ssml": "<prosody rate='-65%'>Jill</prosody>"
+ },
+ {
+  "id": "b_jack",
+  "kind": "blend",
+  "text": "Jack",
+  "ssml": "<prosody rate='-65%'>Jack</prosody>"
+ },
+ {
+  "id": "b_zak",
+  "kind": "blend",
+  "text": "Zak",
+  "ssml": "<prosody rate='-65%'>Zak</prosody>"
+ },
+ {
+  "id": "b_viv",
+  "kind": "blend",
+  "text": "Viv",
+  "ssml": "<prosody rate='-65%'>Viv</prosody>"
+ },
+ {
+  "id": "b_chip",
+  "kind": "blend",
+  "text": "chip",
+  "ssml": "<prosody rate='-65%'>chip</prosody>"
+ },
+ {
+  "id": "b_chop",
+  "kind": "blend",
+  "text": "chop",
+  "ssml": "<prosody rate='-65%'>chop</prosody>"
+ },
+ {
+  "id": "b_chin",
+  "kind": "blend",
+  "text": "chin",
+  "ssml": "<prosody rate='-65%'>chin</prosody>"
+ },
+ {
+  "id": "b_chat",
+  "kind": "blend",
+  "text": "chat",
+  "ssml": "<prosody rate='-65%'>chat</prosody>"
+ },
+ {
+  "id": "b_chug",
+  "kind": "blend",
+  "text": "chug",
+  "ssml": "<prosody rate='-65%'>chug</prosody>"
+ },
+ {
+  "id": "b_rich",
+  "kind": "blend",
+  "text": "rich",
+  "ssml": "<prosody rate='-65%'>rich</prosody>"
+ },
+ {
+  "id": "b_much",
+  "kind": "blend",
+  "text": "much",
+  "ssml": "<prosody rate='-65%'>much</prosody>"
+ },
+ {
+  "id": "b_such",
+  "kind": "blend",
+  "text": "such",
+  "ssml": "<prosody rate='-65%'>such</prosody>"
+ },
+ {
+  "id": "b_chick",
+  "kind": "blend",
+  "text": "chick",
+  "ssml": "<prosody rate='-65%'>chick</prosody>"
+ },
+ {
+  "id": "b_check",
+  "kind": "blend",
+  "text": "check",
+  "ssml": "<prosody rate='-65%'>check</prosody>"
+ },
+ {
+  "id": "b_shop",
+  "kind": "blend",
+  "text": "shop",
+  "ssml": "<prosody rate='-65%'>shop</prosody>"
+ },
+ {
+  "id": "b_ship",
+  "kind": "blend",
+  "text": "ship",
+  "ssml": "<prosody rate='-65%'>ship</prosody>"
+ },
+ {
+  "id": "b_shed",
+  "kind": "blend",
+  "text": "shed",
+  "ssml": "<prosody rate='-65%'>shed</prosody>"
+ },
+ {
+  "id": "b_shin",
+  "kind": "blend",
+  "text": "shin",
+  "ssml": "<prosody rate='-65%'>shin</prosody>"
+ },
+ {
+  "id": "b_shut",
+  "kind": "blend",
+  "text": "shut",
+  "ssml": "<prosody rate='-65%'>shut</prosody>"
+ },
+ {
+  "id": "b_shell",
+  "kind": "blend",
+  "text": "shell",
+  "ssml": "<prosody rate='-65%'>shell</prosody>"
+ },
+ {
+  "id": "b_fish",
+  "kind": "blend",
+  "text": "fish",
+  "ssml": "<prosody rate='-65%'>fish</prosody>"
+ },
+ {
+  "id": "b_dish",
+  "kind": "blend",
+  "text": "dish",
+  "ssml": "<prosody rate='-65%'>dish</prosody>"
+ },
+ {
+  "id": "b_wish",
+  "kind": "blend",
+  "text": "wish",
+  "ssml": "<prosody rate='-65%'>wish</prosody>"
+ },
+ {
+  "id": "b_rush",
+  "kind": "blend",
+  "text": "rush",
+  "ssml": "<prosody rate='-65%'>rush</prosody>"
+ },
+ {
+  "id": "b_hush",
+  "kind": "blend",
+  "text": "hush",
+  "ssml": "<prosody rate='-65%'>hush</prosody>"
+ },
+ {
+  "id": "b_cash",
+  "kind": "blend",
+  "text": "cash",
+  "ssml": "<prosody rate='-65%'>cash</prosody>"
+ },
+ {
+  "id": "b_dash",
+  "kind": "blend",
+  "text": "dash",
+  "ssml": "<prosody rate='-65%'>dash</prosody>"
+ },
+ {
+  "id": "b_mash",
+  "kind": "blend",
+  "text": "mash",
+  "ssml": "<prosody rate='-65%'>mash</prosody>"
+ },
+ {
+  "id": "b_shock",
+  "kind": "blend",
+  "text": "shock",
+  "ssml": "<prosody rate='-65%'>shock</prosody>"
+ },
+ {
+  "id": "b_thin",
+  "kind": "blend",
+  "text": "thin",
+  "ssml": "<prosody rate='-65%'>thin</prosody>"
+ },
+ {
+  "id": "b_thick",
+  "kind": "blend",
+  "text": "thick",
+  "ssml": "<prosody rate='-65%'>thick</prosody>"
+ },
+ {
+  "id": "b_thud",
+  "kind": "blend",
+  "text": "thud",
+  "ssml": "<prosody rate='-65%'>thud</prosody>"
+ },
+ {
+  "id": "b_moth",
+  "kind": "blend",
+  "text": "moth",
+  "ssml": "<prosody rate='-65%'>moth</prosody>"
+ },
+ {
+  "id": "b_bath",
+  "kind": "blend",
+  "text": "bath",
+  "ssml": "<prosody rate='-65%'>bath</prosody>"
+ },
+ {
+  "id": "b_path",
+  "kind": "blend",
+  "text": "path",
+  "ssml": "<prosody rate='-65%'>path</prosody>"
+ },
+ {
+  "id": "b_with",
+  "kind": "blend",
+  "text": "with",
+  "ssml": "<prosody rate='-65%'>with</prosody>"
+ },
+ {
+  "id": "b_math",
+  "kind": "blend",
+  "text": "math",
+  "ssml": "<prosody rate='-65%'>math</prosody>"
+ },
+ {
+  "id": "b_ring",
+  "kind": "blend",
+  "text": "ring",
+  "ssml": "<prosody rate='-65%'>ring</prosody>"
+ },
+ {
+  "id": "b_sing",
+  "kind": "blend",
+  "text": "sing",
+  "ssml": "<prosody rate='-65%'>sing</prosody>"
+ },
+ {
+  "id": "b_king",
+  "kind": "blend",
+  "text": "king",
+  "ssml": "<prosody rate='-65%'>king</prosody>"
+ },
+ {
+  "id": "b_wing",
+  "kind": "blend",
+  "text": "wing",
+  "ssml": "<prosody rate='-65%'>wing</prosody>"
+ },
+ {
+  "id": "b_long",
+  "kind": "blend",
+  "text": "long",
+  "ssml": "<prosody rate='-65%'>long</prosody>"
+ },
+ {
+  "id": "b_song",
+  "kind": "blend",
+  "text": "song",
+  "ssml": "<prosody rate='-65%'>song</prosody>"
+ },
+ {
+  "id": "b_bang",
+  "kind": "blend",
+  "text": "bang",
+  "ssml": "<prosody rate='-65%'>bang</prosody>"
+ },
+ {
+  "id": "b_hang",
+  "kind": "blend",
+  "text": "hang",
+  "ssml": "<prosody rate='-65%'>hang</prosody>"
+ },
+ {
+  "id": "b_rang",
+  "kind": "blend",
+  "text": "rang",
+  "ssml": "<prosody rate='-65%'>rang</prosody>"
+ },
+ {
+  "id": "b_sung",
+  "kind": "blend",
+  "text": "sung",
+  "ssml": "<prosody rate='-65%'>sung</prosody>"
+ },
+ {
+  "id": "b_lung",
+  "kind": "blend",
+  "text": "lung",
+  "ssml": "<prosody rate='-65%'>lung</prosody>"
+ },
+ {
+  "id": "b_hung",
+  "kind": "blend",
+  "text": "hung",
+  "ssml": "<prosody rate='-65%'>hung</prosody>"
+ },
+ {
+  "id": "b_gong",
+  "kind": "blend",
+  "text": "gong",
+  "ssml": "<prosody rate='-65%'>gong</prosody>"
+ },
+ {
+  "id": "b_thing",
+  "kind": "blend",
+  "text": "thing",
+  "ssml": "<prosody rate='-65%'>thing</prosody>"
+ },
+ {
+  "id": "b_rocking",
+  "kind": "blend",
+  "text": "rocking",
+  "ssml": "<prosody rate='-65%'>rocking</prosody>"
+ },
+ {
+  "id": "b_chad",
+  "kind": "blend",
+  "text": "Chad",
+  "ssml": "<prosody rate='-65%'>Chad</prosody>"
+ },
+ {
+  "id": "b_beth",
+  "kind": "blend",
+  "text": "Beth",
+  "ssml": "<prosody rate='-65%'>Beth</prosody>"
+ },
+ {
+  "id": "b_seth",
+  "kind": "blend",
+  "text": "Seth",
+  "ssml": "<prosody rate='-65%'>Seth</prosody>"
+ },
+ {
+  "id": "b_josh",
+  "kind": "blend",
+  "text": "Josh",
+  "ssml": "<prosody rate='-65%'>Josh</prosody>"
+ },
+ {
+  "id": "b_hand",
+  "kind": "blend",
+  "text": "hand",
+  "ssml": "<prosody rate='-65%'>hand</prosody>"
+ },
+ {
+  "id": "b_land",
+  "kind": "blend",
+  "text": "land",
+  "ssml": "<prosody rate='-65%'>land</prosody>"
+ },
+ {
+  "id": "b_sand",
+  "kind": "blend",
+  "text": "sand",
+  "ssml": "<prosody rate='-65%'>sand</prosody>"
+ },
+ {
+  "id": "b_band",
+  "kind": "blend",
+  "text": "band",
+  "ssml": "<prosody rate='-65%'>band</prosody>"
+ },
+ {
+  "id": "b_bend",
+  "kind": "blend",
+  "text": "bend",
+  "ssml": "<prosody rate='-65%'>bend</prosody>"
+ },
+ {
+  "id": "b_send",
+  "kind": "blend",
+  "text": "send",
+  "ssml": "<prosody rate='-65%'>send</prosody>"
+ },
+ {
+  "id": "b_tent",
+  "kind": "blend",
+  "text": "tent",
+  "ssml": "<prosody rate='-65%'>tent</prosody>"
+ },
+ {
+  "id": "b_went",
+  "kind": "blend",
+  "text": "went",
+  "ssml": "<prosody rate='-65%'>went</prosody>"
+ },
+ {
+  "id": "b_hunt",
+  "kind": "blend",
+  "text": "hunt",
+  "ssml": "<prosody rate='-65%'>hunt</prosody>"
+ },
+ {
+  "id": "b_bump",
+  "kind": "blend",
+  "text": "bump",
+  "ssml": "<prosody rate='-65%'>bump</prosody>"
+ },
+ {
+  "id": "b_jump",
+  "kind": "blend",
+  "text": "jump",
+  "ssml": "<prosody rate='-65%'>jump</prosody>"
+ },
+ {
+  "id": "b_lamp",
+  "kind": "blend",
+  "text": "lamp",
+  "ssml": "<prosody rate='-65%'>lamp</prosody>"
+ },
+ {
+  "id": "b_camp",
+  "kind": "blend",
+  "text": "camp",
+  "ssml": "<prosody rate='-65%'>camp</prosody>"
+ },
+ {
+  "id": "b_damp",
+  "kind": "blend",
+  "text": "damp",
+  "ssml": "<prosody rate='-65%'>damp</prosody>"
+ },
+ {
+  "id": "b_pump",
+  "kind": "blend",
+  "text": "pump",
+  "ssml": "<prosody rate='-65%'>pump</prosody>"
+ },
+ {
+  "id": "b_milk",
+  "kind": "blend",
+  "text": "milk",
+  "ssml": "<prosody rate='-65%'>milk</prosody>"
+ },
+ {
+  "id": "b_help",
+  "kind": "blend",
+  "text": "help",
+  "ssml": "<prosody rate='-65%'>help</prosody>"
+ },
+ {
+  "id": "b_belt",
+  "kind": "blend",
+  "text": "belt",
+  "ssml": "<prosody rate='-65%'>belt</prosody>"
+ },
+ {
+  "id": "b_melt",
+  "kind": "blend",
+  "text": "melt",
+  "ssml": "<prosody rate='-65%'>melt</prosody>"
+ },
+ {
+  "id": "b_gift",
+  "kind": "blend",
+  "text": "gift",
+  "ssml": "<prosody rate='-65%'>gift</prosody>"
+ },
+ {
+  "id": "b_lift",
+  "kind": "blend",
+  "text": "lift",
+  "ssml": "<prosody rate='-65%'>lift</prosody>"
+ },
+ {
+  "id": "b_soft",
+  "kind": "blend",
+  "text": "soft",
+  "ssml": "<prosody rate='-65%'>soft</prosody>"
+ },
+ {
+  "id": "b_left",
+  "kind": "blend",
+  "text": "left",
+  "ssml": "<prosody rate='-65%'>left</prosody>"
+ },
+ {
+  "id": "b_nest",
+  "kind": "blend",
+  "text": "nest",
+  "ssml": "<prosody rate='-65%'>nest</prosody>"
+ },
+ {
+  "id": "b_best",
+  "kind": "blend",
+  "text": "best",
+  "ssml": "<prosody rate='-65%'>best</prosody>"
+ },
+ {
+  "id": "b_rest",
+  "kind": "blend",
+  "text": "rest",
+  "ssml": "<prosody rate='-65%'>rest</prosody>"
+ },
+ {
+  "id": "b_test",
+  "kind": "blend",
+  "text": "test",
+  "ssml": "<prosody rate='-65%'>test</prosody>"
+ },
+ {
+  "id": "b_vest",
+  "kind": "blend",
+  "text": "vest",
+  "ssml": "<prosody rate='-65%'>vest</prosody>"
+ },
+ {
+  "id": "b_fist",
+  "kind": "blend",
+  "text": "fist",
+  "ssml": "<prosody rate='-65%'>fist</prosody>"
+ },
+ {
+  "id": "b_list",
+  "kind": "blend",
+  "text": "list",
+  "ssml": "<prosody rate='-65%'>list</prosody>"
+ },
+ {
+  "id": "b_must",
+  "kind": "blend",
+  "text": "must",
+  "ssml": "<prosody rate='-65%'>must</prosody>"
+ },
+ {
+  "id": "b_dust",
+  "kind": "blend",
+  "text": "dust",
+  "ssml": "<prosody rate='-65%'>dust</prosody>"
+ },
+ {
+  "id": "b_just",
+  "kind": "blend",
+  "text": "just",
+  "ssml": "<prosody rate='-65%'>just</prosody>"
+ },
+ {
+  "id": "b_lost",
+  "kind": "blend",
+  "text": "lost",
+  "ssml": "<prosody rate='-65%'>lost</prosody>"
+ },
+ {
+  "id": "b_desk",
+  "kind": "blend",
+  "text": "desk",
+  "ssml": "<prosody rate='-65%'>desk</prosody>"
+ },
+ {
+  "id": "b_mask",
+  "kind": "blend",
+  "text": "mask",
+  "ssml": "<prosody rate='-65%'>mask</prosody>"
+ },
+ {
+  "id": "b_pond",
+  "kind": "blend",
+  "text": "pond",
+  "ssml": "<prosody rate='-65%'>pond</prosody>"
+ },
+ {
+  "id": "b_wind",
+  "kind": "blend",
+  "text": "wind",
+  "ssml": "<prosody rate='-65%'>wind</prosody>"
+ },
+ {
+  "id": "b_pink",
+  "kind": "blend",
+  "text": "pink",
+  "ssml": "<prosody rate='-65%'>pink</prosody>"
+ },
+ {
+  "id": "b_sink",
+  "kind": "blend",
+  "text": "sink",
+  "ssml": "<prosody rate='-65%'>sink</prosody>"
+ },
+ {
+  "id": "b_wink",
+  "kind": "blend",
+  "text": "wink",
+  "ssml": "<prosody rate='-65%'>wink</prosody>"
+ },
+ {
+  "id": "b_tank",
+  "kind": "blend",
+  "text": "tank",
+  "ssml": "<prosody rate='-65%'>tank</prosody>"
+ },
+ {
+  "id": "b_honk",
+  "kind": "blend",
+  "text": "honk",
+  "ssml": "<prosody rate='-65%'>honk</prosody>"
+ },
+ {
+  "id": "b_junk",
+  "kind": "blend",
+  "text": "junk",
+  "ssml": "<prosody rate='-65%'>junk</prosody>"
+ },
+ {
+  "id": "b_stop",
+  "kind": "blend",
+  "text": "stop",
+  "ssml": "<prosody rate='-65%'>stop</prosody>"
+ },
+ {
+  "id": "b_step",
+  "kind": "blend",
+  "text": "step",
+  "ssml": "<prosody rate='-65%'>step</prosody>"
+ },
+ {
+  "id": "b_spot",
+  "kind": "blend",
+  "text": "spot",
+  "ssml": "<prosody rate='-65%'>spot</prosody>"
+ },
+ {
+  "id": "b_spin",
+  "kind": "blend",
+  "text": "spin",
+  "ssml": "<prosody rate='-65%'>spin</prosody>"
+ },
+ {
+  "id": "b_snap",
+  "kind": "blend",
+  "text": "snap",
+  "ssml": "<prosody rate='-65%'>snap</prosody>"
+ },
+ {
+  "id": "b_snug",
+  "kind": "blend",
+  "text": "snug",
+  "ssml": "<prosody rate='-65%'>snug</prosody>"
+ },
+ {
+  "id": "b_slip",
+  "kind": "blend",
+  "text": "slip",
+  "ssml": "<prosody rate='-65%'>slip</prosody>"
+ },
+ {
+  "id": "b_slug",
+  "kind": "blend",
+  "text": "slug",
+  "ssml": "<prosody rate='-65%'>slug</prosody>"
+ },
+ {
+  "id": "b_flag",
+  "kind": "blend",
+  "text": "flag",
+  "ssml": "<prosody rate='-65%'>flag</prosody>"
+ },
+ {
+  "id": "b_flip",
+  "kind": "blend",
+  "text": "flip",
+  "ssml": "<prosody rate='-65%'>flip</prosody>"
+ },
+ {
+  "id": "b_flop",
+  "kind": "blend",
+  "text": "flop",
+  "ssml": "<prosody rate='-65%'>flop</prosody>"
+ },
+ {
+  "id": "b_frog",
+  "kind": "blend",
+  "text": "frog",
+  "ssml": "<prosody rate='-65%'>frog</prosody>"
+ },
+ {
+  "id": "b_from",
+  "kind": "blend",
+  "text": "from",
+  "ssml": "<prosody rate='-65%'>from</prosody>"
+ },
+ {
+  "id": "b_glad",
+  "kind": "blend",
+  "text": "glad",
+  "ssml": "<prosody rate='-65%'>glad</prosody>"
+ },
+ {
+  "id": "b_grab",
+  "kind": "blend",
+  "text": "grab",
+  "ssml": "<prosody rate='-65%'>grab</prosody>"
+ },
+ {
+  "id": "b_grin",
+  "kind": "blend",
+  "text": "grin",
+  "ssml": "<prosody rate='-65%'>grin</prosody>"
+ },
+ {
+  "id": "b_drip",
+  "kind": "blend",
+  "text": "drip",
+  "ssml": "<prosody rate='-65%'>drip</prosody>"
+ },
+ {
+  "id": "b_drop",
+  "kind": "blend",
+  "text": "drop",
+  "ssml": "<prosody rate='-65%'>drop</prosody>"
+ },
+ {
+  "id": "b_drum",
+  "kind": "blend",
+  "text": "drum",
+  "ssml": "<prosody rate='-65%'>drum</prosody>"
+ },
+ {
+  "id": "b_trap",
+  "kind": "blend",
+  "text": "trap",
+  "ssml": "<prosody rate='-65%'>trap</prosody>"
+ },
+ {
+  "id": "b_trip",
+  "kind": "blend",
+  "text": "trip",
+  "ssml": "<prosody rate='-65%'>trip</prosody>"
+ },
+ {
+  "id": "b_twig",
+  "kind": "blend",
+  "text": "twig",
+  "ssml": "<prosody rate='-65%'>twig</prosody>"
+ },
+ {
+  "id": "b_twin",
+  "kind": "blend",
+  "text": "twin",
+  "ssml": "<prosody rate='-65%'>twin</prosody>"
+ },
+ {
+  "id": "b_swim",
+  "kind": "blend",
+  "text": "swim",
+  "ssml": "<prosody rate='-65%'>swim</prosody>"
+ },
+ {
+  "id": "b_plan",
+  "kind": "blend",
+  "text": "plan",
+  "ssml": "<prosody rate='-65%'>plan</prosody>"
+ },
+ {
+  "id": "b_plum",
+  "kind": "blend",
+  "text": "plum",
+  "ssml": "<prosody rate='-65%'>plum</prosody>"
+ },
+ {
+  "id": "b_plug",
+  "kind": "blend",
+  "text": "plug",
+  "ssml": "<prosody rate='-65%'>plug</prosody>"
+ },
+ {
+  "id": "b_clap",
+  "kind": "blend",
+  "text": "clap",
+  "ssml": "<prosody rate='-65%'>clap</prosody>"
+ },
+ {
+  "id": "b_clip",
+  "kind": "blend",
+  "text": "clip",
+  "ssml": "<prosody rate='-65%'>clip</prosody>"
+ },
+ {
+  "id": "b_club",
+  "kind": "blend",
+  "text": "club",
+  "ssml": "<prosody rate='-65%'>club</prosody>"
+ },
+ {
+  "id": "b_crab",
+  "kind": "blend",
+  "text": "crab",
+  "ssml": "<prosody rate='-65%'>crab</prosody>"
+ },
+ {
+  "id": "b_crop",
+  "kind": "blend",
+  "text": "crop",
+  "ssml": "<prosody rate='-65%'>crop</prosody>"
+ },
+ {
+  "id": "b_brush",
+  "kind": "blend",
+  "text": "brush",
+  "ssml": "<prosody rate='-65%'>brush</prosody>"
+ },
+ {
+  "id": "b_crash",
+  "kind": "blend",
+  "text": "crash",
+  "ssml": "<prosody rate='-65%'>crash</prosody>"
+ },
+ {
+  "id": "b_flash",
+  "kind": "blend",
+  "text": "flash",
+  "ssml": "<prosody rate='-65%'>flash</prosody>"
+ },
+ {
+  "id": "b_splash",
+  "kind": "blend",
+  "text": "splash",
+  "ssml": "<prosody rate='-65%'>splash</prosody>"
+ },
+ {
+  "id": "b_stamp",
+  "kind": "blend",
+  "text": "stamp",
+  "ssml": "<prosody rate='-65%'>stamp</prosody>"
+ },
+ {
+  "id": "b_stand",
+  "kind": "blend",
+  "text": "stand",
+  "ssml": "<prosody rate='-65%'>stand</prosody>"
+ },
+ {
+  "id": "b_trunk",
+  "kind": "blend",
+  "text": "trunk",
+  "ssml": "<prosody rate='-65%'>trunk</prosody>"
+ },
+ {
+  "id": "b_twist",
+  "kind": "blend",
+  "text": "twist",
+  "ssml": "<prosody rate='-65%'>twist</prosody>"
+ },
+ {
+  "id": "b_string",
+  "kind": "blend",
+  "text": "string",
+  "ssml": "<prosody rate='-65%'>string</prosody>"
+ },
+ {
+  "id": "b_sting",
+  "kind": "blend",
+  "text": "sting",
+  "ssml": "<prosody rate='-65%'>sting</prosody>"
+ },
+ {
+  "id": "b_swing",
+  "kind": "blend",
+  "text": "swing",
+  "ssml": "<prosody rate='-65%'>swing</prosody>"
+ },
+ {
+  "id": "b_fred",
+  "kind": "blend",
+  "text": "Fred",
+  "ssml": "<prosody rate='-65%'>Fred</prosody>"
+ },
+ {
+  "id": "b_stan",
+  "kind": "blend",
+  "text": "Stan",
+  "ssml": "<prosody rate='-65%'>Stan</prosody>"
+ },
+ {
+  "id": "b_rain",
+  "kind": "blend",
+  "text": "rain",
+  "ssml": "<prosody rate='-65%'>rain</prosody>"
+ },
+ {
+  "id": "b_tail",
+  "kind": "blend",
+  "text": "tail",
+  "ssml": "<prosody rate='-65%'>tail</prosody>"
+ },
+ {
+  "id": "b_wait",
+  "kind": "blend",
+  "text": "wait",
+  "ssml": "<prosody rate='-65%'>wait</prosody>"
+ },
+ {
+  "id": "b_pain",
+  "kind": "blend",
+  "text": "pain",
+  "ssml": "<prosody rate='-65%'>pain</prosody>"
+ },
+ {
+  "id": "b_nail",
+  "kind": "blend",
+  "text": "nail",
+  "ssml": "<prosody rate='-65%'>nail</prosody>"
+ },
+ {
+  "id": "b_sail",
+  "kind": "blend",
+  "text": "sail",
+  "ssml": "<prosody rate='-65%'>sail</prosody>"
+ },
+ {
+  "id": "b_paid",
+  "kind": "blend",
+  "text": "paid",
+  "ssml": "<prosody rate='-65%'>paid</prosody>"
+ },
+ {
+  "id": "b_mail",
+  "kind": "blend",
+  "text": "mail",
+  "ssml": "<prosody rate='-65%'>mail</prosody>"
+ },
+ {
+  "id": "b_snail",
+  "kind": "blend",
+  "text": "snail",
+  "ssml": "<prosody rate='-65%'>snail</prosody>"
+ },
+ {
+  "id": "b_train",
+  "kind": "blend",
+  "text": "train",
+  "ssml": "<prosody rate='-65%'>train</prosody>"
+ },
+ {
+  "id": "b_see",
+  "kind": "blend",
+  "text": "see",
+  "ssml": "<prosody rate='-65%'>see</prosody>"
+ },
+ {
+  "id": "b_bee",
+  "kind": "blend",
+  "text": "bee",
+  "ssml": "<prosody rate='-65%'>bee</prosody>"
+ },
+ {
+  "id": "b_feet",
+  "kind": "blend",
+  "text": "feet",
+  "ssml": "<prosody rate='-65%'>feet</prosody>"
+ },
+ {
+  "id": "b_feel",
+  "kind": "blend",
+  "text": "feel",
+  "ssml": "<prosody rate='-65%'>feel</prosody>"
+ },
+ {
+  "id": "b_need",
+  "kind": "blend",
+  "text": "need",
+  "ssml": "<prosody rate='-65%'>need</prosody>"
+ },
+ {
+  "id": "b_seed",
+  "kind": "blend",
+  "text": "seed",
+  "ssml": "<prosody rate='-65%'>seed</prosody>"
+ },
+ {
+  "id": "b_weed",
+  "kind": "blend",
+  "text": "weed",
+  "ssml": "<prosody rate='-65%'>weed</prosody>"
+ },
+ {
+  "id": "b_keep",
+  "kind": "blend",
+  "text": "keep",
+  "ssml": "<prosody rate='-65%'>keep</prosody>"
+ },
+ {
+  "id": "b_deep",
+  "kind": "blend",
+  "text": "deep",
+  "ssml": "<prosody rate='-65%'>deep</prosody>"
+ },
+ {
+  "id": "b_meet",
+  "kind": "blend",
+  "text": "meet",
+  "ssml": "<prosody rate='-65%'>meet</prosody>"
+ },
+ {
+  "id": "b_tree",
+  "kind": "blend",
+  "text": "tree",
+  "ssml": "<prosody rate='-65%'>tree</prosody>"
+ },
+ {
+  "id": "b_sleep",
+  "kind": "blend",
+  "text": "sleep",
+  "ssml": "<prosody rate='-65%'>sleep</prosody>"
+ },
+ {
+  "id": "b_sheep",
+  "kind": "blend",
+  "text": "sheep",
+  "ssml": "<prosody rate='-65%'>sheep</prosody>"
+ },
+ {
+  "id": "b_feed",
+  "kind": "blend",
+  "text": "feed",
+  "ssml": "<prosody rate='-65%'>feed</prosody>"
+ },
+ {
+  "id": "b_week",
+  "kind": "blend",
+  "text": "week",
+  "ssml": "<prosody rate='-65%'>week</prosody>"
+ },
+ {
+  "id": "b_green",
+  "kind": "blend",
+  "text": "green",
+  "ssml": "<prosody rate='-65%'>green</prosody>"
+ },
+ {
+  "id": "b_teeth",
+  "kind": "blend",
+  "text": "teeth",
+  "ssml": "<prosody rate='-65%'>teeth</prosody>"
+ },
+ {
+  "id": "b_queen",
+  "kind": "blend",
+  "text": "queen",
+  "ssml": "<prosody rate='-65%'>queen</prosody>"
+ },
+ {
+  "id": "b_high",
+  "kind": "blend",
+  "text": "high",
+  "ssml": "<prosody rate='-65%'>high</prosody>"
+ },
+ {
+  "id": "b_sigh",
+  "kind": "blend",
+  "text": "sigh",
+  "ssml": "<prosody rate='-65%'>sigh</prosody>"
+ },
+ {
+  "id": "b_night",
+  "kind": "blend",
+  "text": "night",
+  "ssml": "<prosody rate='-65%'>night</prosody>"
+ },
+ {
+  "id": "b_light",
+  "kind": "blend",
+  "text": "light",
+  "ssml": "<prosody rate='-65%'>light</prosody>"
+ },
+ {
+  "id": "b_fight",
+  "kind": "blend",
+  "text": "fight",
+  "ssml": "<prosody rate='-65%'>fight</prosody>"
+ },
+ {
+  "id": "b_right",
+  "kind": "blend",
+  "text": "right",
+  "ssml": "<prosody rate='-65%'>right</prosody>"
+ },
+ {
+  "id": "b_might",
+  "kind": "blend",
+  "text": "might",
+  "ssml": "<prosody rate='-65%'>might</prosody>"
+ },
+ {
+  "id": "b_tight",
+  "kind": "blend",
+  "text": "tight",
+  "ssml": "<prosody rate='-65%'>tight</prosody>"
+ },
+ {
+  "id": "b_bright",
+  "kind": "blend",
+  "text": "bright",
+  "ssml": "<prosody rate='-65%'>bright</prosody>"
+ },
+ {
+  "id": "b_boat",
+  "kind": "blend",
+  "text": "boat",
+  "ssml": "<prosody rate='-65%'>boat</prosody>"
+ },
+ {
+  "id": "b_coat",
+  "kind": "blend",
+  "text": "coat",
+  "ssml": "<prosody rate='-65%'>coat</prosody>"
+ },
+ {
+  "id": "b_goat",
+  "kind": "blend",
+  "text": "goat",
+  "ssml": "<prosody rate='-65%'>goat</prosody>"
+ },
+ {
+  "id": "b_road",
+  "kind": "blend",
+  "text": "road",
+  "ssml": "<prosody rate='-65%'>road</prosody>"
+ },
+ {
+  "id": "b_load",
+  "kind": "blend",
+  "text": "load",
+  "ssml": "<prosody rate='-65%'>load</prosody>"
+ },
+ {
+  "id": "b_toad",
+  "kind": "blend",
+  "text": "toad",
+  "ssml": "<prosody rate='-65%'>toad</prosody>"
+ },
+ {
+  "id": "b_soap",
+  "kind": "blend",
+  "text": "soap",
+  "ssml": "<prosody rate='-65%'>soap</prosody>"
+ },
+ {
+  "id": "b_foam",
+  "kind": "blend",
+  "text": "foam",
+  "ssml": "<prosody rate='-65%'>foam</prosody>"
+ },
+ {
+  "id": "b_oak",
+  "kind": "blend",
+  "text": "oak",
+  "ssml": "<prosody rate='-65%'>oak</prosody>"
+ },
+ {
+  "id": "b_loaf",
+  "kind": "blend",
+  "text": "loaf",
+  "ssml": "<prosody rate='-65%'>loaf</prosody>"
+ },
+ {
+  "id": "b_moon",
+  "kind": "blend",
+  "text": "moon",
+  "ssml": "<prosody rate='-65%'>moon</prosody>"
+ },
+ {
+  "id": "b_food",
+  "kind": "blend",
+  "text": "food",
+  "ssml": "<prosody rate='-65%'>food</prosody>"
+ },
+ {
+  "id": "b_root",
+  "kind": "blend",
+  "text": "root",
+  "ssml": "<prosody rate='-65%'>root</prosody>"
+ },
+ {
+  "id": "b_boot",
+  "kind": "blend",
+  "text": "boot",
+  "ssml": "<prosody rate='-65%'>boot</prosody>"
+ },
+ {
+  "id": "b_hoop",
+  "kind": "blend",
+  "text": "hoop",
+  "ssml": "<prosody rate='-65%'>hoop</prosody>"
+ },
+ {
+  "id": "b_zoo",
+  "kind": "blend",
+  "text": "zoo",
+  "ssml": "<prosody rate='-65%'>zoo</prosody>"
+ },
+ {
+  "id": "b_too",
+  "kind": "blend",
+  "text": "too",
+  "ssml": "<prosody rate='-65%'>too</prosody>"
+ },
+ {
+  "id": "b_soon",
+  "kind": "blend",
+  "text": "soon",
+  "ssml": "<prosody rate='-65%'>soon</prosody>"
+ },
+ {
+  "id": "b_pool",
+  "kind": "blend",
+  "text": "pool",
+  "ssml": "<prosody rate='-65%'>pool</prosody>"
+ },
+ {
+  "id": "b_cool",
+  "kind": "blend",
+  "text": "cool",
+  "ssml": "<prosody rate='-65%'>cool</prosody>"
+ },
+ {
+  "id": "b_roof",
+  "kind": "blend",
+  "text": "roof",
+  "ssml": "<prosody rate='-65%'>roof</prosody>"
+ },
+ {
+  "id": "b_tooth",
+  "kind": "blend",
+  "text": "tooth",
+  "ssml": "<prosody rate='-65%'>tooth</prosody>"
+ },
+ {
+  "id": "b_boo",
+  "kind": "blend",
+  "text": "boo",
+  "ssml": "<prosody rate='-65%'>boo</prosody>"
+ },
+ {
+  "id": "b_moo",
+  "kind": "blend",
+  "text": "moo",
+  "ssml": "<prosody rate='-65%'>moo</prosody>"
+ },
+ {
+  "id": "b_spoon",
+  "kind": "blend",
+  "text": "spoon",
+  "ssml": "<prosody rate='-65%'>spoon</prosody>"
+ },
+ {
+  "id": "b_broom",
+  "kind": "blend",
+  "text": "broom",
+  "ssml": "<prosody rate='-65%'>broom</prosody>"
+ },
+ {
+  "id": "b_car",
+  "kind": "blend",
+  "text": "car",
+  "ssml": "<prosody rate='-65%'>car</prosody>"
+ },
+ {
+  "id": "b_far",
+  "kind": "blend",
+  "text": "far",
+  "ssml": "<prosody rate='-65%'>far</prosody>"
+ },
+ {
+  "id": "b_jar",
+  "kind": "blend",
+  "text": "jar",
+  "ssml": "<prosody rate='-65%'>jar</prosody>"
+ },
+ {
+  "id": "b_bar",
+  "kind": "blend",
+  "text": "bar",
+  "ssml": "<prosody rate='-65%'>bar</prosody>"
+ },
+ {
+  "id": "b_star",
+  "kind": "blend",
+  "text": "star",
+  "ssml": "<prosody rate='-65%'>star</prosody>"
+ },
+ {
+  "id": "b_card",
+  "kind": "blend",
+  "text": "card",
+  "ssml": "<prosody rate='-65%'>card</prosody>"
+ },
+ {
+  "id": "b_park",
+  "kind": "blend",
+  "text": "park",
+  "ssml": "<prosody rate='-65%'>park</prosody>"
+ },
+ {
+  "id": "b_dark",
+  "kind": "blend",
+  "text": "dark",
+  "ssml": "<prosody rate='-65%'>dark</prosody>"
+ },
+ {
+  "id": "b_farm",
+  "kind": "blend",
+  "text": "farm",
+  "ssml": "<prosody rate='-65%'>farm</prosody>"
+ },
+ {
+  "id": "b_barn",
+  "kind": "blend",
+  "text": "barn",
+  "ssml": "<prosody rate='-65%'>barn</prosody>"
+ },
+ {
+  "id": "b_arm",
+  "kind": "blend",
+  "text": "arm",
+  "ssml": "<prosody rate='-65%'>arm</prosody>"
+ },
+ {
+  "id": "b_art",
+  "kind": "blend",
+  "text": "art",
+  "ssml": "<prosody rate='-65%'>art</prosody>"
+ },
+ {
+  "id": "b_hard",
+  "kind": "blend",
+  "text": "hard",
+  "ssml": "<prosody rate='-65%'>hard</prosody>"
+ },
+ {
+  "id": "b_shark",
+  "kind": "blend",
+  "text": "shark",
+  "ssml": "<prosody rate='-65%'>shark</prosody>"
+ },
+ {
+  "id": "b_for",
+  "kind": "blend",
+  "text": "for",
+  "ssml": "<prosody rate='-65%'>for</prosody>"
+ },
+ {
+  "id": "b_fork",
+  "kind": "blend",
+  "text": "fork",
+  "ssml": "<prosody rate='-65%'>fork</prosody>"
+ },
+ {
+  "id": "b_corn",
+  "kind": "blend",
+  "text": "corn",
+  "ssml": "<prosody rate='-65%'>corn</prosody>"
+ },
+ {
+  "id": "b_born",
+  "kind": "blend",
+  "text": "born",
+  "ssml": "<prosody rate='-65%'>born</prosody>"
+ },
+ {
+  "id": "b_horn",
+  "kind": "blend",
+  "text": "horn",
+  "ssml": "<prosody rate='-65%'>horn</prosody>"
+ },
+ {
+  "id": "b_torn",
+  "kind": "blend",
+  "text": "torn",
+  "ssml": "<prosody rate='-65%'>torn</prosody>"
+ },
+ {
+  "id": "b_sort",
+  "kind": "blend",
+  "text": "sort",
+  "ssml": "<prosody rate='-65%'>sort</prosody>"
+ },
+ {
+  "id": "b_short",
+  "kind": "blend",
+  "text": "short",
+  "ssml": "<prosody rate='-65%'>short</prosody>"
+ },
+ {
+  "id": "b_cord",
+  "kind": "blend",
+  "text": "cord",
+  "ssml": "<prosody rate='-65%'>cord</prosody>"
+ },
+ {
+  "id": "b_storm",
+  "kind": "blend",
+  "text": "storm",
+  "ssml": "<prosody rate='-65%'>storm</prosody>"
+ },
+ {
+  "id": "b_sport",
+  "kind": "blend",
+  "text": "sport",
+  "ssml": "<prosody rate='-65%'>sport</prosody>"
+ },
+ {
+  "id": "b_fur",
+  "kind": "blend",
+  "text": "fur",
+  "ssml": "<prosody rate='-65%'>fur</prosody>"
+ },
+ {
+  "id": "b_burn",
+  "kind": "blend",
+  "text": "burn",
+  "ssml": "<prosody rate='-65%'>burn</prosody>"
+ },
+ {
+  "id": "b_turn",
+  "kind": "blend",
+  "text": "turn",
+  "ssml": "<prosody rate='-65%'>turn</prosody>"
+ },
+ {
+  "id": "b_hurt",
+  "kind": "blend",
+  "text": "hurt",
+  "ssml": "<prosody rate='-65%'>hurt</prosody>"
+ },
+ {
+  "id": "b_curl",
+  "kind": "blend",
+  "text": "curl",
+  "ssml": "<prosody rate='-65%'>curl</prosody>"
+ },
+ {
+  "id": "b_surf",
+  "kind": "blend",
+  "text": "surf",
+  "ssml": "<prosody rate='-65%'>surf</prosody>"
+ },
+ {
+  "id": "b_burp",
+  "kind": "blend",
+  "text": "burp",
+  "ssml": "<prosody rate='-65%'>burp</prosody>"
+ },
+ {
+  "id": "b_church",
+  "kind": "blend",
+  "text": "church",
+  "ssml": "<prosody rate='-65%'>church</prosody>"
+ },
+ {
+  "id": "b_cow",
+  "kind": "blend",
+  "text": "cow",
+  "ssml": "<prosody rate='-65%'>cow</prosody>"
+ },
+ {
+  "id": "b_how",
+  "kind": "blend",
+  "text": "how",
+  "ssml": "<prosody rate='-65%'>how</prosody>"
+ },
+ {
+  "id": "b_now",
+  "kind": "blend",
+  "text": "now",
+  "ssml": "<prosody rate='-65%'>now</prosody>"
+ },
+ {
+  "id": "b_down",
+  "kind": "blend",
+  "text": "down",
+  "ssml": "<prosody rate='-65%'>down</prosody>"
+ },
+ {
+  "id": "b_town",
+  "kind": "blend",
+  "text": "town",
+  "ssml": "<prosody rate='-65%'>town</prosody>"
+ },
+ {
+  "id": "b_owl",
+  "kind": "blend",
+  "text": "owl",
+  "ssml": "<prosody rate='-65%'>owl</prosody>"
+ },
+ {
+  "id": "b_howl",
+  "kind": "blend",
+  "text": "howl",
+  "ssml": "<prosody rate='-65%'>howl</prosody>"
+ },
+ {
+  "id": "b_brown",
+  "kind": "blend",
+  "text": "brown",
+  "ssml": "<prosody rate='-65%'>brown</prosody>"
+ },
+ {
+  "id": "b_clown",
+  "kind": "blend",
+  "text": "clown",
+  "ssml": "<prosody rate='-65%'>clown</prosody>"
+ },
+ {
+  "id": "b_crowd",
+  "kind": "blend",
+  "text": "crowd",
+  "ssml": "<prosody rate='-65%'>crowd</prosody>"
+ },
+ {
+  "id": "b_oil",
+  "kind": "blend",
+  "text": "oil",
+  "ssml": "<prosody rate='-65%'>oil</prosody>"
+ },
+ {
+  "id": "b_coin",
+  "kind": "blend",
+  "text": "coin",
+  "ssml": "<prosody rate='-65%'>coin</prosody>"
+ },
+ {
+  "id": "b_join",
+  "kind": "blend",
+  "text": "join",
+  "ssml": "<prosody rate='-65%'>join</prosody>"
+ },
+ {
+  "id": "b_boil",
+  "kind": "blend",
+  "text": "boil",
+  "ssml": "<prosody rate='-65%'>boil</prosody>"
+ },
+ {
+  "id": "b_soil",
+  "kind": "blend",
+  "text": "soil",
+  "ssml": "<prosody rate='-65%'>soil</prosody>"
+ },
+ {
+  "id": "b_foil",
+  "kind": "blend",
+  "text": "foil",
+  "ssml": "<prosody rate='-65%'>foil</prosody>"
+ },
+ {
+  "id": "b_coil",
+  "kind": "blend",
+  "text": "coil",
+  "ssml": "<prosody rate='-65%'>coil</prosody>"
+ },
+ {
+  "id": "b_point",
+  "kind": "blend",
+  "text": "point",
+  "ssml": "<prosody rate='-65%'>point</prosody>"
+ },
+ {
+  "id": "b_toilet",
+  "kind": "blend",
+  "text": "toilet",
+  "ssml": "<prosody rate='-65%'>toilet</prosody>"
+ },
+ {
+  "id": "b_ear",
+  "kind": "blend",
+  "text": "ear",
+  "ssml": "<prosody rate='-65%'>ear</prosody>"
+ },
+ {
+  "id": "b_hear",
+  "kind": "blend",
+  "text": "hear",
+  "ssml": "<prosody rate='-65%'>hear</prosody>"
+ },
+ {
+  "id": "b_dear",
+  "kind": "blend",
+  "text": "dear",
+  "ssml": "<prosody rate='-65%'>dear</prosody>"
+ },
+ {
+  "id": "b_near",
+  "kind": "blend",
+  "text": "near",
+  "ssml": "<prosody rate='-65%'>near</prosody>"
+ },
+ {
+  "id": "b_fear",
+  "kind": "blend",
+  "text": "fear",
+  "ssml": "<prosody rate='-65%'>fear</prosody>"
+ },
+ {
+  "id": "b_year",
+  "kind": "blend",
+  "text": "year",
+  "ssml": "<prosody rate='-65%'>year</prosody>"
+ },
+ {
+  "id": "b_tear",
+  "kind": "blend",
+  "text": "tear",
+  "ssml": "<prosody rate='-65%'>tear</prosody>"
+ },
+ {
+  "id": "b_beard",
+  "kind": "blend",
+  "text": "beard",
+  "ssml": "<prosody rate='-65%'>beard</prosody>"
+ },
+ {
+  "id": "b_hair",
+  "kind": "blend",
+  "text": "hair",
+  "ssml": "<prosody rate='-65%'>hair</prosody>"
+ },
+ {
+  "id": "b_fair",
+  "kind": "blend",
+  "text": "fair",
+  "ssml": "<prosody rate='-65%'>fair</prosody>"
+ },
+ {
+  "id": "b_pair",
+  "kind": "blend",
+  "text": "pair",
+  "ssml": "<prosody rate='-65%'>pair</prosody>"
+ },
+ {
+  "id": "b_air",
+  "kind": "blend",
+  "text": "air",
+  "ssml": "<prosody rate='-65%'>air</prosody>"
+ },
+ {
+  "id": "b_chair",
+  "kind": "blend",
+  "text": "chair",
+  "ssml": "<prosody rate='-65%'>chair</prosody>"
+ },
+ {
+  "id": "b_stairs",
+  "kind": "blend",
+  "text": "stairs",
+  "ssml": "<prosody rate='-65%'>stairs</prosody>"
+ },
+ {
+  "id": "b_hammer",
+  "kind": "blend",
+  "text": "hammer",
+  "ssml": "<prosody rate='-65%'>hammer</prosody>"
+ },
+ {
+  "id": "b_letter",
+  "kind": "blend",
+  "text": "letter",
+  "ssml": "<prosody rate='-65%'>letter</prosody>"
+ },
+ {
+  "id": "b_better",
+  "kind": "blend",
+  "text": "better",
+  "ssml": "<prosody rate='-65%'>better</prosody>"
+ },
+ {
+  "id": "b_dinner",
+  "kind": "blend",
+  "text": "dinner",
+  "ssml": "<prosody rate='-65%'>dinner</prosody>"
+ },
+ {
+  "id": "b_summer",
+  "kind": "blend",
+  "text": "summer",
+  "ssml": "<prosody rate='-65%'>summer</prosody>"
+ },
+ {
+  "id": "b_boxer",
+  "kind": "blend",
+  "text": "boxer",
+  "ssml": "<prosody rate='-65%'>boxer</prosody>"
+ },
+ {
+  "id": "b_ladder",
+  "kind": "blend",
+  "text": "ladder",
+  "ssml": "<prosody rate='-65%'>ladder</prosody>"
+ },
+ {
+  "id": "b_sister",
+  "kind": "blend",
+  "text": "sister",
+  "ssml": "<prosody rate='-65%'>sister</prosody>"
+ },
+ {
+  "id": "b_winter",
+  "kind": "blend",
+  "text": "winter",
+  "ssml": "<prosody rate='-65%'>winter</prosody>"
+ },
+ {
+  "id": "p_tap_to_start",
+  "kind": "phrase",
+  "text": "Tap to start!",
+  "ssml": "<prosody rate='-6%'>Tap to start!</prosody>"
+ },
+ {
+  "id": "p_what_sound",
+  "kind": "phrase",
+  "text": "What sound is this?",
+  "ssml": "<prosody rate='-6%'>What sound is this?</prosody>"
+ },
+ {
+  "id": "p_tap_the_sound",
+  "kind": "phrase",
+  "text": "Tap the letter that makes this sound.",
+  "ssml": "<prosody rate='-6%'>Tap the letter that makes this sound.</prosody>"
+ },
+ {
+  "id": "p_listen",
+  "kind": "phrase",
+  "text": "Listen.",
+  "ssml": "<prosody rate='-6%'>Listen.</prosody>"
+ },
+ {
+  "id": "p_listen_again",
+  "kind": "phrase",
+  "text": "Listen again.",
+  "ssml": "<prosody rate='-6%'>Listen again.</prosody>"
+ },
+ {
+  "id": "p_which_starts",
+  "kind": "phrase",
+  "text": "Which picture starts with this sound?",
+  "ssml": "<prosody rate='-6%'>Which picture starts with this sound?</prosody>"
+ },
+ {
+  "id": "p_build_word",
+  "kind": "phrase",
+  "text": "Let's build the word.",
+  "ssml": "<prosody rate='-6%'>Let&apos;s build the word.</prosody>"
+ },
+ {
+  "id": "p_tap_letters_in_order",
+  "kind": "phrase",
+  "text": "Tap the letters in order, then say it fast!",
+  "ssml": "<prosody rate='-6%'>Tap the letters in order, then say it fast!</prosody>"
+ },
+ {
+  "id": "p_say_it_fast",
+  "kind": "phrase",
+  "text": "Say it fast!",
+  "ssml": "<prosody rate='-6%'>Say it fast!</prosody>"
+ },
+ {
+  "id": "p_read_to_grownup",
+  "kind": "phrase",
+  "text": "Read this to your grown-up.",
+  "ssml": "<prosody rate='-6%'>Read this to your grown-up.</prosody>"
+ },
+ {
+  "id": "p_read_sentence",
+  "kind": "phrase",
+  "text": "Read the sentence to your grown-up.",
+  "ssml": "<prosody rate='-6%'>Read the sentence to your grown-up.</prosody>"
+ },
+ {
+  "id": "p_find_word",
+  "kind": "phrase",
+  "text": "Find the word.",
+  "ssml": "<prosody rate='-6%'>Find the word.</prosody>"
+ },
+ {
+  "id": "p_find_tricky",
+  "kind": "phrase",
+  "text": "Find the tricky word.",
+  "ssml": "<prosody rate='-6%'>Find the tricky word.</prosody>"
+ },
+ {
+  "id": "p_new_sound",
+  "kind": "phrase",
+  "text": "Here's a new sound!",
+  "ssml": "<prosody rate='-6%'>Here&apos;s a new sound!</prosody>"
+ },
+ {
+  "id": "p_say_it_with_me",
+  "kind": "phrase",
+  "text": "Say it with me.",
+  "ssml": "<prosody rate='-6%'>Say it with me.</prosody>"
+ },
+ {
+  "id": "p_yes",
+  "kind": "phrase",
+  "text": "Yes!",
+  "ssml": "<prosody rate='-6%'>Yes!</prosody>"
+ },
+ {
+  "id": "p_thats_it",
+  "kind": "phrase",
+  "text": "That's it!",
+  "ssml": "<prosody rate='-6%'>That&apos;s it!</prosody>"
+ },
+ {
+  "id": "p_great",
+  "kind": "phrase",
+  "text": "Great!",
+  "ssml": "<prosody rate='-6%'>Great!</prosody>"
+ },
+ {
+  "id": "p_brilliant",
+  "kind": "phrase",
+  "text": "Brilliant!",
+  "ssml": "<prosody rate='-6%'>Brilliant!</prosody>"
+ },
+ {
+  "id": "p_nice_reading",
+  "kind": "phrase",
+  "text": "Nice reading!",
+  "ssml": "<prosody rate='-6%'>Nice reading!</prosody>"
+ },
+ {
+  "id": "p_you_did_it",
+  "kind": "phrase",
+  "text": "You did it!",
+  "ssml": "<prosody rate='-6%'>You did it!</prosody>"
+ },
+ {
+  "id": "p_lets_try_together",
+  "kind": "phrase",
+  "text": "Let's try it together.",
+  "ssml": "<prosody rate='-6%'>Let&apos;s try it together.</prosody>"
+ },
+ {
+  "id": "p_my_turn",
+  "kind": "phrase",
+  "text": "My turn.",
+  "ssml": "<prosody rate='-6%'>My turn.</prosody>"
+ },
+ {
+  "id": "p_your_turn",
+  "kind": "phrase",
+  "text": "Your turn.",
+  "ssml": "<prosody rate='-6%'>Your turn.</prosody>"
+ },
+ {
+  "id": "p_this_one",
+  "kind": "phrase",
+  "text": "This one.",
+  "ssml": "<prosody rate='-6%'>This one.</prosody>"
+ },
+ {
+  "id": "p_all_done",
+  "kind": "phrase",
+  "text": "All done! Great reading today!",
+  "ssml": "<prosody rate='-6%'>All done! Great reading today!</prosody>"
+ },
+ {
+  "id": "p_new_thing",
+  "kind": "phrase",
+  "text": "You found something new for your monster!",
+  "ssml": "<prosody rate='-6%'>You found something new for your monster!</prosody>"
+ },
+ {
+  "id": "p_heart_word",
+  "kind": "phrase",
+  "text": "This is a heart word. The heart part we just have to remember.",
+  "ssml": "<prosody rate='-6%'>This is a heart word. The heart part we just have to remember.</prosody>"
+ },
+ {
+  "id": "p_the_word_is",
+  "kind": "phrase",
+  "text": "The word is",
+  "ssml": "<prosody rate='-6%'>The word is</prosody>"
+ },
+ {
+  "id": "p_spell_it",
+  "kind": "phrase",
+  "text": "Can you spell",
+  "ssml": "<prosody rate='-6%'>Can you spell</prosody>"
+ },
+ {
+  "id": "p_one_more",
+  "kind": "phrase",
+  "text": "One more!",
+  "ssml": "<prosody rate='-6%'>One more!</prosody>"
+ },
+ {
+  "id": "p_lets_go",
+  "kind": "phrase",
+  "text": "Let's go!",
+  "ssml": "<prosody rate='-6%'>Let&apos;s go!</prosody>"
+ },
+ {
+  "id": "p_hello",
+  "kind": "phrase",
+  "text": "Hello! Ready to play?",
+  "ssml": "<prosody rate='-6%'>Hello! Ready to play?</prosody>"
+ }
+]
